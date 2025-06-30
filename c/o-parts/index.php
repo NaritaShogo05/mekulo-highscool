@@ -126,8 +126,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 </div>
 	<h3>取材担当者からのポイント！</h3>
 	<figure class="portrait" style="width: 20%;">
-		<img src=<?= $highschool_base . WRITER['sato']['image'] //担当者名をここに記入?> alt="">
-		<figcaption><span class="name"><?= WRITER['sato']['name']//担当者名をここに記入 ?></span></figcaption>
+		<img src=<?= $highschool_base . WRITER['noguchi']['image'] //担当者名をここに記入?> alt="">
+		<figcaption><span class="name"><?= WRITER['noguchi']['name']//担当者名をここに記入 ?></span></figcaption>
 	</figure>
 	<p style="min-height: 160px;">
 		世の中には、「とにかく決められた通りに作るだけ」の会社もあります。<br>
