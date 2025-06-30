@@ -772,5 +772,6 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 <script src="../../tab.js"></script>
 <script src="../../page_nav.js"></script>
 <script src="<?= $highschool_base ?>lightbox.js"></script>
+<script src="<?= $highschool_base ?>animation.js"></script>
 <?php //include $base . '../footer.php'; ?>
 </body>

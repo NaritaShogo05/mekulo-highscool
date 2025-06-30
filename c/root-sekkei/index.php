@@ -374,7 +374,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<div>
 			<dt>本社所在地</dt>
 			<dd>〒<?= $co['post_code']?><br><?= $co['address']?><br>
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3217.3819080239614!2d138.46759807650105!3d36.254505972407784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601dcb5aeb822259%3A0xbdfb0d798128c345!2z5YaF6Jek5bel5qWt5omA!5e0!3m2!1sja!2sjp!4v1738231241938!5m2!1sja!2sjp" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3212.9661417819393!2d138.233056!3d36.361599!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601da3565e35beab%3A0x58023ab3a0a3db9!2z44Or44O844OI6Kit6KiI!5e0!3m2!1sja!2sjp!4v1751283019731!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 			</dd>
 		</div>
 		<div>

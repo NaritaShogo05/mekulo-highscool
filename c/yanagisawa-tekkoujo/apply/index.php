@@ -71,16 +71,22 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	</div>
 </div>
 <section id="content" class="content">
-	<p class="catchcopy"><span></span></p>
+	<p class="catchcopy"><span>建物の“骨組み”ができる瞬間を見てみよう！</span></p>
 	<p class="cont">
-		
+		柳澤鐵工所の応募前見学では、鉄骨ができあがっていく一連の工程を間近で見ることができます。<br>
+		小さなパーツが加工や溶接によって少しずつ形を変え、自分の背よりも大きな鉄骨になっていく――そんなダイナミックな変化を、目の前で体感してみてください。<br>
+		火花を散らしながら溶接している様子や、正確に穴を開けている作業風景など、普段はなかなか見ることのできない“現場のリアル”がここにあります。<br>
+		見学を通して、入社後のイメージを膨らませてください。
 	</p>
 	<div class="opendate">
 		<p>開催日時</p>
 		<ul>
-			<li></li>
+			<li>2025年8月4日（金）10時00分～</li>
+			<li>2025年8月9日（水）10時00分～</li>
+			<li>その他の日程も、お気軽にお問い合わせください。</li>
 		</ul>
 	</div>
+	<!--
 	<div class="flow">
 		<p>見学の流れ</p>
 		<ul>
@@ -88,6 +94,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<li><span>分</span></li>
 		</ul>
 	</div>
+	-->
 	<a href="../../../entry?company=<?= $co['slug'] ?>" class="entry-btn">
 		<img src="../../../flag.png" class="flag">
 		<span>応募する</span>

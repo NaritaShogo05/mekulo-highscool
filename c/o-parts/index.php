@@ -482,7 +482,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<li>
 			<a href="<?= $company_base ?>job_seizou/">
 				<figure>
-					<img src=".jpg" alt="">
+					<img src="job_seizou/work1.jpg" alt="">
 					<figcaption>総合製造スタッフ</figcaption>
 				</figure>
 			</a>
