@@ -33,7 +33,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 <html lang="ja">
 <head>
 <meta charset="utf-8">
-<?php //include $base . '../tracking.php'; ?>
+<?php include $base . '../tracking.php'; ?>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="<?= $highschool_base ?>highschool.css?v=2">
 <link rel="icon" href="<?= $base ?>mekulo-works-mark.png">
@@ -156,9 +156,9 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	</h3>
 	<p>
 		カチオン電着塗装<br>
-		金具に部品を取り付ける、根気が必要な仕事です。電気の力を使って、部品に塗料を均一に塗る方法です。複雑な形状の部品にもキレイに塗装できるのが特徴です。<br>
+		治具に部品を取り付ける、根気が必要な仕事です。電気の力を使って、部品に塗料を均一に塗る方法です。複雑な形状の部品にもキレイに塗装できるのが特徴です。<br>
 		ジオメット処理<br>
-		重い部品を運んだり、機械を操作したりするので、体力が必要な仕事です。特殊な処理液に部品を浸して、金属の薄い膜を作る方法です。サビに強く、耐久性の高い部品を作ることができます。
+		重い部品を運んだり、機械を操作したりするので、体力が必要な仕事です。特殊な塗料に部品を浸して、焼き付けする塗装方法です。サビに強く、耐久性の高い部品を作ることができます。
 	</p>
 	<div class="images">
 		<img src="../fourth.jpg" alt="" class="scene">
@@ -553,7 +553,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 </main>
 <?php include $highschool_base . 'tmpl_navi.php' ?>
 </div>
-<?php //include $base . '../footer.php' ?>
+<?php include $base . '../footer.php' ?>
 <script src="<?= $highschool_base ?>animation.js"></script>
 <script src="<?= $highschool_base ?>lightbox.js"></script>
 <script src="<?= $highschool_base ?>NRGallery.js"></script>

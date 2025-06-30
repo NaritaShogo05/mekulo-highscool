@@ -19,7 +19,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 <html lang="ja">
 <head>
 <meta charset="utf-8">
-<?php //include $base . '../tracking.php'; ?>
+<?php include $base . '../tracking.php'; ?>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="<?= $highschool_base ?>highschool.css?v=2">
 <link rel="icon" href="<?= $base ?>mekulo-works-mark.png">
@@ -185,7 +185,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<hgroup>
 					<h3>お部屋</h3>
 					<p>
-						入居者さんが過ごすお部屋です。一人一部屋で、みなさん思い思いの部屋作りを行っています。
+						入居者さんが過ごすお部屋です。1人一部屋で、みなさん思い思いの部屋作りを行っています。
 					</p>
 				</hgroup>
 			</div>
@@ -199,7 +199,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<hgroup>
 					<h3>トイレ</h3>
 					<p>
-						入居者さんが立ち上がりやすいように、LL字型の手すりと跳ね上げ式の手すりを設置しています。
+						入居者さんが立ち上がりやすいように、L字型の手すりと跳ね上げ式の手すりを設置しています。
 					</p>
 				</hgroup>
 			</div>
@@ -440,5 +440,5 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 <script src="../../tab.js"></script>
 <script src="../../page_nav.js"></script>
 <script src="<?= $highschool_base ?>lightbox.js"></script>
-<?php //include $base . '../footer.php'; ?>
+<?php include $base . '../footer.php' ?>
 </body>

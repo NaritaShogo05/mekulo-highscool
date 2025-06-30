@@ -37,7 +37,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 <html lang="ja">
 <head>
 <meta charset="utf-8">
-<?php //include $base . '../tracking.php'; ?>
+<?php include $base . '../tracking.php'; ?>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="<?= $highschool_base ?>highschool.css?v=2">
 <link rel="icon" href="<?= $base ?>mekulo-works-mark.png">
@@ -130,20 +130,20 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	<h2>仕事内容</h2>
 	<p>
 		コーティング処理は、金属製品の表面に硬い膜を作ります。金属表面のすり減りにくさ、滑りやすさを高め、金属製品の寿命を延ばす処理です。<br>
-		このコーティング処理は、科学実験の電気分解をイメージしてもらえると、わかりやすいかもしれません。金属をイオン化させて部品の表面を覆っていきます。
+		このコーティング処理は、化学実験の電気分解をイメージしてもらえると、わかりやすいかもしれません。金属をイオン化させて部品の表面を覆っていきます。
 	</p>
 	<h3>コーティングとは</h3>
 	<p>
 		コーティング処理は、他のどの部署とも性格の違う加工をしています。扱うもの比較的小さいことも特徴的です。<br>
-		反対にやはり松山技研というところもあります。部品を処理するときの設備の中の温度は800度ほどになります。やはり熱とは切っても切れない関係にある松山技研です。
+		反対にやはり松山技研というところもあります。部品を処理するときの設備の中の温度は500度ほどになります。やはり熱とは切っても切れない関係にある松山技研です。
 	</p>
 	<div class="images">
 		<img src="work1.jpg" alt="" class="scene">
 	</div>
 	<h3>加工の準備</h3>
 	<p>
-		はじめに金属製品に付着している油分や酸化層を除去取り除することから始めきます。この処理はどの加工でも行いますが、コーティングは小さいものを扱うことが多く、手作業になることもあります。<br>
-		松山技研の行っている金属加工処理の中で、唯一マスキングという前処理があります。コーティングしない部分をテープで覆う作業です。前処理が終わった部品を金具に取り付けて準備完了です。細かい作業が多いこともコーティング処理の特徴です。
+		はじめに金属製品に付着している油分や酸化層を除去することから始めきます。この処理はどの加工でも行いますが、コーティングは小さいものを扱うことが多く、手作業になることもあります。<br>
+		松山技研の行っている金属加工処理の中で、唯一マスキングという前処理があります。コーティングしない部分を金属箔で覆う作業です。前処理が終わった部品を金具に取り付けて準備完了です。細かい作業が多いこともコーティング処理の特徴です。
 	</p>
 	<div class="images">
 		<img src="work2.jpg" alt="" class="scene">
@@ -556,7 +556,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	</main>
 <?php include $highschool_base . 'tmpl_navi.php' ?>
 </div>
-<?php //include $base . '../footer.php' ?>
+<?php include $base . '../footer.php' ?>
 <script src="<?= $highschool_base ?>animation.js"></script>
 <script src="<?= $highschool_base ?>lightbox.js"></script>
 <script src="<?= $highschool_base ?>NRGallery.js"></script>

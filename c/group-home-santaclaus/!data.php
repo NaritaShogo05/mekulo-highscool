@@ -2,7 +2,7 @@
 $co = [
     'slug' => 'group-home-santaclaus',
     'image' => 'office.jpg',
-    'company_name' => '株式会社あさまかい グループホームサンタクロース',
+    'company_name' => '株式会社あさまかい<br>グループホーム サンタクロース',
     'catch_copy' => '認知症の高齢者の、『第二の家』を支える',
     'industry' => ['P'],
     'post_code' => '389-0603',

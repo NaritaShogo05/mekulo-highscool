@@ -158,5 +158,5 @@ foreach ($highschool as $job) {
 	</ul>
 </section>
 </main>
-<?php include $base . '../footer.php'; ?>
+<?php include $base . '../footer.php' ?>
 </body>

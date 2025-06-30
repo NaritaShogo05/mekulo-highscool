@@ -33,7 +33,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 <html lang="ja">
 <head>
 <meta charset="utf-8">
-<?php //include $base . '../tracking.php'; ?>
+<?php include $base . '../tracking.php'; ?>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="<?= $highschool_base ?>highschool.css?v=2">
 <link rel="icon" href="<?= $base ?>mekulo-works-mark.png">
@@ -134,7 +134,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	</p>
 	<h3>熱処理加工の準備</h3>
 	<p>
-		一度に大量の部品を熱処理します。そのために専用のカゴに並べ ます。部品にはいろいろな硬いがあるので、それぞれ並べ方が違います。そこまでが人の仕事であとは、機械に時間を設定すると、自動的に炉に入れられて冷却まで行われます。
+		一度に大量の部品を熱処理します。そのために専用のカゴに並べ ます。部品にはいろいろな硬さがあるので、それぞれ並べ方が違います。そこまでが人の仕事であとは、機械に時間を設定すると、自動的に炉に入れられて冷却まで行われます。
 	</p>
 	<div class="images">
 		<img src="work1.jpg" alt="" class="scene">
@@ -148,8 +148,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	</div>
 	<h3>まずは現場で部品製造に携わり、基礎を学ぶ</h3>
 	<p>
-		入社して最初の2～3年間は、部品製造に携わりながら、加工の仕組みや図面の見方、機械の操作方法、道具の使い方を学びます。<br>
-		機械にも、穴を開けたり、削ったりなどの加工用途ごとに様々な種類があります。それぞれを実際に使いながら、現場で技術を習得していきます。
+		入社して最初の2～3年間は、部品製造に携わりながら、加工の仕組みや図面の見方、機械の操作方法、道具の使い方を学びます。
 	</p>
 	<h3>高周波焼入れ</h3>
 	<p>
@@ -562,7 +561,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 </main>
 <?php include $highschool_base . 'tmpl_navi.php' ?>
 </div>
-<?php //include $base . '../footer.php' ?>
+<?php include $base . '../footer.php' ?>
 <script src="<?= $highschool_base ?>animation.js"></script>
 <script src="<?= $highschool_base ?>lightbox.js"></script>
 <script src="<?= $highschool_base ?>NRGallery.js"></script>
