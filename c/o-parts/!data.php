@@ -12,8 +12,8 @@ $co = [
     'latitude' => 36.4117201,//緯度
     'longitude' => 138.2758269,//経度
     'human' => [
-        'image' => 'sato.png',
-        'name' => '佐藤',
+        'image' => 'noguchi.png',
+        'name' => '野口',
     ]
 ];
 

@@ -124,7 +124,6 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
     <?php endforeach; ?>
 </div>
 	<h3>取材担当者からのポイント！</h3>
-	<h4 class="point"></h4>
 	<figure class="portrait">
 		<img src=<?= $highschool_base . WRITER['shomura']['image'] //担当者名をここに記入?> alt="">
 		<figcaption><span class="name"><?= WRITER['shomura']['name']//担当者名をここに記入 ?></span></figcaption>
@@ -145,7 +144,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	    長野レジンには、上田市室賀の 本社工場と塩田工場の二つの工場があります。どちらもプラスチック製品を作っていますが、主に働いていただく場所は本社工場です。
 	</p>
 	<div class="images">
-		<img src="factory.jpg" class="scene" alt="">
+		<img src="office.jpg" class="scene" alt="">
 	</div>
 	<p>
 	    本社工場は、山あいの室賀温泉「ささらの湯」のすぐ近くです。夜勤明けに温泉で疲れを流して帰る、なんていう、大人の楽しみ方もできます！<br>
@@ -234,11 +233,6 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 <section class="content" id="numeric_data">
 	<h2>数字で見る当社</h2>
 	<p class="remark">（2025年1月1日現在）</p>
-	<div class="large">
-		<p>売上高</p>
-		<p class="num"><span></span>億円</p>
-		<p class="year">※2024年実績</p>
-	</div>
 	<ul class="gr_con">
 		<li class="small">
 			<p>平均年齢</p>
@@ -246,15 +240,15 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		</li>
 		<li class="small">
 			<p>平均勤続年数</p>
-			<p class="num"><span></span>年</p>
+			<p class="num"><span>10</span>年</p>
 		</li>
 		<li class="small">
 			<p>平均残業時間</p>
-			<p class="num"><span></span>時間</p>
+			<p class="num"><span>1</span>時間</p>
 		</li>
 		<li class="small">
 			<p>年間休日</p>
-			<p class="num"><span></span>日</p>
+			<p class="num"><span>110</span>日</p>
 			<p class="at">※2025年計画</p>
 		</li>
 		<li class="small">
@@ -263,7 +257,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		</li>
 		<li class="small">
 			<p>平均有給取得日数</p>
-			<p class="num"><span></span>日</p>
+			<p class="num"><span>1.5</span>日</p>
 		</li>
 	</ul>
 	<ul class="fl_con">

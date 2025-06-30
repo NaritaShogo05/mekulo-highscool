@@ -249,7 +249,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>アクセス</dt>
-					<dd>上田丸子線　上長瀬駅から徒歩15分</dd>
+					<dd>しなの鉄道　大屋駅から車で15分</dd>
 				</div>
 				<div>
 					<dt>受動喫煙対策</dt>
