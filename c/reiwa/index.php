@@ -115,19 +115,6 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<img src="fourth.jpg" alt="" class="fo">
 		</div>
 	</div>
-	<h3>募集職種</h3>
-<div class="job_btn">
-    <?php foreach ($occupation as $job): ?>
-        <li>
-            <a href="<?= $company_base . $job['url'] ?>/">
-                <p class="job_name"><?= $job['name'] ?></p>
-            </a>
-            <div class="arrow">
-                <img src="<?= $highschool_base ?>polygon.png" alt="">
-            </div>
-        </li>
-    <?php endforeach; ?>
-</div>
 	<h3>取材担当者からのポイント！</h3>
 	<figure class="portrait">
 		<img src=<?= $highschool_base . WRITER['ichikawa']['image'] //担当者名をここに記入?> alt="">
@@ -291,8 +278,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<p>男女比</p>
 				<svg width="150" height="150" viewBox="0 0 200 200">
 					<?php create_donut_graph(100, 100, 100, 40, [
-						[ 'value' => 8, 'caption' => '男性：8名', 'color' => '#0062B5'],
-						[ 'value' => 1, 'caption' => '女性：1名', 'color' => '#FF6E7E'],
+						[ 'value' => 8, 'caption' => '男性', 'color' => '#0062B5'],
+						[ 'value' => 1, 'caption' => '女性', 'color' => '#FF6E7E'],
 					]); ?>
 				</svg>
 			</div>
@@ -306,7 +293,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 					[ 'value' => 3, 'caption' => '20代', 'color' => '#0073B7'],
 					[ 'value' => 1, 'caption' => '30代', 'color' => '#00AEEF'],
 					[ 'value' => 4, 'caption' => '40代', 'color' => '#00B398'],
-					[ 'value' => 0.001, 'caption' => '50代', 'color' => '#009F6B'],
+					[ 'value' => 0.001, 'caption' => '', 'color' => '#009F6B'],
 					[ 'value' => 1, 'caption' => '60代', 'color' => '#008C4A'],
 				]); ?>
 			</svg>
@@ -317,7 +304,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<svg width="150" height="150" viewBox="0 0 200 200">
 					<?php create_donut_graph(100, 100, 100, 40, [
 						[ 'value' => 70, 'caption' => "車・バイク", 'color' => '#E06A3A'],
-						[ 'value' => 0.0001, 'caption' => "電車・バス", 'color' => '#F29C50'],
+						[ 'value' => 0.0001, 'caption' => "", 'color' => '#F29C50'],
 						[ 'value' => 10, 'caption' => "徒歩", 'color' => '#C74227'],
 						[ 'value' => 20, 'caption' => '自転車', 'color' => '#F29C50'],
 					]); ?>

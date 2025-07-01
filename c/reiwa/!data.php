@@ -17,19 +17,6 @@ $co = [
     ]
 ];
 
-// 募集職種
-$occupation = [
-    'job_genba' => [
-        'name' => '足場とび',
-        'url' => 'job_kensetsu',
-        'catch_copy' => '電気を「ためて、使う」、新しいインフラを創造するチーム',
-        'work' => ['281'],
-        'image' => 'firstview.jpg',
-        'latitude' => 36.43306103,//緯度
-        'longitude' => 138.29903425,//経度
-        'MBTI' =>  '',
-    ],
-];
 
 // 応募前見学
 $visit = [
