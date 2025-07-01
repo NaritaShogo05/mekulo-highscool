@@ -83,7 +83,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 <div class="content_area">
 	<main>
 	<div class="fv_area">
-    <img alt="" class="fv_image" src="fv.jpg">
+    <img alt="" class="fv_image" src="../contents06.jpg">
     <hgroup>
         <h1 class="catch"><?= $catch_copy ?></h1>
         <p class="fv-tag"><?= $name ?></p>
@@ -131,13 +131,13 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		木造建築の骨組みや床・壁など、目に見える部分の多くが大工の手仕事なんです。
 	</p>
 	<div class="images">
-		<img src="../introduce3.jpg" alt="" class="scene">
+		<img src="" alt="" class="scene">
 	</div>
 	<p>
 		のこぎりやカンナ、釘打ち機などの工具を使いながら、0.1ミリの誤差も許さず材料を調整していく。そんな現場の作業は、図面を現実に変える正確なものづくりです。
 	</p>
 	<div class="images">
-		<img src="../introduce3.jpg" alt="" class="scene">
+		<img src="" alt="" class="scene">
 	</div>
 	<p>
 		東信地域の住宅や店舗、公共施設など、手がける建物はさまざま。どの建物もオーダーメイドで、同じ現場はひとつもありません。<br>
@@ -150,7 +150,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		入社後はまず、道具に慣れることから始めます。会社の中でベンチや棚を作り、実際に手を動かしながら基本を学んでいきます。
 	</p>
 	<div class="images">
-		<img src="../introduce3.jpg" alt="" class="scene">
+		<img src="" alt="" class="scene">
 	</div>
 	<p>
 		現場に出たら先輩と一緒に、ベニヤ板を切ったり、材料を寸法通りにそろえたり。最初は助手のような作業から始め、説明を聞きながら作業を進めます。
@@ -165,7 +165,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		木の手触り、切る音、ぴったりはまったときの気持ちよさ――DIYが好きな人なら、きっとわかるはずです。その先にあるのが、大工という仕事です。
 	</p>
 	<div class="images">
-		<img src="../introduce3.jpg" alt="" class="scene">
+		<img src="../daiku.jpg" alt="" class="scene">
 	</div>
 </section>
 <section class="g">
@@ -174,22 +174,22 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<div class="image_area">
 			<ul class="slides">
 				<li>
-					<img src="work2.jpg" alt="">
+					<img src="" alt="">
 				</li>
 				<li>
-					<img src="../fourth.jpg" alt="">
+					<img src="" alt="">
 				</li>
 				<li>
-					<img src="gallery3.jpg" alt="">
+					<img src="" alt="">
 				</li>
 				<li>
-					<img src="gallery4.jpg" alt="">
+					<img src="" alt="">
 				</li>
 				<li>
-					<img src="gallery5.jpg" alt="">
+					<img src="" alt="">
 				</li>
 				<li>
-					<img src="work4.jpg" alt="">
+					<img src="" alt="">
 				</li>
 			</ul>
 			<div class="button left_btn">&lt;</div>

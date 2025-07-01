@@ -131,14 +131,14 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		「施工管理」の主な仕事は、工事現場での工事が安全かつスムーズに進むように計画を立て、職人さんや作業内容をまとめることです。
 	</p>
 	<div class="images">
-		<img src="work1.jpg" alt="" class="scene">
+		<img src="../pc.jpg" alt="" class="scene">
 	</div>
 	<p>
 		担当するのは、東信地域の別荘や店舗、市役所や保育園などの公共施設。ひとつひとつの建物がオーダーメイドで、マニュアル通りにいかないからこそ、細かい管理と調整が求められます。<br>
 		工程、品質、コスト、安全──管理することはたくさんありますが、すべては「計画通り」に完成させるための大切な準備。現場の流れを整える“まとめ役”として、責任ある立場で現場を支えていく仕事です。
 	</p>
 	<div class="images">
-		<img src="work1.jpg" alt="" class="scene">
+		<img src="../sekou.jpg" alt="" class="scene">
 	</div>
 	<h3>
 		繰り返しの中で、段取りの精度を磨く
@@ -148,8 +148,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		足りない材料を現場に届けに行っただけのつもりが、職人さんから「ここはこれで合ってる？」と聞かれて焦ることも。でも、そんな経験が、現場を見る力につながっていきます。
 	</p>
 	<div class="images">
-		<img src="../second.jpg" alt="" class="scene">
-		<img src="work4.jpg" alt="" class="scene">
+		<img src="../first.jpg" alt="" class="scene">
 	</div>
 	<p>
 		現場では建築工事だけでなく、電気屋さんの配線や水道屋さんの配管工事、材料の納品スケジュールなど、多くの要素が複雑に絡み合います。それらを調整し、計画通りに現場が動くように調整するのが、施工管理の一番大切な仕事。「段取り八分、仕事二分」という言葉があるくらい、段取りがうまくいけば、現場もスムーズに動いていきます。
@@ -165,8 +164,6 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		「計画通り」がなによりうれしい――そんなあなたを待っています。
 	</p>
 	<div class="images">
-		<img src="work5.jpg" alt="" class="scene">
-		<img src="work6.jpg" alt="" class="scene">
 	</div>
 </section>
 <section class="g">
@@ -175,19 +172,19 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<div class="image_area">
 			<ul class="slides">
 			<li>
-		<img src="../second.jpg" alt="">
+		<img src="" alt="">
 	</li>
 	<li>
-		<img src="work1.jpg" alt="">
+		<img src="" alt="">
 	</li>
 	<li>
-		<img src="work4.jpg" alt="">
+		<img src="" alt="">
 	</li>
 	<li>
-		<img src="work5.jpg" alt="">
+		<img src="" alt="">
 	</li>
 	<li>
-		<img src="work6.jpg" alt="">
+		<img src="" alt="">
 	</li>
 		</ul>
 		<div class="button left_btn">&lt;</div>

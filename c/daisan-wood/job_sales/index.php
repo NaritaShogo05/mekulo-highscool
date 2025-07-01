@@ -83,7 +83,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 <div class="content_area">
 	<main>
 	<div class="fv_area">
-    <img alt="" class="fv_image" src="../second.jpg">
+    <img alt="" class="fv_image" src="../eigyo.jpg">
     <hgroup>
         <h1 class="catch"><?= $catch_copy ?></h1>
         <p class="fv-tag"><?= $name ?></p>
@@ -132,14 +132,14 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		そんな相談に、ひとつずつ向き合っています。
 	</p>
 	<div class="images">
-		<img src="work1.jpg" alt="" class="scene">
+		<img src="../pc.jpg" alt="" class="scene">
 	</div>
 	<p>
 		主な作業内容は、PCでの見積もり作成。電話やメールで届いた図面をもとに、木材の種類や数、職人さんの人数などを考えていきます。<br>
 		現場に行って作業の進み具合を確認したり、職人さんが困っていることはないか聞いたりするのも大切な仕事です。
 	</p>
 	<div class="images">
-		<img src="work1.jpg" alt="" class="scene">
+		<img src="../first.jpg" alt="" class="scene">
 	</div>
 	<p>
 		お客様は、もともとお付き合いのある会社がほとんど。いわゆる“飛び込み営業”や“ノルマ”のようなものはありません。<br>
@@ -153,8 +153,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		ある社員は、完成した小学校の見学会で喜んでいる子どもたちを見て、とても嬉しかったと話してくれました。
 	</p>
 	<div class="images">
-		<img src="../second.jpg" alt="" class="scene">
-		<img src="work4.jpg" alt="" class="scene">
+		<img src="../top4.jpg" alt="" class="scene">
+		<img src="../top5.jpg" alt="" class="scene">
 	</div>
 	<p>
 		街を歩くと自分が関わった建物が目に入り、誇りを持てる仕事です。
@@ -168,8 +168,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		また、社会人としての基本を学べる外部のビジネスマナー研修もあるので、初めて社会に出る高校生も安心です。
 	</p>
 	<div class="images">
-		<img src="work5.jpg" alt="" class="scene">
-		<img src="work6.jpg" alt="" class="scene">
+		<img src="third.jpg" alt="" class="scene">
 	</div>
 	<p>
 		営業に配属されたら、まずは先輩の業務を手伝いながら、見積もりの作り方やお客様とのやりとりを学んでいきます。2～3年ほどで担当を引き継ぎ、1人で10社ほど担当できるようになるのが、一人前の目安です。<br>
@@ -184,7 +183,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		初めてのことばかりで不安もあると思いますが、“優しくておせっかい”な先輩たちがしっかりサポートしてくれます。安心して飛び込んできてください！
 	</p>
 	<div class="images">
-		<img src="../second.jpg" alt="" class="scene">
+		<img src="" alt="" class="scene">
 	</div>
 </section>
 <section class="g">
@@ -193,19 +192,19 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<div class="image_area">
 			<ul class="slides">
 			<li>
-		<img src="../second.jpg" alt="">
+		<img src="" alt="">
 	</li>
 	<li>
-		<img src="work1.jpg" alt="">
+		<img src="" alt="">
 	</li>
 	<li>
-		<img src="work4.jpg" alt="">
+		<img src="" alt="">
 	</li>
 	<li>
-		<img src="work5.jpg" alt="">
+		<img src="" alt="">
 	</li>
 	<li>
-		<img src="work6.jpg" alt="">
+		<img src="" alt="">
 	</li>
 		</ul>
 		<div class="button left_btn">&lt;</div>

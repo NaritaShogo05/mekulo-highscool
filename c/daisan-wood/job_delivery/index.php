@@ -83,7 +83,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 <div class="content_area">
 	<main>
 	<div class="fv_area">
-    <img alt="" class="fv_image" src="../introduce2.jpg">
+    <img alt="" class="fv_image" src="../contents08.jpg">
     <hgroup>
         <h1 class="catch"><?= $catch_copy ?></h1>
         <p class="fv-tag"><?= $name ?></p>
@@ -131,7 +131,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		トラックを運転し、現場で資材を降ろす。トラックドライバーではなく、“届ける”ことに特化した仕事です。
 	</p>
 	<div class="images">
-		<img src="work1.jpg" alt="" class="scene">
+		<img src="../fourth.jpg" alt="" class="scene">
+		<img src="../top3.jpg" alt="" class="scene">
 	</div>
 	<p>
 		1日に2～3件の現場と会社を往復。現場に着いたら、「ここ通っていいですか？」「この脚立ちょっと動かしてもいいですか？」と作業中の職人さんたちに声をかけながら、最適な場所に資材を運びます。<br>
@@ -146,7 +147,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		たとえば、まだ完成していない建物に土足で上がると大問題！通っていい場所、置いていい場所、職人さんに話しかけるタイミング――現場を理解することが何より大切です。
 	</p>
 	<div class="images">
-		<img src="work1.jpg" alt="" class="scene">
+		<img src="" alt="" class="scene">
 	</div>
 	<p>
 		3か月ほどで、1人で現場へ向かいます。最初は緊張するかもしれませんが、困ったことがあればすぐに先輩が駆けつけてくれる体制があるので安心してください。<br>
@@ -161,7 +162,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		現場の空気を読みながら、適切なタイミング・適切な場所に資材を届ける。その積み重ねが、現場全体の流れを支えていくことに繋がります。
 	</p>
 	<div class="images">
-		<img src="work1.jpg" alt="" class="scene">
+		<img src="../contents07.jpg" alt="" class="scene">
 	</div>
 	<p>
 		また、前回届けた資材が柱として立っている、なんてこともよくあります。自分が運んだ資材で、建物が完成していく様子を見られるのも、この仕事の魅力かもしれません。
@@ -173,22 +174,22 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<div class="image_area">
 			<ul class="slides">
 				<li>
-					<img src="../introduce2.jpg" alt="">
+					<img src="" alt="">
 				</li>
 				<li>
-					<img src="../first.jpg" alt="">
+					<img src="" alt="">
 				</li>
 				<li>
-					<img src="../third.jpg" alt="">
+					<img src="" alt="">
 				</li>
 				<li>
-					<img src="work1.jpg" alt="">
+					<img src="" alt="">
 				</li>
 				<li>
-					<img src="work4.jpg" alt="">
+					<img src="" alt="">
 				</li>
 				<li>
-					<img src="work3.jpg" alt="">
+					<img src="" alt="">
 				</li>
 			</ul>
 			<div class="button left_btn">&lt;</div>
