@@ -281,7 +281,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>マイカー通勤</dt>
-					<dd>可</dd>
+					<dd>有</dd>
 				</div>
 				<div>
 					<dt>転勤の可能性</dt>
@@ -300,7 +300,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>月平均労働日数</dt>
-					<dd>21.6日</dd>
+					<dd>22日</dd>
 				</div>
 				<div>
 					<dt>毎月の賃金</dt>
@@ -308,7 +308,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>基本給</dt>
-					<dd>162,000円～</dd>
+					<dd>180,000円～</dd>
 				</div>
 				<div>
 					<dt>定期的に支払われる手当①</dt>
@@ -324,11 +324,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>初任給</dt>
-					<dd>162,000円</dd>
+					<dd>180,000円</dd>
 				</div>
 				<div>
 					<dt>特別に支払われる手当①</dt>
-					<dd>-</dd>
+					<dd>交通費</dd>
 				</div>
 				<div>
 					<dt>特別に支払われる手当②</dt>
@@ -336,7 +336,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>賃金締切日</dt>
-					<dd>毎月月末</dd>
+					<dd>毎月末日</dd>
 				</div>
 				<div>
 					<dt>通勤手当</dt>
@@ -394,7 +394,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>再雇用制度</dt>
-					<dd>あり（上限65歳まで）</dd>
+					<dd>有</dd>
 				</div>
 				<div>
 					<dt>勤務延長</dt>
@@ -411,19 +411,19 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>直近3年間の新卒者等採用者数</dt>
-					<dd>前年度:0人、2年度前：0人、3年度前：0人</dd>
+					<dd>前年度:0人、2年度前：0人、3年度前：4人</dd>
 				</div>
 				<div>
 					<dt>直近3年間の新卒者等離職者数</dt>
-					<dd>前年度:人、2年度前：人、3年度前：人</dd>
+					<dd>前年度:0人、2年度前：1人、3年度前：0人</dd>
 				</div>
 				<div>
 					<dt>男性の新卒者等採用数</dt>
-					<dd>前年度:人、2年度前：0人、3年度前：0人</dd>
+					<dd>前年度:0人、2年度前：0人、3年度前：2人</dd>
 				</div>
 				<div>
 					<dt>女性の新卒者等採用数</dt>
-					<dd>前年度:人、2年度前：0人、3年度前：0人</dd>
+					<dd>前年度:0人、2年度前：0人、3年度前：2人</dd>
 				</div>
 				<div>
 					<dt>平均継続勤務年数</dt>

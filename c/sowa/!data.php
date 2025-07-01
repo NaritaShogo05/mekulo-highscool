@@ -9,8 +9,8 @@ $co = [
     'address' => '長野県東御市和７９２８',
     'homepage' => 'https://sowac.co.jp/',
     'logo_filename' => 'logo.gif',
-    'latitude' => 36.3834683,//緯度
-    'longitude' => 138.3276166,//経度
+    'latitude' => 36.38335357,//緯度
+    'longitude' => 138.32743375,//経度
     'human' => [
         'image' => 'shomura.png',
         'name' => '正村 欣生',
@@ -25,8 +25,8 @@ $occupation = [
         'catch_copy' => 'つくってるのは材料。でも、支えてるのは社会。',
         'work' => ['508'],
         'image' => 'firstview.jpg',
-        'latitude' => 36.3834683,//緯度
-        'longitude' => 138.3276166,//経度
+        'latitude' => 36.38335357,//緯度
+        'longitude' => 138.32743375,//経度
         'MBTI' =>  'istp',
     ],
 ];

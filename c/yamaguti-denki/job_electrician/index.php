@@ -142,7 +142,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		例えば、電気メーター、分電盤、コンセントなどいろいろなポイントで測定して、どこに問題があるかを探っていきます。
 	</p>
 	<div class="images">
-		<img src=".jpg" alt="" class="scene">
+		<img src="contents03.jpg" alt="" class="scene">
 	</div>
 	<p>
 		調査が終わったら、社内で図面や資料を確認し、ケーブルの加工や必要な工具の積み込みを行います。ケーブルの加工では、ケーブルカッターやニッパーでケーブルを必要な長さに切断したり、圧着工具で圧着端子を取り付けたりします。

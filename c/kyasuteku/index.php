@@ -143,7 +143,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	<div class="images">
 		<img src="introduce2.jpg" class="scene" alt="">
 	</div>
-	<h3 class="department">
+	<h3>
 		砂型鋳造部門
 	</h3>
 	<p>
@@ -192,7 +192,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	<p>
 		どの工程も、完成品をイメージして、作業に取り組むことが、早い成長へのカギになります。
 	</p>
-	<h3 class="department">
+	<h3>
 		加工部門
 	</h3>
 	<p>

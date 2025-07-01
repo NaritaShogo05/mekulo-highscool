@@ -253,7 +253,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	<p class="remark">（2025年1月1日現在）</p>
 	<div class="large">
 		<p>売上高</p>
-		<p class="num"><span>2</span>億<span>4</span>千万円</p>
+		<p class="num"><span>2</span>億<span>8</span>千万円</p>
 		<p class="year">※2024年実績</p>
 	</div>
 	<ul class="gr_con">

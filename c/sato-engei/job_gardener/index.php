@@ -208,7 +208,6 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	<div class="images grid-images">
 		<img src="contents11.jpg" alt="" class="scene">
 		<img src="contents12.jpg" alt="" class="scene">
-		<img src=".jpg" alt="" class="scene">
 	</div>
 	<p>
 		全く同じ形の植物はなく、特に木の枝を切りそろえる「剪定」では、職人のセンスが必要になります。職人によって、完成形も違います。<br>
