@@ -429,7 +429,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	<h2>会社からのメッセージ</h2>
 	<div class="pre_con">
 		<figure class="portrait">
-			<img src="president_p.jpg" alt="">
+			<img src="message.jpg" alt="">
 			<figcaption><span class="name">両角正道</span></figcaption>
 		</figure>
 		<p>

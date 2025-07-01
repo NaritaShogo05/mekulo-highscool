@@ -124,7 +124,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	</div>
 	<h3>取材担当者からのポイント！</h3>
 	<h4 class="point">充実した新人研修</h4>
-	<figure class="portrait">
+	<figure class="portrait" style="width: 20%;">
 		<img src=<?= $highschool_base . WRITER['sato']['image'] //担当者名をここに記入?> alt="">
 		<figcaption><span class="name"><?= WRITER['sato']['name']//担当者名をここに記入 ?></span></figcaption>
 	</figure>

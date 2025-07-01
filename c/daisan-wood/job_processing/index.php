@@ -88,7 +88,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 <div class="content_area">
 	<main>
 	<div class="fv_area">
-    <img alt="" class="fv_image" src="work4.jpg">
+    <img alt="" class="fv_image" src="firstview.jpg">
     <hgroup>
         <h1 class="catch"><?= $catch_copy ?></h1>
         <p class="fv-tag"><?= $name ?></p>
@@ -136,7 +136,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		ですが、この仕事の本質は“木を読むこと”です。
 	</p>
 	<div class="images">
-		<img src="work1.jpg" alt="" class="scene">
+		<img src="seizou3.jpg" alt="" class="scene">
+		<img src="seizou.jpg" alt="" class="scene">
 	</div>
 	<p>
 		木材はすべて同じように見えて、実はそれぞれ違った“クセ”があります。<br>
@@ -144,14 +145,15 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		たとえば、「この木は切ったあと右に反りそうだから、少し左寄りに切っておこう」。そんなふうに、加工後の変化まで先読みして微調整を行なう。まさに、観察と予測の力が問われる仕事です。
 	</p>
 	<div class="images">
-		<img src="work1.jpg" alt="" class="scene">
+		<img src="kikai.jpg" alt="" class="scene">
 	</div>
 	<p>
 		また、加工といっても、単純な切断だけではありません。<br>
 		高温のボイラーを使った乾燥処理や、耐久性を高めるための防腐加工も行なっており、扱う工程も幅広いのが特徴です。
 	</p>
 	<div class="images">
-		<img src="work1.jpg" alt="" class="scene">
+		<img src="kansou.jpg" alt="" class="scene">
+		<img src="kansou2.jpg" alt="" class="scene">
 	</div>
 	<p>
 		乾燥処理ひとつとっても、木材が均等に乾くように、空気の通り道を考えて積み上げ方を工夫しています。
@@ -164,20 +166,21 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		たとえば、補修作業。
 	</p>
 	<div class="images">
-		<img src="work1.jpg" alt="" class="scene">
+		<img src="contents02.jpg" alt="" class="scene">
 	</div>
 	<p>
 		機械で加工すると、木材の節が取れたり、ヒビが入ったりします。危ないだけでなく見た目も良くないので、接着剤とおがくずを使って隙間を埋めていきます。<br>
 		乾いたら余分な部分をヘラで削り、サンドペーパーでなめらかに整えていきます。
 	</p>
 	<div class="images">
-		<img src="work1.jpg" alt="" class="scene">
+		<img src=".jpg" alt="" class="scene">
 	</div>
 	<p>
 		作業に慣れてきたら、先輩と2人1組で加工機の操作を担当します。刃物の種類や角度、当たり具合などを、木の種類と状態に合わせて調整していきます。
 	</p>
 	<div class="images">
-		<img src="work1.jpg" alt="" class="scene">
+		<img src="seizou4.jpg" alt="" class="scene">
+		<img src=".jpg" alt="" class="scene">
 	</div>
 	<p>
 		機械の操作といっても、実は最も職人技が求められる部分。ベテランでも、試行錯誤の連続です。
@@ -190,8 +193,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		基本的な仕事を覚えるまでは1～2年。その後は「刃物の調整を極めたい」「木のクセを見極めたい」など、それぞれの“職人の道”を歩んでいきます。
 	</p>
 	<div class="images">
-		<img src="work2.jpg" alt="" class="scene">
-		<img src="work3.jpg" alt="" class="scene">
+		<img src=".jpg" alt="" class="scene">
+		<img src=".jpg" alt="" class="scene">
 	</div>
 	<p>
 		休憩時間には、小さな棚を作ったり、家族のために机を作ったり。そんな時間を楽しんでいる社員も少なくありません。<br>

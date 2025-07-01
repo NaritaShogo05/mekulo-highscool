@@ -503,7 +503,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<li>
 			<a href="<?= $company_base ?>job_sales/">
 				<figure>
-					<img src="<?= $company_base ?>introduce2.jpg" alt="">
+					<img src="<?= $company_base ?>eigyo.jpg" alt="">
 					<figcaption>法人営業</figcaption>
 				</figure>
 			</a>
@@ -511,7 +511,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<li>
 			<a href="<?= $company_base ?>job_conmane/">
 				<figure>
-					<img src="job_hyoumen/fv.jpg" alt="" style="aspect-ratio: 3 / 2; object-fit: cover;">
+					<img src="second.jpg" alt="" style="aspect-ratio: 3 / 2; object-fit: cover;">
 					<figcaption>建築施工管理</figcaption>
 				</figure>
 			</a>
@@ -519,7 +519,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<li>
 			<a href="<?= $company_base ?>job_carpenter/">
 				<figure>
-					<img src="second.jpg" alt="">
+					<img src="contents06.jpg" alt="">
 					<figcaption>建築大工</figcaption>
 				</figure>
 			</a>
@@ -527,7 +527,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<li>
 			<a href="<?= $company_base ?>job_coating/">
 				<figure>
-					<img src="second.jpg" alt="">
+					<img src="job_delivery/haisou.jpg" alt="">
 					<figcaption>配送</figcaption>
 				</figure>
 			</a>
@@ -535,7 +535,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<li>
 			<a href="<?= $company_base ?>job_processing/">
 				<figure>
-					<img src="second.jpg" alt="">
+					<img src="contents01.jpg" alt="">
 					<figcaption>木材加工</figcaption>
 				</figure>
 			</a>

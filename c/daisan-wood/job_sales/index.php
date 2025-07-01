@@ -168,7 +168,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		また、社会人としての基本を学べる外部のビジネスマナー研修もあるので、初めて社会に出る高校生も安心です。
 	</p>
 	<div class="images">
-		<img src="third.jpg" alt="" class="scene">
+		<img src="../third.jpg" alt="" class="scene">
 	</div>
 	<p>
 		営業に配属されたら、まずは先輩の業務を手伝いながら、見積もりの作り方やお客様とのやりとりを学んでいきます。2～3年ほどで担当を引き継ぎ、1人で10社ほど担当できるようになるのが、一人前の目安です。<br>

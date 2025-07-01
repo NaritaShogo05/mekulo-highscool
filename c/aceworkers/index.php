@@ -237,8 +237,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<p>育児休暇率</p>
 				<svg width="150" height="150" viewBox="0 0 200 200">
 					<?php create_donut_graph(100, 100, 100, 45, [
-						[ 'value' => 100, 'caption' => '取得者なし', 'color' => '#b1b1b1'],
-						[ 'value' => 0.001, 'caption' => '', 'color' => '#2378C7'],
+						[ 'value' => 0.001, 'caption' => '', 'color' => '#b1b1b1'],
+						[ 'value' => 100, 'caption' => '100%', 'color' => '#2378C7'],
 					]); ?>
 				</svg>
 			</div>
@@ -260,7 +260,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<svg width="150" height="150" viewBox="0 0 200 200">
 					<?php create_donut_graph(100, 100, 100, 40, [
 						[ 'value' => 4, 'caption' => '男性', 'color' => '#0062B5'],
-						[ 'value' => 10, 'caption' => '女性', 'color' => '#FF6E7E'],
+						[ 'value' => 1, 'caption' => '女性', 'color' => '#FF6E7E'],
 					]); ?>
 				</svg>
 			</div>
