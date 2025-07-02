@@ -146,7 +146,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	<h3>令和での働き方</h3>
 	<p>
 		足場の組立や解体は、建物の工事全般に欠かせない大切な仕事です。<br>
-		作業は、板状や棒状の金属部品を決まった場所に組み立てていきます。部品と部品をつなげるときは、「くさび」という細長い金属の部品を使います。くさびにはデコボコがついていて、それをハンマーで打ち込むことでしっかり固定します。解体するときは、ハンマーで反対からくさびを打つことで、すぐに取り外せます。<br>
+		作業は、板状や棒状の金属部品を決まった場所に組み立てていきます。部品と部品をつなげるときは、「手すり」という細長い金属の部品を使います。手すりには「くさび」がついていて、それをハンマーで打ち込むことでしっかり固定します。解体するときは、ハンマーで反対からくさびを打つことで、すぐに取り外せます。<br>
 		現場では、2～3人でチームを組んで作業し、協力して働くことがとても大切な仕事です。主任が前日に決めたチーム分けに沿って作業を進めていきます。忙しい日には、1日に複数の現場を回ることもあります。午前中に2件の足場を組んで、午後に1件解体、なんてこともあります。
 	</p>
 	<div class="images">
@@ -378,7 +378,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	<div class="pre_con">
 		<figure class="portrait">
 			<img src="president_p.jpg" alt="">
-			<figcaption><span class="name">小林淳</span></figcaption>
+			<figcaption><span class="name">専務</span></figcaption>
 		</figure>
 		<p>
 			私たちは、あいさつやマナーをとても大切にしています。<br>
@@ -445,7 +445,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>募集職種</dt>
-					<dd>建設業</dd>
+					<dd>建設作業員</dd>
 				</div>
 				<div>
 					<dt>雇用形態</dt>
@@ -470,7 +470,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<div>
 					<dt>就業場所</dt>
 					<dd>〒386-2202<br>
-					長野県上田市真田町本原103</dd>
+					長野県上田市真田町本原799-2</dd>
 				</div>
 				<div>
 					<dt>アクセス</dt>
@@ -507,7 +507,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>月平均労働日数</dt>
-					<dd>-</dd>
+					<dd>23.2日</dd>
 				</div>
 				<div>
 					<dt>毎月の賃金</dt>
@@ -518,12 +518,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 					<dd>180,000円</dd>
 				</div>
 				<div>
-					<dt>定期的に支払われる手当①</dt>
-					<dd>-</dd>
-				</div>
-				<div>
-					<dt>定期的に支払われる手当②</dt>
-					<dd>-</dd>
+					<dt>定期的に支払われる手当</dt>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>固定残業代</dt>
@@ -536,12 +532,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 					<dd>180,000円</dd>
 				</div>
 				<div>
-					<dt>特別に支払われる手当①</dt>
-					<dd>-</dd>
-				</div>
-				<div>
-					<dt>特別に支払われる手当②</dt>
-					<dd>-</dd>
+					<dt>特別に支払われる手当</dt>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>賃金締切日</dt>
@@ -549,11 +541,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>通勤手当</dt>
-					<dd>-</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>昇給</dt>
-					<dd>制度無し</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>賞与</dt>

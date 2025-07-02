@@ -148,7 +148,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<img src="pura.jpg" class="scene" alt="">
 	</div>
 	<p>
-		「そんなプラスチック製品の“もと”となる機械を作っているのが、私たち坂口製作所です！ 
+		そんなプラスチック製品の“もと”となる機械を作っているのが、私たち坂口製作所です！ 
 	</p>
 	<h3>
 		機械の“中身”を組み立てる 
@@ -383,9 +383,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<div>
 			<dt>事業内容</dt>
 			<dd>
-				<ul class="li_style">
-					<li>射出成形機の組立</li>
-				</ul>
+				射出成形機の組立
 			</dd>
 		</div>
 		<div>
@@ -540,7 +538,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>賃金形態</dt>
-					<dd>月給</dd>
+					<dd>日給月給制</dd>
 				</div>
 				<div>
 					<dt>月平均労働日数</dt>
