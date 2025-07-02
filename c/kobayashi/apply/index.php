@@ -84,21 +84,17 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	<div class="opendate">
 		<p>開催日時</p>
 		<ul>
-			<li>2025年〇月〇日（） ー時ー分～</li>
-			<li>2025年〇月〇日（） ー時ー分～</li>
+			<li>2025年7月28日（月） 10時00分～</li>
+			<li>2025年7月29日（火） 10時00分～</li>
 		</ul>
 	</div>
 	<div class="flow">
 		<p>見学の流れ</p>
 		<ul>
-			<li>会社説明<span>〇分程度</span></li>
+			<li>会社説明<span>30分程度</span></li>
 		</ul>
 	</div>
-	<a href="../../../entry?company=<?= $co['slug'] ?>" class="entry-btn">
-		<img src="../../../flag.png" class="flag">
-		<span>応募する</span>
-		<img src="../../../arrow.svg">
-	</a>
+	<p class="entry_txt">応募前見学をご希望の方は、担任の先生や、進路指導の先生にご相談ください。</p>
 </section>
 </main>
 <?php include $highschool_base . 'tmpl_navi.php' ?>

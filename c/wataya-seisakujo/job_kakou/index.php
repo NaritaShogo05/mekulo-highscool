@@ -153,12 +153,15 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		機械を正しく動かすためには、「どこをどう削るか」「どれくらいの速さで動かすか」などを細かく指示する“プログラム”が必要です。
 	</p>
 	<div class="images">
-		<img src="contents04.jpg" alt="" class="scene">
+		<img src="contents03.jpg" alt="" class="scene">
 	</div>
 	<p>
 		綿谷製作所には、自社で作った「マクロプログラム」という仕組みがあり、必要な数値を入れるだけで機械を動かせるようになっています。<br>
         最初は資料を見ながら、どこの数値を変えるとどうなるのか、先輩と一緒に機械を動かしながら練習していきます。
 	</p>
+	<div class="images">
+		<img src="contents04.jpg" alt="" class="scene">
+	</div>
     <h3>
 		精度を追求する
 	</h3>

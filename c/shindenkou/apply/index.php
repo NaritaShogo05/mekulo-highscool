@@ -90,11 +90,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<li>会社の説明<span>１５分～３０分</span></li>
 		</ul>
 	</div>
-	<a href="../../../entry?company=<?= $co['slug'] ?>" class="entry-btn">
-		<img src="../../../flag.png" class="flag">
-		<span>応募する</span>
-		<img src="../../../arrow.svg">
-	</a>
+	<p class="entry_txt">応募前見学をご希望の方は、担任の先生や、進路指導の先生にご相談ください。</p>
 </section>
 </main>
 <?php include $highschool_base . 'tmpl_navi.php' ?>

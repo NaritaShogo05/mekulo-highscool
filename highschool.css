@@ -2537,6 +2537,8 @@ font-size: clamp(1.25rem, 1.0227rem + 0.9697vw, 1.75rem);
 この見学に申し込む！！
 
 */
+
+/*
 .highschool .entry-btn {
 	width: 280px;
 	display: flex;
@@ -2552,4 +2554,12 @@ font-size: clamp(1.25rem, 1.0227rem + 0.9697vw, 1.75rem);
 	text-decoration: none;
 	text-shadow: 0px 1px 2px black;
 	background: repeating-linear-gradient(130deg, #1C9E96, #1C9E96 10px,#188B8A 10px, #188B8A 20px);
+}
+
+*/
+
+.highschool .entry_txt {
+	width: fit-content;
+	margin: 20px auto;
+	font-weight: bold;
 }

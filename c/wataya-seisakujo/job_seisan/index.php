@@ -206,7 +206,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
                     </p>
 				</hgroup>
 			</div>
-			<p>入社25年目<br>宮坂さん</p>
+			<p>2025年入社<br>宮坂さん</p>
 		</li>
 	</ul>
 </section>
