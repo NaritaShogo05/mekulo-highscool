@@ -8,7 +8,7 @@ $co = [
     'post_code' => '386-1102',
     'address' => '長野県上田市上田原１７８４',
     'homepage' => 'https://miyamass.jp/',
-    'logo_filename' => 'logo.svg',
+    'logo_filename' => 'logo.png',
     'latitude' => 36.3855759193,//緯度
     'longitude' => 138.2310452864,//経度
     'human' => [
@@ -43,7 +43,7 @@ $visit = [
             ],
         ],
         'catch_copy' => '',
-        'visit_img' =>'firstview.jpg',
+        'visit_img' =>'.jpg',
         'content' => '',
     ],
 ];
