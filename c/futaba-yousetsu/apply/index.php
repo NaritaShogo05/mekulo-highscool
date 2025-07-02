@@ -8,13 +8,10 @@ include_once $highschool_base . 'circle.php';
 
 //====================
 // ページのメタデータ
-$title = $co['company_name'] . 'の新卒求人情報';
+$title = $co['company_name'] . 'の高卒求人情報';
 $title_with_site = $title . ' | めくろうワークス';
-$keywords = '';//メタキーワードをここに挿入
-$description = '';//メタディスクリプションをここに挿入 
-
-$canonical_url = 'https://works.mekulo.jp/highschool/' . $co['slug'] . '/';
-
+$description = '株式会社 双葉溶接の応募前見学ページです。';//メタディスクリプションをここに挿入 
+$canonical_url = 'https://works.mekulo.jp/hs/' . $co['slug'] . '/';
 $og_image = 'https://works.mekulo.jp/ogp-image.png';
 ?>
 <!DOCTYPE html>
@@ -29,9 +26,6 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 <title><?= $title_with_site ?></title>
 <?php if ($description) { ?>
 <meta name="description" content="<?= $description ?>">
-<?php } ?>
-<?php if ($keywords) { ?>
-<meta name="keywords" content="<?= $keywords ?>">
 <?php } ?>
 <meta property="og:type" content="article">
 <meta property="og:title" content="<?= $title_with_site ?>">
@@ -53,13 +47,13 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	},{
 		"@type": "ListItem",
 		"position": 2,
-		"name": "高卒特集",
-		"item": "https://works.mekulo.jp/highschool/"
+		"name": "高卒求人特集",
+		"item": "https://works.mekulo.jp/hs/"
 	},{
 		"@type": "ListItem",
 		"position": 3,
 		"name": "<?= $co['company_name'] ?>",
-		"item": "https://works.mekulo.jp/highschool/<?= $co['slug'] ?>/"
+		"item": "https://works.mekulo.jp/hs/<?= $co['slug'] ?>/"
 	}]
 }
 </script>
@@ -70,38 +64,35 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 <div class="content_area">
 <main>
 <div class="fv_wr">
-	<img alt="" class="fv_image" src="../first_view.jpg">
+	<img alt="" class="fv_image" src="first-view.jpg">
 	<div class="apply">
 		<h1 class="catch"><?= $co['company_name'] ?></h1>
 		<p class="tag">応募前見学ページ</p>
 	</div>
 </div>
 <section id="visit1" class="content">
-	<p class="catchcopy">この図面、何の機械？</p>
+	<!--<p class="catchcopy"><span></span></p>-->
 	<p class="cont">
-		ルート設計の応募前見学では、設計者たちがどんなことを考えながら図面を描いているのか、実際に仕事をしている様子を間近で見ることができます。<br>
-		整ったデスク、自分だけのルールで配置された小物、そして真剣なまなざし。静かな空間で思考を深めながら、1つの“仕組み”をつくりあげていく──そんな設計の世界をのぞいてみてください。<br>
-		「興味はあるけど、難しそう…」という方も大歓迎！見学を通して、イメージが変わるかもしれません。
+		双葉溶接の応募前見学では、溶接の現場を間近で見ることができます。<br>
+        火花が飛び散る迫力ある作業を目の前で見られる貴重な機会です。<br>
+		「やってみたい」という気持ちを、本物の現場で確かめてみませんか？
 	</p>
 	<div class="opendate">
 		<p>開催日時</p>
 		<ul>
-			<li>2025年7月29日（火） 10時～11時30分</li>
-			<li>2025年7月30日（水） 10時～11時30分</li>
-			<li>2025年8月5日（水） 10時～11時30分</li>
-			<li>2025年8月6日（水） 10時～11時30分</li>
+			<li>随時開催！日程についてはご相談ください。</li>
 		</ul>
 	</div>
 	<div class="flow">
 		<p>見学の流れ</p>
 		<ul>
-			<li>会社説明<span>60分程度</span></li>
-			<li>職場見学<span>30分程度</span></li>
+			<li>会社説明<span></span></li>
+			<li>工場見学<span></span></li>
 		</ul>
 	</div>
 	<a href="../../../entry?company=<?= $co['slug'] ?>" class="entry-btn">
 		<img src="../../../flag.png" class="flag">
-		<span>応募前見学に応募する</span>
+		<span>応募する</span>
 		<img src="../../../arrow.svg">
 	</a>
 </section>

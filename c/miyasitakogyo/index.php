@@ -196,10 +196,6 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	<div class="images">
 		<img src="firstview.jpg" class="scene" alt="">
 	</div>
-	<p>
-		実は、会社の創業から今まで、誰も辞めていないんです。それだけ、仲間を大事にする文化が根付いているということ。<br>
-		次は、あなたが仲間になる番です！私たちと一緒に働きましょう！
-	</p>
 </section>
 <section id="business" class="content">
 	<h2>私たちのビジネス</h2>
@@ -251,11 +247,6 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 <section class="content" id="numeric_data">
 	<h2>数字で見る当社</h2>
 	<p class="remark">（2025年現在）</p>
-	<div class="large">
-		<p>売上高</p>
-		<p class="num"><span>1</span>億円</p>
-		<p class="year">※2024年実績</p>
-	</div>
 	<ul class="gr_con">
 		<li class="small">
 			<p>平均年齢</p>
@@ -386,10 +377,12 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 <section class="content" id="from_president">
 	<h2>会社からのメッセージ</h2>
 	<div class="pre_con">
+		<!--
 		<figure class="portrait">
 			<img src="comingsoon.png" alt="">
 			<figcaption><span class="name">宮下卓也</span></figcaption>
 		</figure>
+		-->
 		<p>
 			こんにちは、代表の宮下です。<br>
 			僕自身も現場に出ながら、みんなと一緒に仕事をしています。年齢も近いので、気軽に話しかけてもらえたら嬉しいです。<br>
@@ -421,7 +414,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 						}
 						?>
 				</ul>
-				その他の日時等も随時受け付けております。
+				その他の日時はお問い合わせください。
             </dd>
         </div>
         <div>
@@ -541,11 +534,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>特別に支払われる手当①</dt>
-					<dd>職務手当(10,000円)</dd>
+					<dd>職務手当</dd>
 				</div>
 				<div>
 					<dt>特別に支払われる手当②</dt>
-					<dd>出張手当(1,000円)</dd>
+					<dd>出張手当</dd>
 				</div>
 				<div>
 					<dt>賃金締切日</dt>
@@ -714,8 +707,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<div>
 					<dt>応募前職場見学</dt>
 					<dd>
-					    2025年〇月〇日（）〇時〇分～<br>
-						2025年〇月〇日（）〇時〇分～<br>
+					    2025年8月4日（月）10時00分～<br>
+						2025年8月6日（水）10時00分～<br>
 						その他の日時等も随時受け付けております。
 					</dd>
 				</div>

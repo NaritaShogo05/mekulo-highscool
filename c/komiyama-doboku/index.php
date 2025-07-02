@@ -174,6 +174,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	</p>
 	<div class="images">
 		<img src="contents07.jpg" class="scene" alt="">
+		<img src="contents15.jpg" class="scene" alt="">
 	</div>
 	<p>
 		この仕事の楽しいところは、工事が進む中でだんだん形が見えてくる瞬間。ボロボロだった橋が、少しずつきれいになっていく様子を見ると「自分がここを直したんだ」と、自信にもつながっていきます。
@@ -195,9 +196,15 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	</p>
 	<div class="images">
 		<img src="contents09.jpg" class="scene" alt="">
+		<img src="contents13.jpg" class="scene" alt="">
 	</div>
 	<p>
-		現場は忙しくて危険な場面もあるので、緊張感が漂うときも。でも、話してみると気さくな人も多く、おしゃべり好きだったり、分からないことを教えてくれたりします。お昼を車の中で食べる人もいて、程よい距離感の中、メリハリのある雰囲気です。<br>
+		現場は忙しくて危険な場面もあるので、緊張感が漂うときも。でも、話してみると気さくな人も多く、おしゃべり好きだったり、分からないことを教えてくれたりします。お昼を車の中で食べる人もいて、程よい距離感の中、メリハリのある雰囲気です。
+    </p>
+	<div class="images">
+		<img src="contents14.jpg" class="scene" alt="">
+	</div>
+	<p>
         現場で経験を積むうちに、「職人として技を極めたい」「施工管理として現場をまとめたい」など、自分の進みたい道が少しずつ見えてきます。高卒で入社する人は職人を目指す人が多く、机の上で学ぶより、現場で集中して腕を上げたい人に向いているかもしれません。
 	</p>
 	<h3>
@@ -329,7 +336,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<p class="num"><span>15</span>年</p>
 		</li>
 		<li class="small">
-			<p>平均残業時間</p>
+			<p>１か月の<br>平均残業時間</p>
 			<p class="num"><span>3</span>時間</p>
 		</li>
 		<li class="small">
@@ -399,7 +406,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<p>通勤手段の割合</p>
 				<svg width="150" height="150" viewBox="0 0 200 200">
 					<?php create_donut_graph(100, 100, 100, 40, [
-						[ 'value' => 100, 'caption' => "車・バイク100%", 'color' => '#E06A3A'],
+						[ 'value' => 100, 'caption' => "車100%", 'color' => '#E06A3A'],
 						[ 'value' => 0.001, 'caption' => '', 'color' => '#D04255'],
 					]); ?>
 				</svg>
@@ -522,11 +529,333 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<img src="<?= $highschool_base ?>arrow.svg">
 	</a>
 </div>
+<section class="requirements g" id="recruitment_requirements">
+	<h2>募集要項</h2>
+	<div class="tabs">
+		<button class="tab1">募集要項</button>
+		<button class="tab2">青少年雇用情報</button>
+		<button class="tab3">選考方法</button>
+	</div>
+	<div class="requirement">
+		<div class="content recruitment">
+			<h3>仕事内容</h3>
+			<dl>
+				<div>
+					<dt>募集職種</dt>
+					<dd>現場技能職<br>
+				        (現場監督のサポート業務からスタート)</dd>
+				</div>
+				<div>
+					<dt>雇用形態</dt>
+					<dd>正社員</dd>
+				</div>
+				<div>
+					<dt>雇用期間</dt>
+					<dd>定めなし</dd>
+				</div>
+				<div>
+					<dt>契約更新の可能性</dt>
+					<dd>なし</dd>
+				</div>
+				<div>
+					<dt>試用期間</dt>
+					<dd>あり(3ヶ月)</dd>
+				</div>
+				<div>
+					<dt>試用期間中の労働条件</dt>
+					<dd>同条件</dd>
+				</div>
+				<div>
+					<dt>就業場所</dt>
+					<dd>〒384-2308<br>
+					長野県北佐久郡立科町大字牛鹿1616-1</dd>
+				</div>
+				<div>
+					<dt>アクセス</dt>
+					<dd>JR北陸新幹線、小海線 佐久平駅から車で30分</dd>
+				</div>
+				<div>
+					<dt>受動喫煙対策</dt>
+					<dd>屋内禁煙</dd>
+				</div>
+				<div>
+					<dt>受動喫煙対策に関する特記事項</dt>
+					<dd>屋外に喫煙場所設置</dd>
+				</div>
+				<div>
+					<dt>マイカー通勤</dt>
+					<dd>可</dd>
+				</div>
+				<div>
+					<dt>転勤の可能性</dt>
+					<dd>なし</dd>
+				</div>
+				<div>
+					<dt>必要な知識・技能等</dt>
+					<dd>必須 普通自動車免許(AT限定不可)<br>
+				        入社までに取得してください。</dd>
+				</div>
+			</dl>
+			<h3>賃金・手当</h3>
+			<dl>
+				<div>
+					<dt>賃金形態</dt>
+					<dd>月給</dd>
+				</div>
+				<div>
+					<dt>月平均労働日数</dt>
+					<dd>21日</dd>
+				</div>
+				<div>
+					<dt>毎月の賃金</dt>
+					<dd>現行</dd>
+				</div>
+				<div>
+					<dt>基本給</dt>
+					<dd>215,000円～</dd>
+				</div>
+				<div>
+					<dt>定期的に支払われる手当①</dt>
+					<dd>-</dd>
+				</div>
+				<div>
+					<dt>定期的に支払われる手当②</dt>
+					<dd>-</dd>
+				</div>
+				<div>
+					<dt>固定残業代</dt>
+					<dd>なし</dd>
+				</div>
+				<div>
+					<dt>初任給</dt>
+					<dd>215,000円</dd>
+				</div>
+				<div>
+					<dt>特別に支払われる手当①</dt>
+					<dd>残業手当</dd>
+				</div>
+				<div>
+					<dt>特別に支払われる手当②</dt>
+					<dd>資格手当</dd>
+				</div>
+				<div>
+					<dt>特別に支払われる手当③</dt>
+					<dd>遠隔地手当</dd>
+				</div>
+				<div>
+					<dt>特別に支払われる手当④</dt>
+					<dd>宿泊手当</dd>
+				</div>
+				<div>
+					<dt>特別に支払われる手当⑤</dt>
+					<dd>育児手当</dd>
+				</div>
+				<div>
+					<dt>特別に支払われる手当②</dt>
+					<dd>介護手当</dd>
+				</div>
+				<div>
+					<dt>賃金締切日</dt>
+					<dd>毎月20日</dd>
+				</div>
+				<div>
+					<dt>通勤手当</dt>
+					<dd>実費支給（上限なし）</dd>
+				</div>
+				<div>
+					<dt>昇給</dt>
+					<dd>あり</dd>
+				</div>
+				<div>
+					<dt>賞与</dt>
+					<dd>年2回</dd>
+				</div>
+			</dl>
+			<h3>労働時間</h3>
+			<dl>
+				<div>
+					<dt>就業期間</dt>
+					<dd>8時00分〜17時00分</dd>
+				</div>
+				<div>
+					<dt>時間外労働</dt>
+					<dd>あり(月平均5時間)</dd>
+				</div>
+				<div>
+					<dt>休日</dt>
+					<dd>土日、その他</dd>
+				</div>
+				<div>
+					<dt>その他休日</dt>
+					<dd>-</dd>
+				</div>
+			</dl>
+			<h3>保険・年金・定年等</h3>
+			<dl>
+				<div>
+					<dt>加入保険等</dt>
+					<dd>厚生年金保険、健康保険、雇用保険、労災保険、財形保険</dd>
+				</div>
+				<div>
+					<dt>企業年金</dt>
+					<dd>-</dd>
+				</div>
+				<div>
+					<dt>退職金制度</dt>
+					<dd>あり（勤続年数2年以上）</dd>
+				</div>
+				<div>
+					<dt>定年制</dt>
+					<dd>あり(65歳)</dd>
+				</div>
+				<div>
+					<dt>一律定年制</dt>
+					<dd>あり(65歳)</dd>
+				</div>
+				<div>
+					<dt>再雇用制度</dt>
+					<dd>あり(上限70歳まで)</dd>
+				</div>
+				<div>
+					<dt>勤務延長</dt>
+					<dd>あり</dd>
+				</div>
+				<div>
+					<dt>入居可能住宅</dt>
+					<dd>あり</dd>
+				</div>
+			</dl>
+		</div>
+		<div class="content career">
+			<h3>青少年雇用情報</h3>
+			<dl>
+				<div>
+					<dt>直近3年間の新卒者等採用者数</dt>
+					<dd>前年度:2人、2年度前：2人、3年度前：2人</dd>
+				</div>
+				<div>
+					<dt>直近3年間の新卒者等離職者数</dt>
+					<dd>前年度:0人、2年度前：0人、3年度前：0人</dd>
+				</div>
+				<div>
+					<dt>男性の新卒者等採用数</dt>
+					<dd>前年度:2人、2年度前：2人、3年度前：0人</dd>
+				</div>
+				<div>
+					<dt>女性の新卒者等採用数</dt>
+					<dd>前年度:0人、2年度前：0人、3年度前：2人</dd>
+				</div>
+				<div>
+					<dt>平均継続勤務年数</dt>
+					<dd>
+						15年<br>
+					</dd>
+				</div>
+				<div>
+					<dt>従業員の平均年齢</dt>
+					<dd>45歳</dd>
+				</div>
+				<div>
+					<dt>研修の有無</dt>
+					<dd>あり</dd>
+				</div>
+				<div>
+					<dt>研修内容</dt>
+					<dd>新入社員研修 土木入職時導入教育<br>
+				        業務に関する各種技能研修(随時)</dd>
+				</div>
+				<div>
+					<dt>自己啓発支援の有無</dt>
+					<dd>
+						あり 業務に関する資格取得費用は全額補助
+					</dd>
+				</div>
+				<div>
+					<dt>メンター制度の有無</dt>
+					<dd>あり</dd>
+				</div>
+				<div>
+					<dt>キャリアコンサルティング制度の有無</dt>
+					<dd>あり 入社後、半年ごとの間隔で面談実施</dd>
+				</div>
+				<div>
+					<dt>社内検定等の有無</dt>
+					<dd>なし</dd>
+				</div>
+				<div>
+					<dt>前年度の月平均所定外労働時間</dt>
+					<dd>5時間</dd>
+				</div>
+				<div>
+					<dt>前事業年度の有給休暇の平均取得日数</dt>
+					<dd>13.6日</dd>
+				</div>
+				<div>
+					<dt>前事業年度の育児休業取得者数</dt>
+					<dd>女性：1人、男性：0人</dd>
+				</div>
+				<div>
+					<dt>前事業年度の出産者数</dt>
+					<dd>0名</dd>
+				</div>
+				<div>
+					<dt>女性役員割合</dt>
+					<dd>20%</dd>
+				</div>
+				<div>
+					<dt>女性の管理職割合</dt>
+					<dd>12%</dd>
+				</div>
+				<div>
+					<dt>区分の名称</dt>
+					<dd>一般土木建築工事業</dd>
+				</div>
+			</dl>
+		</div>
+		<div class="content selection">
+			<h3>選考方法</h3>
+			<dl>
+				<div>
+					<dt>求人数</dt>
+					<dd>5名</dd>
+				</div>
+				<div>
+					<dt>応募前職場見学</dt>
+					<dd>
+					    2025年7月29日（火） 13時00分～16時00分<br>
+						2025年8月 5日（火） 13時00分～16時00分
+					</dd>
+				</div>
+				<div>
+					<dt>選考方法</dt>
+					<dd>面接</dd>
+				</div>
+				<div>
+					<dt>選考旅費</dt>
+					<dd>なし</dd>
+				</div>
+				<div>
+					<dt>選考結果通知</dt>
+					<dd>面接後５日以内</dd>
+				</div>
+				<div>
+					<dt>選考担当者</dt>
+					<dd>
+						総務部<br>
+						小宮山
+					</dd>
+				</div>
+			</dl>
+		</div>
+	</div>
+</section>
 </main>
 <?php include $highschool_base . 'tmpl_navi.php' ?>
 </div>
 <script src="../../tab.js"></script>
 <script src="../../page_nav.js"></script>
+<script src="<?= $highschool_base ?>animation.js"></script>
+<script src="<?= $highschool_base ?>NRGallery.js"></script>
 <script src="<?= $highschool_base ?>lightbox.js"></script>
 <?php //include $base . '../footer.php' ?>
 </body>

@@ -108,16 +108,16 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	</p>
 	<div id="gallery">
 		<div class="gallery_window">
-			<img src="gallery01.jpg" alt="" class="fs show">
-			<img src="contents03.jpg" alt="" class="sc">
-			<img src="gallery02.jpg" alt="" class="th">
-			<img src="job_cad/cad04.jpg" alt="" class="fo">
+			<img src="contents03.jpg" alt="" class="fs show">
+			<img src="gallery02.jpg" alt="" class="sc">
+			<img src="job_cad/cad04.jpg" alt="" class="th">
+			<img src="gallery01.jpg" alt="" class="fo">
 		</div>
 		<div class="gallery_index">
-			<img src="gallery01.jpg" alt="" class="fs">
-			<img src="contents03.jpg" alt="" class="sc">
-			<img src="gallery02.jpg" alt="" class="th">
-			<img src="job_cad/cad04.jpg" alt="" class="fo">
+			<img src="contents03.jpg" alt="" class="fs">
+			<img src="gallery02.jpg" alt="" class="sc">
+			<img src="job_cad/cad04.jpg" alt="" class="th">
+			<img src="gallery01.jpg" alt="" class="fo">
 		</div>
 	</div>
 	<h3>募集職種</h3>
@@ -450,7 +450,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	<h2>募集職種</h2>
 	<ul class="image_navi">
 		<li>
-			<a href="<?= $company_base ?>job_kinzoku/">
+			<a href="<?= $company_base ?>job_cad/">
 				<figure>
 					<img src="<?= $company_base ?>job_cad/first_view.jpg" alt="">
 					<figcaption>機械CADオペレーター</figcaption>

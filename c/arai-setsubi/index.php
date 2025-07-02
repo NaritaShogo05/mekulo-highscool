@@ -333,7 +333,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	<h2>会社からのメッセージ</h2>
 	<div class="pre_con">
 		<figure class="portrait">
-			<img src="arai.jpg" alt="">
+			<img src="message.jpg" alt="">
 			<figcaption><span class="name">荒井浩正</span></figcaption>
 		</figure>
 		<p>

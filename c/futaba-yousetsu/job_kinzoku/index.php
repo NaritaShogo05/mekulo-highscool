@@ -33,7 +33,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 <html lang="ja">
 <head>
 <meta charset="utf-8">
-<?php include $base . '../tracking.php'; ?>
+<?php //include $base . '../tracking.php'; ?>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="<?= $highschool_base ?>highschool.css?v=2">
 <link rel="icon" href="<?= $base ?>mekulo-works-mark.png">
@@ -83,7 +83,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 <div class="content_area">
 	<main>
 	<div class="fv_area">
-    <img alt="" class="fv_image" src="firstview.jpg">
+    <img alt="" class="fv_image" src="first-view.jpg">
     <hgroup>
         <h1 class="catch"><?= $catch_copy ?></h1>
         <p class="fv-tag"><?= $name ?></p>
@@ -123,73 +123,57 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 </section>
 <section class="g" id="job_detail">
 	<h2>仕事内容</h2>
+	<p>
+		双葉溶接では、鉄やステンレス、アルミといった金属を、電気の熱を使ってくっつける「溶接」の技術で加工し、産業用の機械や設備の部品を製作しています。
+		たとえば、機械の土台となるフレームやカバー、タンクなど。これらは一見すると目立たない部品ですが、どれも機械を動かすうえで欠かせない存在です。
+	</p>
+	<div class="images">
+		<img src="kinzoku01.jpg" alt="" class="scene">
+	</div>
+	<p>
+		作業では「アーク溶接」という方法を使います。これは、金属同士を高温で溶かしながら、特殊なガスで保護して接合する技術。火花が飛ぶ迫力のある作業ですが、安全に配慮された環境で、先輩がしっかりサポートしてくれるので心配いりません。
+	</p>
+	<div class="images">
+		<img src="kinzoku02.jpg" alt="" class="scene">
+	</div>
+	<p>
+		仕事は図面の見方からスタートし、機械の使い方、溶接のコツなどをひとつひとつ覚えていきます。最初は誰でも初心者。コツコツと積み重ねることで、確かな技術が身についていきます。
+	</p><br>
+	<p>
+        世の中に、金属加工をおこなう工場は数あれど、双葉溶接は、溶接をメインにやっている珍しい会社です。工場の中は、いつもそこかしこでバチバチと火花が飛び散っています。
+	</p>
+	<div class="images">
+		<img src="kinzoku03.jpg" alt="" class="scene">
+	</div>
 	<h3>
-		平面から立体へ
+		大きなものから小さなものまで
 	</h3>
 	<p>
-		鉄骨製造は、ビルや工場など、建物の「骨組み」である鉄骨を作る仕事です。<br>
-        機械を使って材料を切ったり、穴をあけたり、溶接してつなげたり。図面をもとに、鉄の部品をどんどん形にしていきます。
+		大きなものは最大で6メートルの長さの物や、2000×3000×4000ミリメートルのサイズのものを扱うことができます。<br>
+        工場から搬出するできるサイズ、運搬できるサイズを考えて、加工しないと痛い目を見ます。
 	</p>
 	<div class="images">
-		<img src="contents01.jpg" alt="" class="scene">
-		<img src="contents02.jpg" alt="" class="scene">
-		<img src="../contents01.jpg" alt="" class="scene">
+		<img src="first-view.jpg" alt="" class="scene">
 	</div>
-	<p>
-		まずは図面を見て、どんな材料を使うか、どの角度でつなぐかを確認します。
-	</p>
-	<div class="images">
-		<img src="contents04.jpg" alt="" class="scene">
-	</div>
-	<p>
-		次に印をつけ、加工機を使って鉄を切断します。
-	</p>
-	<div class="images">
-		<img src="contents05.jpg" alt="" class="scene">
-		<img src="contents06.jpg" alt="" class="scene">
-	</div>
-	<p>
-		切断したら図面どおりに溶接して、ひとつの大きな鉄骨に仕上げていきます。
-	</p>
-    <div class="images">
-		<img src="contents07.jpg" alt="" class="scene">
-		<img src="contents08.jpg" alt="" class="scene">
-	</div>
-	<p>
-		図面は平面ですが、実際の鉄骨は立体です。頭の中で完成形をイメージしながら作業するのは、最初はちょっと大変。でも、2～3年くらい経つと自然と体が動いてきます。
-	</p>
-	<div class="images">
-		<img src="../gallery2.jpg" alt="" class="scene">
-		<img src="contents10.jpg" alt="" class="scene">
-	</div>
-	<p>
-		完成した鉄骨は、現場に運ばれます。
-	</p>
-	<p>
-        基本的には、とび職の人たちが足場の上で組み立てていきますが、製造の自分たちも現場に行って設置・調整することがあります。高い場所での作業になるので、安全帯をつけて作業します。
-	</p>
-	<div class="images">
-		<img src="../gallery4.jpg" alt="" class="scene">
-	</div>
-	<p>
-		図面だったものが、どんどん目の前で形になっていく――そんな「ものづくりの楽しさ」を味わえる仕事です！
-	</p>
 	<h3>
-		とにかく手を動かしてみる
+		加工の仕事も多少あります
 	</h3>
 	<p>
-		入社後は、材料の切断や穴あけ、組み立て、溶接など、いろいろな作業を順番に経験していきます。最初は先輩たちの作業を見たり、説明を聞いたりしながら、自分の手で少しずつ挑戦してみます。
-	</p>
-	<p>
-		とにかく手を動かしてやってみるのが、上達への一番の近道です。
+		溶接だけでなく、金属の切断や穴あけ加工、レーザーカッターを使った板金の切り抜きなどもおこなっています。
 	</p>
 	<div class="images">
-		<img src="contents12.jpg" alt="" class="scene">
+		<img src="kinzoku05.jpg" alt="" class="scene">
+		<img src="kinzoku06.jpg" alt="" class="scene">
+	</div>
+	<h3>
+		社長はじめ溶接職人だらけだから、上達できる環境です。
+	</h3>
+	<div class="images">
+		<img src="kinzoku07.jpg" alt="" class="scene">
 	</div>
 	<p>
-		仕事はすべてオーダーメイド。同じ作業はほとんどないので、毎日が新鮮です。<br>
-        だんだんとできることが増えて、3年ほどで仕事を任せられるようになります。<br>
-        また、鉄骨製作管理技術者や溶接管理技術者など、さまざまな資格に挑戦することができます。資格を取れば手当もアップ！
+		社長を筆頭に、溶接職人集団の会社です。だから技術習得の機会が常にあり、上達できる環境です。<br>
+        オリジナルブランドF.I.L.M.Sの家具は、社長自らが作りました。そんな社長に弟子入りして、鉄の家具を作ってみたい人、大歓迎です！
 	</p>
 </section>
 <section class="g">
@@ -198,28 +182,25 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<div class="image_area">
 			<ul class="slides">
 			<li>
-		<img src="../contents03.jpg" alt="">
+		<img src="kinzoku01.jpg" alt="">
+	</li>
+	<li>
+		<img src="kinzoku02.jpg" alt="">
+	</li>
+	<li>
+		<img src="gallery02.jpg" alt="">
+	</li>
+	<li>
+		<img src="kinzoku06.jpg" alt="">
 	</li>
 	<li>
 		<img src="../first-view.jpg" alt="">
 	</li>
 	<li>
-		<img src="gallery03.jpg" alt="">
+		<img src="gallery01.jpg" alt="">
 	</li>
 	<li>
-		<img src="gallery04.jpg" alt="">
-	</li>
-	<li>
-		<img src="gallery05.jpg" alt="">
-	</li>
-	<li>
-		<img src="gallery06.jpg" alt="">
-	</li>
-	<li>
-		<img src="gallery07.jpg" alt="">
-	</li>
-	<li>
-		<img src="gallery08.jpg" alt="">
+		<img src="kinzoku05.jpg" alt="">
 	</li>
 		</ul>
 		<div class="button left_btn">&lt;</div>
@@ -232,22 +213,34 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	<ul class="Lightbox">
 		<li class="thumbnails">
 			<div class="thumbnail">
-				<img src="sato.jpg" alt="">
+				<img src="yamagishi.jpg" alt="">
 				<hgroup>
-					<h3>佐藤さん</h3>
+					<h3>山岸さん</h3>
 					<p>
-						板や部品を図面どおりに取りつけて、次の工程に渡す「仮組」という工程を担当しています。平面の図面を見て、部品を立体に組み立てていくのは難しいですが、PCで3Dを確認することもできるので、少しずつ慣れてきます。感覚がつかめるまでには、だいたい1年くらいかかりました。
+						山岸さんは、図面を見ながら鉄のパイプを組み立てて、機械の外枠をつくる仕事をしています。<br>
+                        「最初は難しかったけど、だんだん自分でできることが増えて楽しくなってきた」と話してくれました。<br>
+                        200kg以上の部品をクレーンで動かすこともあり、体力は必要だけど、自分が携わったものが完成した時の達成感は大きいそうです。<br>
+                        接客の仕事をしていてふたが苦手だった山岸さんですが、「誰かの役に立つものを作りたい」という想いでこの仕事を選びました。<br>
+                        「素直にコツコツがんばれる人なら、誰でも成長できる仕事です」と語ってくれました。
 					</p>
-					<p>
-						現場で実際に自分が関わった鉄骨が建物になったときは、「ちゃんと建った、無事にできてよかった」と、ほっとします。インパクト（電動工具）で締め作業をしているときは、特に面白いです。
-	                </p>
-					<p>
-						職場は和気あいあいとしていて、わからないことがあればすぐに聞けるし、先輩たちも優しく教えてくれます。
-                        プライベートでは車いじりが趣味で、ジムニーに乗っています。テールランプを変えたり、山道をドライブしたりするのが楽しいです。
-	                </p>
 				</hgroup>
 			</div>
-			<p>2021年中途採用<br>佐藤さん</p>
+			<p>入社5年目<br>山岸さん</p>
+		</li>
+		<li class="thumbnails">
+			<div class="thumbnail">
+				<img src="kinjou.jpg" alt="">
+				<hgroup>
+					<h3>金城さん</h3>
+					<p>
+						金城さんは、金属板をレーザーで切ったり、ネジ穴を開けたりする“溶接の前準備”を担当しています。<br>
+                        作業の順番を自分で考えて進められるのが楽しく、自分に合っていると感じているそうです。完成したパーツが製品になると、やりがいを感じるとのこと。<br>
+                        精密な作業や重たいものを扱う場面もありますが、「集中して一人で進めたいタイプの人には向いてると思います」と教えてくれました。<br>
+                        実は山岸さんは高校の同級生で、入社したら山岸さんがいてびっくりしたそうです！
+					</p>
+				</hgroup>
+			</div>
+			<p>入社3年目<br>金城さん</p>
 		</li>
 	</ul>
 </section>
@@ -264,7 +257,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>募集職種</dt>
-					<dd>鉄骨製造職</dd>
+					<dd>溶接技術者</dd>
 				</div>
 				<div>
 					<dt>雇用形態</dt>
@@ -276,11 +269,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>契約更新の可能性</dt>
-					<dd>なし</dd>
+					<dd>-</dd>
 				</div>
 				<div>
 					<dt>試用期間</dt>
-					<dd>3カ月（待遇の変更なし）</dd>
+					<dd>6カ月（待遇の変更なし）</dd>
 				</div>
 				<div>
 					<dt>試用期間中の労働条件</dt>
@@ -288,20 +281,20 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>就業場所</dt>
-					<dd>〒3850051<br>
-					長野県佐久市中込３４００−７</dd>
+					<dd>〒3860005<br>
+					長野県上田市古里８１９－２</dd>
 				</div>
 				<div>
 					<dt>アクセス</dt>
-					<dd>JR小海線北中込駅から徒歩5分</dd>
+					<dd>バス停「旧SBC放送局前」から徒歩８分</dd>
 				</div>
 				<div>
 					<dt>受動喫煙対策</dt>
-					<dd>建物内喫煙不可</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>受動喫煙対策に関する特記事項</dt>
-					<dd>屋外に喫煙所設置</dd>
+					<dd>喫煙専用室設置</dd>
 				</div>
 				<div>
 					<dt>マイカー通勤</dt>
@@ -313,10 +306,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>必要な知識・技能等</dt>
-					<dd>
-						あれば尚可<br>
-						普通自動車免許（入社後の取得を認めます。）
-					</dd>
+					<dd>必須 普通自動車運転免許(入社後取得可能、AT限定可)</dd>
 				</div>
 			</dl>
 			<h3>賃金・手当</h3>
@@ -327,7 +317,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>月平均労働日数</dt>
-					<dd>22日</dd>
+					<dd>21.6日</dd>
 				</div>
 				<div>
 					<dt>毎月の賃金</dt>
@@ -335,11 +325,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>基本給</dt>
-					<dd>200,000円～（諸手当含む）</dd>
+					<dd>160,000円～</dd>
 				</div>
 				<div>
 					<dt>定期的に支払われる手当①</dt>
-					<dd>-</dd>
+					<dd>調整手当(4,000円)</dd>
 				</div>
 				<div>
 					<dt>定期的に支払われる手当②</dt>
@@ -351,11 +341,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>初任給</dt>
-					<dd>200,000円</dd>
+					<dd>160,000円～</dd>
 				</div>
 				<div>
 					<dt>特別に支払われる手当①</dt>
-					<dd>-</dd>
+					<dd>皆勤手当（10,000円～）</dd>
 				</div>
 				<div>
 					<dt>特別に支払われる手当②</dt>
@@ -363,11 +353,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>賃金締切日</dt>
-					<dd>毎月25日</dd>
+					<dd>月末</dd>
 				</div>
 				<div>
 					<dt>通勤手当</dt>
-					<dd>実費支給（上限あり：月額12,000円まで）</dd>
+					<dd>あり(上限15,000円まで)</dd>
 				</div>
 				<div>
 					<dt>昇給</dt>
@@ -375,17 +365,14 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>賞与</dt>
-					<dd>
-						年2回<br>
-						2.5カ月
-					</dd>
+					<dd>年2回</dd>
 				</div>
 			</dl>
 			<h3>労働時間</h3>
 			<dl>
 				<div>
 					<dt>就業期間</dt>
-					<dd>変形労働時間制 8時00分〜17時00分</dd>
+					<dd>8時20分〜17時25分</dd>
 				</div>
 				<div>
 					<dt>時間外労働</dt>
@@ -393,11 +380,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>休日</dt>
-					<dd>週休2日制（日・祝日・その他）</dd>
+					<dd>週休2日制（日・その他）</dd>
 				</div>
 				<div>
 					<dt>その他休日</dt>
-					<dd>当社年間休日カレンダーによる。年間休日101日</dd>
+					<dd>年間休日115日</dd>
 				</div>
 			</dl>
 			<h3>保険・年金・定年等</h3>
@@ -407,20 +394,24 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 					<dd>厚生年金保険、健康保険、雇用保険、労災保険</dd>
 				</div>
 				<div>
+					<dt>企業年金</dt>
+					<dd>-</dd>
+				</div>
+				<div>
 					<dt>退職金制度</dt>
-					<dd>あり（勤続年数1年以上）</dd>
+					<dd>あり（勤続年数2年以上）</dd>
 				</div>
 				<div>
 					<dt>定年制</dt>
-					<dd>あり（70歳）</dd>
+					<dd>あり（60歳）</dd>
 				</div>
 				<div>
 					<dt>一律定年制</dt>
-					<dd>あり（定年年齢70歳）</dd>
+					<dd>あり（定年年齢60歳）</dd>
 				</div>
 				<div>
 					<dt>再雇用制度</dt>
-					<dd>あり（上限年齢73歳）</dd>
+					<dd>あり（上限年齢65歳）</dd>
 				</div>
 				<div>
 					<dt>勤務延長</dt>
@@ -453,11 +444,13 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>平均継続勤務年数</dt>
-					<dd>-</dd>
+					<dd>
+						3.7年<br>
+					</dd>
 				</div>
 				<div>
 					<dt>従業員の平均年齢</dt>
-					<dd>52歳</dd>
+					<dd>38歳</dd>
 				</div>
 				<div>
 					<dt>研修の有無</dt>
@@ -465,13 +458,12 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>研修内容</dt>
-					<dd>安全教育</dd>
+					<dd>OJT研修</dd>
 				</div>
 				<div>
 					<dt>自己啓発支援の有無</dt>
 					<dd>
-						あり<br>
-						業務に必要と認められた場合の資格取得支援あり
+						なし
 					</dd>
 				</div>
 				<div>
@@ -492,15 +484,15 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>前事業年度の有給休暇の平均取得日数</dt>
-					<dd>10日</dd>
+					<dd>10.5日</dd>
 				</div>
 				<div>
 					<dt>前事業年度の育児休業取得者数</dt>
-					<dd>女性：1人、男性：0人</dd>
+					<dd>女性：0人、男性：0人</dd>
 				</div>
 				<div>
 					<dt>前事業年度の出産者数</dt>
-					<dd>1名</dd>
+					<dd>0名</dd>
 				</div>
 				<div>
 					<dt>女性役員割合</dt>
@@ -512,7 +504,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>区分の名称</dt>
-					<dd>製造職</dd>
+					<dd>その他の非鉄金属製造業</dd>
 				</div>
 			</dl>
 		</div>
@@ -521,18 +513,18 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>求人数</dt>
-					<dd>2名</dd>
+					<dd>1人</dd>
 				</div>
 				<div>
 					<dt>応募前職場見学</dt>
 					<dd>
-						2025年8月4日（金）10時00分～<br>
-						2025年8月9日（水）10時00分～
+						可 随時
 					</dd>
 				</div>
 				<div>
 					<dt>選考方法</dt>
-					<dd>面接</dd>
+					<dd>面接、適性検査、学科試験(一般常識)
+					</dd>
 				</div>
 				<div>
 					<dt>選考旅費</dt>
@@ -540,12 +532,13 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>選考結果通知</dt>
-					<dd>面接後7日以内</dd>
+					<dd>面接後１４日以内</dd>
 				</div>
 				<div>
 					<dt>選考担当者</dt>
 					<dd>
-						総務部 高橋さない
+						代表取締役<br>
+						北澤丈直
 					</dd>
 				</div>
 			</dl>
@@ -558,7 +551,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<img src="../../../arrow.svg">
 		</a>
 	</div>
-</section>
+</section>		
 <section class="g nextpage">
     <h2>その他の職種を見てみる</h2>
     <ul class="image_navi">
@@ -581,7 +574,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	</main>
 <?php include $highschool_base . 'tmpl_navi.php' ?>
 </div>
-<?php include $base . '../footer.php' ?>
+<?php //include $base . '../footer.php' ?>
 <script src="<?= $highschool_base ?>animation.js"></script>
 <script src="<?= $highschool_base ?>lightbox.js"></script>
 <script src="<?= $highschool_base ?>NRGallery.js"></script>

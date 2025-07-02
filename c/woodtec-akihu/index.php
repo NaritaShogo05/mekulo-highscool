@@ -252,7 +252,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			</div>
 			<p>木製サッシ</p>
 		</li>
-		<li class="thumbnails">
+		<!--<li class="thumbnails">
 			<div class="thumbnail">
 				<div class="inner">
 					<img src="busi01.jpg" alt="">
@@ -265,7 +265,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</hgroup>
 			</div>
 			<p>組子の使われている建具</p>
-		</li>
+		</li>-->
 	</ul>
 </section>
 <section class="content" id="numeric_data">
@@ -304,7 +304,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		</li>
 	</ul>
 	<ul class="fl_con">
-	<li>
+	<!--<li>
 			<div class="chart">
 				<p>育児休暇率</p>
 				<svg width="150" height="150" viewBox="0 0 200 200">
@@ -314,8 +314,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 					]); ?>
 				</svg>
 			</div>
-		</li>
-		<li>
+		</li>-->
+		<!--<li>
 			<div class="chart">
 				<p>新卒・中途の比率</p>
 				<svg width="150" height="150" viewBox="0 0 200 200">
@@ -325,7 +325,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 					]); ?>
 				</svg>
 			</div>
-		</li>
+		</li>-->
 		<li>
 			<div class="chart">
 				<p>男女比</p>
@@ -362,7 +362,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</svg>
 			</div>
 		</li>
-		<li>
+		<!--<li>
 			<div class="chart">
 				<p>出身地の割合</p>
 					<svg width="150" height="150" viewBox="0 0 200 200">
@@ -372,7 +372,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 													]); ?>
 					</svg>
 				</div>
-		</li>
+		</li>-->
 	</ul>	
 </section>
 <section class="content" id="company_info">

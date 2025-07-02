@@ -277,7 +277,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 					<dt>アクセス</dt>
 					<dd>
 						真田工場：バス停「幸村の郷」から徒歩5分<br>
-						芳田工場：「バス停」 漆戸から徒歩5分
+						芳田工場：バス停「漆戸」から徒歩5分
 					</dd>
 				</div>
 				<div>

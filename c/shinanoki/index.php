@@ -271,7 +271,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		</li>
 		<li class="small">
 			<p>年間休日</p>
-			<p class="num"><span>108</span>日</p>
+			<p class="num"><span>120</span>日</p>
 		</li>
 		<li class="small">
 			<p>設立年</p>
