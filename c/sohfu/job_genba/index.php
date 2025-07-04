@@ -288,14 +288,19 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>必要な知識・技能等</dt>
-					<dd>不問</dd>
+					<dd>
+						必須<br>
+						普通自動車運転免許<br>
+						(無い方でも面接時にお気軽にご相談ください)<br>
+						準中型自動車運転免許を取得された方には補助あり
+					</dd>
 				</div>
 			</dl>
 			<h3>賃金・手当</h3>
 			<dl>
 				<div>
 					<dt>賃金形態</dt>
-					<dd>月給190,000円</dd>
+					<dd>月給</dd>
 				</div>
 				<div>
 					<dt>月平均労働日数</dt>
@@ -362,11 +367,15 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>休日</dt>
-					<dd>日曜・土曜隔週</dd>
+					<dd>日曜日、その他</dd>
 				</div>
 				<div>
 					<dt>その他休日</dt>
-					<dd>当社カレンダーによる</dd>
+					<dd>
+						当社カレンダーによる<br>
+						土曜日は隔週で休み<br>
+						休日は月あたり7~8日程度
+					</dd>
 				</div>
 			</dl>
 			<h3>保険・年金・定年等</h3>
@@ -516,11 +525,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>選考方法</dt>
-					<dd>書類選考、面接</dd>
+					<dd>面接</dd>
 				</div>
 				<div>
 					<dt>選考旅費</dt>
-					<dd>-</dd>
+					<dd>なし</dd>
 				</div>
 				<div>
 					<dt>選考結果通知</dt>

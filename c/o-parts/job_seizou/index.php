@@ -385,7 +385,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>通勤手当</dt>
-					<dd>-</dd>
+					<dd>実費支給（上限あり）　月額５００００円まで</dd>
 				</div>
 				<div>
 					<dt>昇給</dt>
@@ -425,7 +425,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>加入保険等</dt>
-					<dd>雇用保険、労災保険、健康保険、厚生年金、財形、上田商工会議所生命共済</dd>
+					<dd>雇用保険、労災保険、健康保険、厚生年金、上田商工会議所生命共済</dd>
 				</div>
 				<div>
 					<dt>企業年金</dt>
@@ -575,7 +575,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<div>
 					<dt>選考担当者</dt>
 					<dd>
-						大日方 新治
+						代表取締役　<br>大日方　神治
 					</dd>
 				</div>
 			</dl>

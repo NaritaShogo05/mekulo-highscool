@@ -33,7 +33,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 <html lang="ja">
 <head>
 <meta charset="utf-8">
-<?php include $base . '../tracking.php'; ?>
+<?php //include $base . '../tracking.php'; ?>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="<?= $highschool_base ?>highschool.css?v=2">
 <link rel="icon" href="<?= $base ?>mekulo-works-mark.png">
@@ -171,7 +171,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<img src="work4.jpg" alt="" class="scene">
 	</div>
 	<p>
-		はじめは、金属部品を器具に固定することから先輩に教えてもらいます。それに慣れたころ、金属部品を設備へ投入する仕事を覚えます。体力の必要な仕事です。最初は先輩と一緒に作業をしますが、技術面、体力面を先輩に認められると、独り立ちです！
+		はじめは、金属部品を治具に固定することから先輩に教えてもらいます。それに慣れたころ、金属部品を設備へ投入する仕事を覚えます。体力の必要な仕事です。最初は先輩と一緒に作業をしますが、技術面、体力面を先輩に認められると、独り立ちです！
 	</p>
 </section>
 <section class="g">

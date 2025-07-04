@@ -273,15 +273,15 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>アクセス</dt>
-					<dd>-</dd>
+					<dd>千曲バス武石線　中沖バス停駅から徒歩2分</dd>
 				</div>
 				<div>
 					<dt>受動喫煙対策</dt>
-					<dd>-</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>受動喫煙対策に関する特記事項</dt>
-					<dd>-</dd>
+					<dd>屋内禁煙</dd>
 				</div>
 				<div>
 					<dt>マイカー通勤</dt>
@@ -304,7 +304,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>月平均労働日数</dt>
-					<dd>21日</dd>
+					<dd>20.4日</dd>
 				</div>
 				<div>
 					<dt>毎月の賃金</dt>
@@ -340,7 +340,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>賃金締切日</dt>
-					<dd>-</dd>
+					<dd>20日</dd>
 				</div>
 				<div>
 					<dt>通勤手当</dt>
@@ -348,11 +348,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>昇給</dt>
-					<dd>年1回</dd>
+					<dd>あり（前年度実績3%）</dd>
 				</div>
 				<div>
 					<dt>賞与</dt>
-					<dd>年2回（2.5か月分）</dd>
+					<dd>1年目なし、次年度から年2回（2.5か月分）</dd>
 				</div>
 			</dl>
 			<h3>労働時間</h3>
@@ -367,42 +367,45 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>休日</dt>
-					<dd>週休2日制（土日・祝日・夏季休暇）</dd>
+					<dd>土・日・祝日</dd>
 				</div>
 				<div>
 					<dt>その他休日</dt>
-					<dd>年間休日120日（2025年度計画）</dd>
+					<dd>
+						年末年始、お盆<br>
+						現場によっては土曜出勤あり
+					</dd>
 				</div>
 			</dl>
 			<h3>保険・年金・定年等</h3>
 			<dl>
 				<div>
 					<dt>加入保険等</dt>
-					<dd>厚生年金保険、健康保険、介護保険、雇用保険、労災保険</dd>
+					<dd>厚生年金保険、健康保険、雇用保険、労災保険</dd>
 				</div>
 				<div>
 					<dt>企業年金</dt>
-					<dd>企業年金基金</dd>
+					<dd>-</dd>
 				</div>
 				<div>
 					<dt>退職金制度</dt>
-					<dd>-</dd>
+					<dd>あり（勤続年数3年以上）</dd>
 				</div>
 				<div>
 					<dt>定年制</dt>
-					<dd>あり（65歳）</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>一律定年制</dt>
-					<dd>-</dd>
+					<dd>65歳</dd>
 				</div>
 				<div>
 					<dt>再雇用制度</dt>
-					<dd>-</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>勤務延長</dt>
-					<dd>-</dd>
+					<dd>なし</dd>
 				</div>
 				<div>
 					<dt>入居可能住宅</dt>
@@ -442,19 +445,18 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>研修の有無</dt>
-					<dd>なし</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>研修内容</dt>
-					<dd>なし</dd>
+					<dd>新卒研修</dd>
 				</div>
 				<div>
 					<dt>自己啓発支援の有無</dt>
 					<dd>
+						あり<br>
 						〇資格取得支援<br>
 						仕事に必要な資格について、取得費用を全額補助いたします。
-						〇各種講習会への参加<br>
-						協会などが主催する「1級土木施工管理試験の講習」「ドローンの操縦方法」など。
 					</dd>
 				</div>
 				<div>
@@ -467,7 +469,10 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>社内検定等の有無</dt>
-					<dd>なし</dd>
+					<dd>
+						あり<br>
+						1級土木施工管理試験の講習、ドローンの操縦方法、など
+					</dd>
 				</div>
 				<div>
 					<dt>前年度の月平均所定外労働時間</dt>
@@ -518,7 +523,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>選考方法</dt>
-					<dd>書類選考、面接</dd>
+					<dd>面接</dd>
 				</div>
 				<div>
 					<dt>選考旅費</dt>
@@ -526,7 +531,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>選考結果通知</dt>
-					<dd>面接後５日以内</dd>
+					<dd>面接後7日以内</dd>
 				</div>
 				<div>
 					<dt>選考担当者</dt>
@@ -545,7 +550,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<img src="../../../arrow.svg">
 		</a>
 	</div>
-</section>		
+</section>	
 <section class="g nextpage">
     <h2>その他の職種を見てみる</h2>
     <ul class="image_navi">

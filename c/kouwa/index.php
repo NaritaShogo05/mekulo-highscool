@@ -274,8 +274,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<p>男女比</p>
 				<svg width="150" height="150" viewBox="0 0 200 200">
 					<?php create_donut_graph(100, 100, 100, 40, [
-						[ 'value' => 28, 'caption' => '男性', 'color' => '#0062B5'],
-						[ 'value' => 15, 'caption' => '女性', 'color' => '#FF6E7E'],
+						[ 'value' => 19, 'caption' => '男性', 'color' => '#0062B5'],
+						[ 'value' => 26, 'caption' => '女性', 'color' => '#FF6E7E'],
 					]); ?>
 				</svg>
 			</div>

@@ -311,7 +311,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		</li>
 		<li class="small">
 			<p>平均残業時間</p>
-			<p class="num"><span>16</span>時間</p>
+			<p class="num"><span>10</span>時間</p>
 		</li>
 		<li class="small">
 			<p>年間休日</p>
@@ -533,7 +533,7 @@ id="recruitment_requirements">
 				</div>
 				<div>
 					<dt>試用期間中の労働条件</dt>
-					<dd>異なる</dd>
+					<dd>同条件</dd>
 				</div>
 				<div>
 					<dt>就業場所</dt>
@@ -542,7 +542,7 @@ id="recruitment_requirements">
 				</div>
 				<div>
 					<dt>アクセス</dt>
-					<dd>屋代高校前駅から徒歩で20分</dd>
+					<dd>屋代高校前駅から車で5分</dd>
 				</div>
 				<div>
 					<dt>受動喫煙対策</dt>
@@ -570,19 +570,19 @@ id="recruitment_requirements">
 			<dl>
 				<div>
 					<dt>賃金形態</dt>
-					<dd>その他（日給月給）</dd>
+					<dd>日給</dd>
 				</div>
 				<div>
 					<dt>月平均労働日数</dt>
-					<dd>22日</dd>
+					<dd>21.6日</dd>
 				</div>
 				<div>
 					<dt>毎月の賃金</dt>
-					<dd>円</dd>
+					<dd>現行</dd>
 				</div>
 				<div>
 					<dt>基本給</dt>
-					<dd>10,000～15,000円/日</dd>
+					<dd>194,400円</dd>
 				</div>
 				<div>
 					<dt>定期的に支払われる手当①</dt>
@@ -594,11 +594,11 @@ id="recruitment_requirements">
 				</div>
 				<div>
 					<dt>固定残業代</dt>
-					<dd></dd>
+					<dd>なし</dd>
 				</div>
 				<div>
 					<dt>初任給</dt>
-					<dd>円</dd>
+					<dd>194,400円</dd>
 				</div>
 				<div>
 					<dt>特別に支払われる手当①</dt>
@@ -614,7 +614,7 @@ id="recruitment_requirements">
 				</div>
 				<div>
 					<dt>通勤手当</dt>
-					<dd></dd>
+					<dd>-</dd>
 				</div>
 				<div>
 					<dt>昇給</dt>
@@ -623,7 +623,7 @@ id="recruitment_requirements">
 				<div>
 					<dt>賞与</dt>
 					<dd>年2回<br>
-						（賞与額300000～900000円）
+						（賞与額300,000～900,000円）
 					</dd>
 				</div>
 			</dl>
@@ -646,7 +646,7 @@ id="recruitment_requirements">
 				<div>
 					<dt>その他休日</dt>
 					<dd>
-						-
+						年末年始、GW、お盆、など
 					</dd>
 				</div>
 			</dl>
@@ -658,7 +658,7 @@ id="recruitment_requirements">
 				</div>
 				<div>
 					<dt>企業年金</dt>
-					<dd>-</dd>
+					<dd>厚生年金基金</dd>
 				</div>
 				<div>
 					<dt>退職金制度</dt>
@@ -670,19 +670,19 @@ id="recruitment_requirements">
 				</div>
 				<div>
 					<dt>一律定年制</dt>
-					<dd>-</dd>
+					<dd>なし</dd>
 				</div>
 				<div>
 					<dt>再雇用制度</dt>
-					<dd>-</dd>
+					<dd>なし</dd>
 				</div>
 				<div>
 					<dt>勤務延長</dt>
-					<dd>-</dd>
+					<dd>なし</dd>
 				</div>
 				<div>
 					<dt>入居可能住宅</dt>
-					<dd>-</dd>
+					<dd>なし</dd>
 				</div>
 			</dl>
 		</div>
@@ -691,19 +691,19 @@ id="recruitment_requirements">
 			<dl>
 				<div>
 					<dt>直近3年間の新卒者等採用者数</dt>
-					<dd>前年度:-人、2年度前：-人、3年度前：-人</dd>
+					<dd>前年度:0人、2年度前：0人、3年度前：0人</dd>
 				</div>
 				<div>
 					<dt>直近3年間の新卒者等離職者数</dt>
-					<dd>前年度:-人、2年度前：-人、3年度前：-人</dd>
+					<dd>前年度:0人、2年度前：0人、3年度前：0人</dd>
 				</div>
 				<div>
 					<dt>男性の新卒者等採用数</dt>
-					<dd>前年度:4人、2年度前：3人、3年度前：-人</dd>
+					<dd>前年度:0人、2年度前：0人、3年度前：0人</dd>
 				</div>
 				<div>
 					<dt>女性の新卒者等採用数</dt>
-					<dd>前年度:-人、2年度前：-人、3年度前：-人</dd>
+					<dd>前年度:0人、2年度前：0人、3年度前：0人</dd>
 				</div>
 				<div>
 					<dt>平均継続勤務年数</dt>
@@ -749,19 +749,19 @@ id="recruitment_requirements">
 				</div>
 				<div>
 					<dt>前事業年度の育児休業取得者数</dt>
-					<dd>女性：-人、男性：-人</dd>
+					<dd>女性：0人、男性：0人</dd>
 				</div>
 				<div>
 					<dt>前事業年度の出産者数</dt>
-					<dd>-名</dd>
+					<dd>0名</dd>
 				</div>
 				<div>
 					<dt>女性役員割合</dt>
-					<dd>-%</dd>
+					<dd>50%</dd>
 				</div>
 				<div>
 					<dt>女性の管理職割合</dt>
-					<dd>-%</dd>
+					<dd>0%</dd>
 				</div>
 				<div>
 					<dt>区分の名称</dt>
@@ -774,7 +774,7 @@ id="recruitment_requirements">
 			<dl>
 				<div>
 					<dt>求人数</dt>
-					<dd>-人</dd>
+					<dd>2人</dd>
 				</div>
 				<div>
 					<dt>応募前職場見学</dt>

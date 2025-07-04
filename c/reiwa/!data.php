@@ -1,6 +1,6 @@
 <?php
 $co = [
-    'slug' => 'nomuraya',
+    'slug' => 'reiwa',
     'image' => 'office.jpg',
     'company_name' => '株式会社令和',
     'catch_copy' => '心で組む、安全の土台',

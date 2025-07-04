@@ -393,7 +393,10 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>賞与</dt>
-					<dd>年2回（1.8か月分）</dd>
+					<dd>
+						あり<br>
+						初年度なし、次年度から年2回（1.8か月分）
+					</dd>
 				</div>
 			</dl>
 			<h3>労働時間</h3>
@@ -412,7 +415,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>その他休日</dt>
-					<dd>年間休日108日（2025年度計画）</dd>
+					<dd>年末年始、お盆など</dd>
 				</div>
 			</dl>
 			<h3>保険・年金・定年等</h3>
@@ -423,7 +426,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>企業年金</dt>
-					<dd>企業年金基金</dd>
+					<dd>-</dd>
 				</div>
 				<div>
 					<dt>退職金制度</dt>
@@ -431,11 +434,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>定年制</dt>
-					<dd>あり（65歳）</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>一律定年制</dt>
-					<dd>あり</dd>
+					<dd>65歳</dd>
 				</div>
 				<div>
 					<dt>再雇用制度</dt>
@@ -543,7 +546,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>求人数</dt>
-					<dd>1人</dd>
+					<dd>2人</dd>
 				</div>
 				<div>
 					<dt>応募前職場見学</dt>

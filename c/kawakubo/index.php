@@ -246,7 +246,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	<ul class="gr_con">
 		<li class="small">
 			<p>平均年齢</p>
-			<p class="num"><span>51.82</span>歳</p>
+			<p class="num"><span>47</span>歳</p>
 		</li>
 		<li class="small">
 			<p>平均勤続年数</p>
@@ -254,11 +254,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		</li>
 		<li class="small">
 			<p>平均残業時間</p>
-			<p class="num"><span>0</span>時間</p>
+			<p class="num"><span>25</span>時間</p>
 		</li>
 		<li class="small">
 			<p>年間休日</p>
-			<p class="num"><span>110</span>日</p>
+			<p class="num"><span>107</span>日</p>
 		</li>
 		<li class="small">
 			<p>設立年</p>
@@ -562,7 +562,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>賞与</dt>
-					<dd>年2回または2.5か月分</dd>
+					<dd>初年度なし、次年度から年2回または2.5か月分</dd>
 				</div>
 			</dl>
 			<h3>労働時間</h3>

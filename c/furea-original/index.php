@@ -97,12 +97,12 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
         ちょっと難しい言い方をすると、私たちはロボット・システム・インテグレーター。<br>ロボットアームと様々なパーツを組み合わせて、人手不足や作業効率といった現場の課題を解決するためのロボットを作ります。そんなロボットづくりのプロ集団です。<br>
     </p><br>
 	<p>
-        また、人と一緒に働くロボット「DOBOT(ドゥボット)」の、国内でも数社しかない正規代理店として、現場に最適なロボットを届け、工場の作業の効率アップをお手伝いしています。<br>
-        人とロボットが、協力して働く時代。その未来を、あなたの手でつくってみませんか？
+        2025年6月、汎用ヒト型ロボット「DOBOT　Atom（アトム）」がニュースになりました。身長165センチ62キログラムのロボットが直立二足歩行し、取材陣の間を歩く様子が報道され、人々を驚かせました。人とロボットが、協力して働く時代はすぐそこまで来ています。<br>
+		そんな未来を、あなたの手でつくってみませんか？
 	</p>
 	<div id="gallery">
 		<div class="gallery_window">
-			<img src="first_view.JPG" alt="" class="fs show">
+			<img src="first_view.jpg" alt="" class="fs show">
 			<img src="busi01.jpg" alt="" class="sc">
 			<img src="job_robot/robot3.jpg" alt="" class="th">
 			<img src="factory.jpg" alt="" class="fo">
@@ -164,7 +164,6 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	</p>
 	<div class="images">
 		<img src="contents02.jpg" class="scene" alt="">
-		<img src="contents03.jpg" class="scene" alt="">
 	</div>
 	<p>
 		そして私たちの仕事は、ロボットと、ロボットが働く環境を<strong>カスタマイズ</strong>すること！自動車工場の部品の組立や溶接、倉庫の荷物の運搬や仕分けなど、現場ごとに仕事内容はさまざま。<br>
@@ -172,7 +171,6 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	</p>
 	<div class="images">
 		<img src="contents04.jpg" class="scene" alt="">
-		<img src="contents05.jpg" class="scene" alt="">
 	</div>
 	</section>
 <section id="business" class="content">
@@ -205,48 +203,6 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</hgroup>
 			</div>
 			<p>エンジェルビジョン デスクトップリーダー</p>
-		</li>
-		<li class="thumbnails">
-			<div class="thumbnail">
-				<div class="inner">
-					<img src="busi03.jpg" alt="">
-				</div>
-				<hgroup>
-					<h3>加工機ローディング</h3>
-					<p>
-						3台のロボットを使い、材料を機械にセットする作業から加工が終わったものを取り出すまでを、全自動で行っています。
-					</p>
-				</hgroup>
-			</div>
-			<p>加工機ローディング</p>
-		</li>
-		<li class="thumbnails">
-			<div class="thumbnail">
-				<div class="inner">
-					<img src="busi04.jpg" alt="">
-				</div>
-				<hgroup>
-					<h3>自動溶接ロボット</h3>
-					<p>
-						溶接機へのワークの設置から溶接作業、取り出し、製品の整列までを全自動で行うロボットです。
-					</p>
-				</hgroup>
-			</div>
-			<p>自動溶接ロボット</p>
-		</li>
-		<li class="thumbnails">
-			<div class="thumbnail">
-				<div class="inner">
-					<img src="busi05.jpg" alt="">
-				</div>
-				<hgroup>
-					<h3>パレタイジングロボット</h3>
-					<p>
-						台車で運ばれてきた20㎏の荷物を全自動で運送用のパレットへ積み替えるロボットです。
-					</p>
-				</hgroup>
-			</div>
-			<p>パレタイジングロボット</p>
 		</li>
 		<li class="thumbnails">
 			<div class="thumbnail">
@@ -387,11 +343,14 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dt>事業内容</dt>
 			<dd>
 				<ul class="li_style">
-					<li>産業用ロボットシステム</li>
 					<li>自動制御機器</li>
 					<li>精密機械器具</li>
 					<li>電気制御機器</li>
-					<li>電子応用装置の設計・製造</li>
+					<li>電子応用装置の設計・製造・販売</li>
+					<li>産業用、サービス業用、実験用および教材用ハードウェアの輸入、販売、技術サポート</li>
+					<li>技術教育教材の企画、制作、販売および技術講習会の企画、販売</li>
+					<li>コンピュータソフトウェアの輸入、販売、技術サポート</li>
+					<li>ソフトウェアおよびハードウェアの受託開発、受託サービス、技術コンサルティング</li>
 				</ul>
 			</dd>
 		</div>
@@ -401,13 +360,28 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		</div>
 		<div>
 			<dt>従業員数</dt>
-			<dd>10名（男性 6名／女性 4名、役員、パート・アルバイト含む）（2025年1月1日現在）</dd>
+			<dd>12名</dd>
 		</div>
 		<div>
 			<dt>本社所在地</dt>
 			<dd>〒<?= $co['post_code']?><br><?= $co['address']?><br>
 				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3209.072047789946!2d138.1860619!3d36.455815099999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601d991a746754e7%3A0x9405d23b01255f48!2z44CSMzg5LTA2MDEg6ZW36YeO55yM5Z-056eR6YOh5Z2C5Z-O55S65Z2C5Z-O77yZ77yU77yT77yZ4oiS77yV!5e0!3m2!1sja!2sjp!4v1750903499444!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 			</dd>
+		</div>
+		<div>
+			<dt>第二工場</dt>
+			<dd>〒389-0602 長野県埴科郡坂城町中之条３０８０</dd>
+			<img src="factory2.jpg" alt="" class="scene">
+		</div>
+		<div>
+			<dt>関東営業所</dt>
+			<dd>〒277-8520　千葉県柏市若柴178-4,　柏の葉キャンパス 148街区2 ｼｮｯﾌﾟ＆ｵﾌｨｽ棟6F</dd>
+			<img src="factory3.jpg" alt="" class="scene">
+		</div>
+		<div>
+			<dt>関西営業所</dt>
+			<dd>〒661-0982　兵庫県尼崎市食満2-2-11</dd>
+			<img src="factory4.jpg" alt="" class="scene">
 		</div>
 		<div>
 			<dt>本社電話番号</dt>

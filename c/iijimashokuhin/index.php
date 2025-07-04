@@ -469,6 +469,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 						}
 						?>
 				</ul>
+				これ以外の日程はお問い合わせください。
             </dd>
         </div>
         <div>
@@ -500,7 +501,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>募集職種</dt>
-					<dd>食品加工業</dd>
+					<dd>なめ茸やきのこ・山菜の製造業務</dd>
 				</div>
 				<div>
 					<dt>雇用形態</dt>
@@ -512,7 +513,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>契約更新の可能性</dt>
-					<dd>あり(原則更新)</dd>
+					<dd>-</dd>
 				</div>
 				<div>
 					<dt>試用期間</dt>
@@ -608,7 +609,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>賞与</dt>
-					<dd>年2回または2か月分</dd>
+					<dd>年2回(2か月分)</dd>
 				</div>
 			</dl>
 			<h3>労働時間</h3>
@@ -717,7 +718,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>キャリアコンサルティング制度の有無</dt>
-					<dd>あり</dd>
+					<dd>なし</dd>
 				</div>
 				<div>
 					<dt>社内検定等の有無</dt>
@@ -763,12 +764,16 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<div>
 					<dt>応募前職場見学</dt>
 					<dd>
-					    2025年7月28日（月）～8月1日（金）の中で要相談 13時00分～
+					    2025年7月29日（火） 9時00分～<br>
+						2025年7月30日（水） 9時00分～<br>
+						2025年7月31日（木） 9時00分～<br>
+						2025年8月1日（金） 9時00分～<br>
+						これ以外の日程はお問い合わせください。
 					</dd>
 				</div>
 				<div>
 					<dt>選考方法</dt>
-					<dd>面接</dd>
+					<dd>見学</dd>
 				</div>
 				<div>
 					<dt>選考旅費</dt>

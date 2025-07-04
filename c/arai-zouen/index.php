@@ -331,7 +331,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		</li>
 		<li class="small">
 			<p>年間休日</p>
-			<p class="num"><span>80</span>日</p>
+			<p class="num"><span>95</span>日</p>
 			<p class="at">※2025年計画</p>
 		</li>
 		<li class="small">
@@ -519,7 +519,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<img src="<?= $highschool_base ?>arrow.svg">
 	</a>
 </div>
-<section class="requirements" id="recruitment_requirements">
+<section class="requirements g" id="recruitment_requirements">
 	<h2>募集要項</h2>
 	<div class="tabs">
 		<button class="tab1">募集要項</button>
@@ -532,7 +532,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>募集職種</dt>
-					<dd>造園</dd>
+					<dd>造園職人</dd>
 				</div>
 				<div>
 					<dt>雇用形態</dt>
@@ -556,20 +556,22 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>就業場所</dt>
-					<dd>〒389-0601<br>
-					長野県更科群坂城町坂城236-1</dd>
+					<dd>
+						〒389-0601<br>
+						長野県埴科郡坂城町坂城236-1
+					</dd>
 				</div>
 				<div>
 					<dt>アクセス</dt>
-					<dd>-</dd>
+					<dd>坂城駅から徒歩25分</dd>
 				</div>
 				<div>
 					<dt>受動喫煙対策</dt>
-					<dd>-</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>受動喫煙対策に関する特記事項</dt>
-					<dd>-</dd>
+					<dd>屋内禁煙</dd>
 				</div>
 				<div>
 					<dt>マイカー通勤</dt>
@@ -655,18 +657,21 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>休日</dt>
-					<dd>日曜日、その他</dd>
+					<dd>日、祝、その他</dd>
 				</div>
 				<div>
 					<dt>その他休日</dt>
-					<dd>年末年始、GW、お盆、など 天候により休日になることもあります。</dd>
+					<dd>
+						現場によって土曜出勤あり<br>
+						年末年始、ゴールデンウィーク、お盆は長期休暇
+					</dd>
 				</div>
 			</dl>
 			<h3>保険・年金・定年等</h3>
 			<dl>
 				<div>
 					<dt>加入保険等</dt>
-					<dd>厚生年金保険、健康保険、介護保険、雇用保険、労災保険</dd>
+					<dd>厚生年金保険、健康保険、雇用保険、労災保険</dd>
 				</div>
 				<div>
 					<dt>企業年金</dt>
@@ -741,7 +746,6 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 					<dd>
 						〇資格取得支援<br>
 						仕事に必要な資格について、取得費用を全額補助いたします。
-						〇各種講習会への参加
 					</dd>
 				</div>
 				<div>
@@ -750,7 +754,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>キャリアコンサルティング制度の有無</dt>
-					<dd>あり</dd>
+					<dd>なし</dd>
 				</div>
 				<div>
 					<dt>社内検定等の有無</dt>
@@ -791,7 +795,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>求人数</dt>
-					<dd>2名</dd>
+					<dd>1名</dd>
 				</div>
 				<div>
 					<dt>応募前職場見学</dt>
@@ -806,11 +810,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>選考旅費</dt>
-					<dd>-</dd>
+					<dd>なし</dd>
 				</div>
 				<div>
 					<dt>選考結果通知</dt>
-					<dd>面接後１０日以内</dd>
+					<dd>面接後7日以内</dd>
 				</div>
 				<div>
 					<dt>選考担当者</dt>

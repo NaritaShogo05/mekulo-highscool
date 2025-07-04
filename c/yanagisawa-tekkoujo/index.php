@@ -223,7 +223,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	<ul class="gr_con">
 		<li class="small">
 			<p>平均年齢</p>
-			<p class="num"><span>51.4</span>歳</p>
+			<p class="num"><span>52</span>歳</p>
 		</li>
 		<li class="small">
 			<p>平均勤続年数</p>
@@ -231,7 +231,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		</li>
 		<li class="small">
 			<p>平均残業時間</p>
-			<p class="num"><span>30</span>時間</p>
+			<p class="num"><span>20</span>時間</p>
 		</li>
 		<li class="small">
 			<p>年間休日</p>

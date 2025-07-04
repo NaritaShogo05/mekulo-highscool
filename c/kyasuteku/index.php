@@ -460,7 +460,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>募集職種</dt>
-					<dd>砂型鋳造部門、加工部門</dd>
+					<dd>鋳物製造業および機械加工業</dd>
 				</div>
 				<div>
 					<dt>雇用形態</dt>

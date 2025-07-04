@@ -207,28 +207,28 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	<ul class="gr_con">
 		<li class="small">
 			<p>平均年齢</p>
-			<p class="num"><span>44</span>歳</p>
+			<p class="num"><span>42.7</span>歳</p>
 		</li>
 		<li class="small">
 			<p>平均勤続年数</p>
-			<p class="num"><span>17</span>年</p>
+			<p class="num"><span>10</span>年</p>
 		</li>
 		<li class="small">
 			<p>平均残業時間</p>
-			<p class="num"><span>7</span>時間</p>
+			<p class="num"><span>20</span>時間</p>
 		</li>
 		<li class="small">
 			<p>年間休日</p>
-			<p class="num"><span>95</span>日</p>
+			<p class="num"><span>110</span>日</p>
 			<p class="at">※2025年計画</p>
 		</li>
 		<li class="small">
 			<p>設立年</p>
-			<p class="num"><span>1978</span>年</p>
+			<p class="num"><span>1977</span>年</p>
 		</li>
 		<li class="small">
 			<p>平均有給取得日数</p>
-			<p class="num"><span>19.5</span>日</p>
+			<p class="num"><span>16</span>日</p>
 		</li>
 	</ul>
 	<ul class="fl_con">
@@ -237,8 +237,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<p>育児休暇率</p>
 				<svg width="150" height="150" viewBox="0 0 200 200">
 					<?php create_donut_graph(100, 100, 100, 45, [
-						[ 'value' => 100, 'caption' => '0%', 'color' => '#d9d9d9'],
-						[ 'value' => 0.001, 'caption' => '', 'color' => '#2378C7'],
+						[ 'value' => 0.001, 'caption' => '', 'color' => '#d9d9d9'],
+						[ 'value' => 100, 'caption' => '100%', 'color' => '#2378C7'],
 					]); ?>
 				</svg>
 			</div>
@@ -248,8 +248,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<p>新卒・中途の比率</p>
 				<svg width="150" height="150" viewBox="0 0 200 200">
 					<?php create_donut_graph(100, 100, 100, 45, [
-						[ 'value' => 3, 'caption' => '新卒', 'color' => '#2378C7'],
-						[ 'value' => 7, 'caption' => '中途', 'color' => '#F34444'],
+						[ 'value' => 0.001, 'caption' => '', 'color' => '#2378C7'],
+						[ 'value' => 100, 'caption' => '中途100%', 'color' => '#F34444'],
 					]); ?>
 				</svg>
 			</div>
@@ -259,8 +259,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<p>男女比</p>
 				<svg width="150" height="150" viewBox="0 0 200 200">
 					<?php create_donut_graph(100, 100, 100, 40, [
-						[ 'value' => 8, 'caption' => '男性', 'color' => '#0062B5'],
-						[ 'value' => 2, 'caption' => '女性', 'color' => '#FF6E7E'],
+						[ 'value' => 3, 'caption' => '男性', 'color' => '#0062B5'],
+						[ 'value' => 3, 'caption' => '女性', 'color' => '#FF6E7E'],
 					]); ?>
 				</svg>
 			</div>
@@ -271,10 +271,10 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<svg width="150" height="150" viewBox="0 0 200 200">
 				<?php create_donut_graph(100, 100, 100, 40, [
 					[ 'value' => 0.001, 'caption' => "", 'color' => '#808080'],
-					[ 'value' => 4, 'caption' => '20代', 'color' => '#0073B7'],
-					[ 'value' => 3, 'caption' => '30代', 'color' => '#00AEEF'],
-					[ 'value' => 7, 'caption' => '40代', 'color' => '#00B398'],
-					[ 'value' => 6, 'caption' => '50代', 'color' => '#009F6B'],
+					[ 'value' => 1, 'caption' => '20代', 'color' => '#0073B7'],
+					[ 'value' => 1, 'caption' => '30代', 'color' => '#00AEEF'],
+					[ 'value' => 4, 'caption' => '40代', 'color' => '#00B398'],
+					[ 'value' => 2, 'caption' => '50代', 'color' => '#009F6B'],
 					[ 'value' => 1, 'caption' => '60代', 'color' => '#008C4A'],
 				]); ?>
 			</svg>
@@ -295,8 +295,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<p>出身地の割合</p>
 					<svg width="150" height="150" viewBox="0 0 200 200">
 						<?php create_donut_graph(100, 100, 100, 40, [
-							[ 'value' => 95, 'caption' => "長野県内", 'color' => '#B2CF3E'],
-							[ 'value' => 5, 'caption' => '県外', 'color' => '#FEE929'],
+							[ 'value' => 100, 'caption' => "長野県内100%", 'color' => '#B2CF3E'],
+							[ 'value' => 0.001, 'caption' => '', 'color' => '#FEE929'],
 													]); ?>
 					</svg>
 				</div>
@@ -318,28 +318,26 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<div>
 			<dt>事業内容</dt>
 			<dd>
-				<ul class="li_style">
-					<li>一般建設業（ダクト工事）</li>
-				</ul>
+				金属加工
 			</dd>
 		</div>
 		<div>
 			<dt>代表者名</dt>
-			<dd>金子慎也</dd>
+			<dd>山田しのぶ</dd>
 		</div>
 		<div>
 			<dt>従業員数</dt>
-			<dd>17人</dd>
+			<dd>8人</dd>
 		</div>
 		<div>
 			<dt>本社所在地</dt>
 			<dd>〒<?= $co['post_code']?><br><?= $co['address']?><br>
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d411273.5803471806!2d137.9031010706135!3d36.358965914100914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601da32fd89a4f8b%3A0x5e95147d2fa2bc25!2z44Of44Ok44Oe6KO95L2c5omA!5e0!3m2!1sja!2sjp!4v1745987333428!5m2!1sja!2sjp" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17037.712180815346!2d138.2175384896355!3d36.38658543658651!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601da32fd89a4f8b%3A0x5e95147d2fa2bc25!2z44Of44Ok44Oe6KO95L2c5omA!5e0!3m2!1sja!2sjp!4v1751512477956!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 			</dd>
 		</div>
 		<div>
 			<dt>本社電話番号</dt>
-			<dd>0268-72-4065</dd>
+			<dd>0268-25-1775</dd>
 		</div>
 		<div class="hp">
 			<dt>ホームページ</dt>

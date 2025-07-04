@@ -293,15 +293,18 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>アクセス</dt>
-					<dd>JR小海線北中込駅から徒歩5分</dd>
+					<dd>JR小海線北中込駅から徒歩3分</dd>
 				</div>
 				<div>
 					<dt>受動喫煙対策</dt>
-					<dd>建物内喫煙不可</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>受動喫煙対策に関する特記事項</dt>
-					<dd>屋外に喫煙所設置</dd>
+					<dd>
+						屋内禁煙<br>
+						喫煙所あり
+					</dd>
 				</div>
 				<div>
 					<dt>マイカー通勤</dt>
@@ -393,11 +396,14 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>休日</dt>
-					<dd>週休2日制（日・祝日・その他）</dd>
+					<dd>日・祝日・その他</dd>
 				</div>
 				<div>
 					<dt>その他休日</dt>
-					<dd>当社年間休日カレンダーによる。年間休日101日</dd>
+					<dd>
+						当社年間休日カレンダーによる。<br>
+						年間休日101日
+					</dd>
 				</div>
 			</dl>
 			<h3>保険・年金・定年等</h3>
@@ -412,11 +418,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>定年制</dt>
-					<dd>あり（70歳）</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>一律定年制</dt>
-					<dd>あり（定年年齢70歳）</dd>
+					<dd>70歳</dd>
 				</div>
 				<div>
 					<dt>再雇用制度</dt>
@@ -453,7 +459,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>平均継続勤務年数</dt>
-					<dd>-</dd>
+					<dd>11年</dd>
 				</div>
 				<div>
 					<dt>従業員の平均年齢</dt>
@@ -512,7 +518,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>区分の名称</dt>
-					<dd>製造職</dd>
+					<dd>設計職</dd>
 				</div>
 			</dl>
 		</div>

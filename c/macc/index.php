@@ -92,8 +92,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		企業に伴走し、税金と会計の仕事で支える
 	</h2>
 	<p>
-		税理士法人MACCは、税金と会計の専門知識de
-		「他社（者）の幸せ」を実現している会社です。チームで協力し、お客様や仲間の笑顔を追求しています。税理士事務所というと「難しそう」と思うかもしれません。でも、「人の役に立ちたい」「社会に貢献する仕事をしたい」という気持ちがあれば、未経験でも大丈夫。あなたの可能性をMACCで広げませんか？
+		税理士法人MACCは、税金と会計の専門知識で「他社（者）の幸せ」を実現している会社です。チームで協力し、お客様や仲間の笑顔を追求しています。税理士事務所というと「難しそう」と思うかもしれません。でも、「人の役に立ちたい」「社会に貢献する仕事をしたい」という気持ちがあれば、未経験でも大丈夫。あなたの可能性をMACCで広げませんか？
 	</p>
 	<div id="gallery">
 		<div class="gallery_window">
@@ -226,11 +225,6 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 <section class="content" id="numeric_data">
 	<h2>数字で見る当社</h2>
 	<p class="remark">（2025年6月1日現在）</p>
-	<div class="large">
-		<p>売上高</p>
-		<p class="num"><span>2.6</span>億円</p>
-		<p class="year"></p>
-	</div>
 	<ul class="gr_con">
 		<li class="small">
 			<p>平均年齢</p>
@@ -250,8 +244,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<p class="at"></p>
 		</li>
 		<li class="small">
-			<p>設立年</p>
-			<p class="num"><span>2023</span>年</p>
+			<p>創業年</p>
+			<p class="num"><span>1962</span>年</p>
 		</li>
 		<li class="small">
 			<p>平均有給取得日数</p>

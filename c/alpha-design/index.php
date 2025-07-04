@@ -769,7 +769,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<div>
 					<dt>応募前職場見学</dt>
 					<dd>
-					    
+					    2025年8月4日(金)10時30分～12時00分<br>
+						2025年8月20日(水)10時30分～12時00分
 					</dd>
 				</div>
 				<div>

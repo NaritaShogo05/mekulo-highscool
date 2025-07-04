@@ -292,7 +292,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>受動喫煙対策に関する特記事項</dt>
-					<dd>屋外喫煙場所設置</dd>
+					<dd>屋内禁煙、屋外喫煙場所設置</dd>
 				</div>
 				<div>
 					<dt>マイカー通勤</dt>
@@ -323,7 +323,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>基本給</dt>
-					<dd>高卒以上171,000～　1か月160時間勤務の場合、残業代別</dd>
+					<dd>171,000円～</dd>
 				</div>
 				<div>
 					<dt>定期的に支払われる手当①</dt>
@@ -363,7 +363,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>賞与</dt>
-					<dd>年2回（3カ月）</dd>
+					<dd>年2回（3カ月分）</dd>
 				</div>
 			</dl>
 			<h3>労働時間</h3>
@@ -374,26 +374,30 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>時間外労働</dt>
-					<dd>月平均8時間</dd>
+					<dd>月平均10時間</dd>
 				</div>
 				<div>
 					<dt>休日</dt>
-					<dd>週休2日制（土日・祝日・夏季休暇）</dd>
+					<dd>日曜日、祝日、その他</dd>
 				</div>
 				<div>
 					<dt>その他休日</dt>
-					<dd>年間休日111日（2025年度計画）</dd>
+					<dd>
+						会社カレンダーによる<br>
+						年末年始、GW、お盆休業あり<br>
+						土曜日が出勤となるのは月0～2回です
+					</dd>
 				</div>
 			</dl>
 			<h3>保険・年金・定年等</h3>
 			<dl>
 				<div>
 					<dt>加入保険等</dt>
-					<dd>厚生年金保険、健康保険、介護保険、雇用保険、労災保険、財形、確定拠出年金</dd>
+					<dd>厚生年金保険、健康保険、雇用保険、労災保険、財形保険</dd>
 				</div>
 				<div>
 					<dt>企業年金</dt>
-					<dd>-</dd>
+					<dd>確定拠出年金</dd>
 				</div>
 				<div>
 					<dt>退職金制度</dt>
@@ -426,7 +430,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>直近3年間の新卒者等採用者数</dt>
-					<dd>前年度:2人、2年度前：0人、3年度前：1人</dd>
+					<dd>前年度:2人、2年度前：0人、3年度前：4人</dd>
 				</div>
 				<div>
 					<dt>直近3年間の新卒者等離職者数</dt>
@@ -452,12 +456,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>研修の有無</dt>
-					<dd></dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>研修内容</dt>
 					<dd>
-						あり<br>
 						新人研修他
 					</dd>
 				</div>
@@ -528,7 +531,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>選考方法</dt>
-					<dd>書類選考、面接</dd>
+					<dd>面接</dd>
 				</div>
 				<div>
 					<dt>選考旅費</dt>

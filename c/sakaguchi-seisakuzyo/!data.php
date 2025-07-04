@@ -1,6 +1,6 @@
 <?php
 $co = [
-    'slug' => 'sakaguchi-setubi',
+    'slug' => 'sakaguchi-seisakuzyo',
     'image' => 'company.jpg',
     'company_name' => '有限会社 坂口製作所',
     'catch_copy' => '中身を知ると、機械はもっと面白い！',
@@ -18,7 +18,7 @@ $co = [
 ];
 
 // 応募前見学
-$visit = [//あとで入れる
+$visit = [
     [
         'about' => '応募前見学',
         'date' => [
@@ -34,6 +34,7 @@ $visit = [//あとで入れる
             ],
             [
                 'name' => '2025年8月5日（火）10時30分～11時30分、13時30分～14時30分',
+                'date' => '2025-08-05',
                 'deadline' => '2025-08-05',//募集締切日
             ],
         ],
