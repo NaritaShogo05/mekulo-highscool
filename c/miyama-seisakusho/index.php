@@ -131,7 +131,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<figcaption><span class="name"><?= WRITER['shomura']['name']//担当者名をここに記入 ?></span></figcaption>
 	</figure>
 	<p style="min-height: 160px;">
-		ミヤマ製作所の山田社長 は、見かけによらずエネルギッシュで、思ったことをまっすぐ伝え、すぐに実行する人です。<br>
+		ミヤマ製作所の山田社長は、見かけによらずエネルギッシュで、思ったことをまっすぐ伝え、すぐに実行する人です。<br>
 		「もっとカッコいい作業着にしないと、若い子は入ってこないよ」って言われたら、すぐに新しい作業着を作っちゃう。それだけじゃなく、オリジナルのTシャツまで作っちゃう、柔軟な考え方と、遊び心を持っている社長です。<br>
 		製品を加工したての状態では、バリと呼ばれるギザギザがあり、製品として納品するためには、それを取り除く作業が必須です。納期に間に合わせるために、何百個っていうバリ取りを徹夜でやり遂げ、「やっと納品できた！」って、笑って話すような社長です。<br>
 		ミヤマ製作所は、技術者が集まるプロ集団だから、頑張ればすごい技術を身につけることができます。技術を身につけ、思いっきり発揮してください！
@@ -163,13 +163,13 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 					<img src="business1.jpg" alt="">
 				</div>
 				<hgroup>
-					<h3>NCフライス加工</h3>
+					<h3>マシニング加工</h3>
 					<p>
-						いわゆる角物と言われる金属の加工をおこないます。最大1300×700×600㎜（幅×奥行×高さ）の金属の加工ができます。
+						プログラムを組み金属加工を自動でおこないます。複雑な形の加工ができます。
 					</p>
 				</hgroup>
 			</div>
-			<p>NCフライス加工</p>
+			<p>マシニング加工</p>
 		</li>
 		<li class="thumbnails">
 			<div class="thumbnail">
@@ -188,16 +188,16 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<li class="thumbnails">
 			<div class="thumbnail">
 				<div class="inner">
-					<img src="business3.jpg" alt="">
+					<img src="sokutei.jpg" alt="">
 				</div>
 				<hgroup>
-					<h3>マシニング加工</h3>
+					<h3>3次元測定器</h3>
 					<p>
-						プログラムを組み金属加工を自動でおこないます。複雑な形の加工ができます。
+						直径200φまでの金属加工をおこなうことができます。丸物と呼ばれる、円筒や円錐形の物の加工をします。
 					</p>
 				</hgroup>
 			</div>
-			<p>マシニング加工</p>
+			<p>3次元測定器</p>
 		</li>
 	</ul>
 </section>
@@ -327,7 +327,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		</div>
 		<div>
 			<dt>従業員数</dt>
-			<dd>8人</dd>
+			<dd>9人（パート含む）</dd>
 		</div>
 		<div>
 			<dt>本社所在地</dt>

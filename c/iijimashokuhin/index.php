@@ -773,7 +773,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>選考方法</dt>
-					<dd>見学</dd>
+					<dd>面接</dd>
 				</div>
 				<div>
 					<dt>選考旅費</dt>

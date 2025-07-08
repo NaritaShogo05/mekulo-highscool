@@ -562,7 +562,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>賞与</dt>
-					<dd>初年度なし、次年度から年2回または2.5か月分</dd>
+					<dd>初年度なし、次年度から年2回（2.5か月分）</dd>
 				</div>
 			</dl>
 			<h3>労働時間</h3>

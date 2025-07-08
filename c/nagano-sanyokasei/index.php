@@ -97,21 +97,18 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
         製品ラインナップの中でも、特にホースは全国のホームセンターで取り扱われています。実は、国内屈指のメーカーなんです。<br>
         長野三洋化成で、全国のお客さまの身近にあるものを作ってみませんか？
 	</p>
-	<div class="images">
-		<img src="introduce1.jpg" class="scene" alt="">
-	</div>
 	<div id="gallery">
 		<div class="gallery_window">
-			<img src="first.jpg" alt="" class="fs show">
-			<img src="second.jpg" alt="" class="sc">
-			<img src="third.jpg" alt="" class="th">
-			<img src="fourth.jpg" alt="" class="fo">
+			<img src="gallery01.jpg" alt="" class="fs show">
+			<img src="job_seizou/seizou06.jpg" alt="" class="sc">
+			<img src="busi01.jpg" alt="" class="th">
+			<img src="job_seizou/seizou04.jpg" alt="" class="fo">
 		</div>
 		<div class="gallery_index">
-			<img src="first.jpg" alt="" class="fs">
-			<img src="second.jpg" alt="" class="sc">
-			<img src="third.jpg" alt="" class="th">
-			<img src="fourth.jpg" alt="" class="fo">
+			<img src="gallery01.jpg" alt="" class="fs">
+			<img src="job_seizou/seizou06.jpg" alt="" class="sc">
+			<img src="busi01.jpg" alt="" class="th">
+			<img src="job_seizou/seizou04.jpg" alt="" class="fo">
 		</div>
 	</div>
 	<h3>募集職種</h3>
@@ -150,7 +147,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		長野三洋化成は、ホース、まな板、子どものおもちゃなど、商品の企画、製造、出荷・販売までを、一貫して行っています。また、自社内でプラスチック原料の開発もしています。
 	</p>
 	<div class="images">
-		<img src="introduce1.jpg" class="scene" alt="">
+		<img src="first-view.jpg" class="scene" alt="">
 	</div>
 	<p>
 		「製造業」はクリエイティブな仕事です。<br>
@@ -158,21 +155,21 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
         しかし、機械化が進み、いつの間にか「同じことを繰り返す仕事」というイメージが定着してしまいました。<br>
         長野三洋化成には、グループ唯一の研究室があります。そこでは、原材料の組み合わせの開発や配合の研究など、専門的な知識と新しい発想を活かし、プラスチックとビニールの新しい可能性に挑み続けています。
 	</p>
-	<div class="images grid-img">
-		<img src="job_yousetsu/yousetsu2.jpg" class="scene" alt="">
-		<img src="job_yousetsu/yousetsu3.jpg" class="scene" alt="">
+	<div class="images">
+		<img src="contents01.jpg" class="scene" alt="">
+		<img src="contents02.jpg" class="scene" alt="">
 	</div>
 	<p>
 		研究室では紫外線に強い樹脂、粘性の高い樹脂など、使われるシチュエーションに合わせた機能を付与した樹脂の設計をおこなっています。ホースやまな板など最終製品を作っている樹脂メーカーが研究室を持っているのはとても珍しいことです。
 	</p>
 	<div class="images">
-		<img src="fukitsuke.jpg" class="scene" alt="">
+		<img src="contents03.jpg" class="scene" alt="">
 	</div>
 	<p>
 		また、長野三洋化成は創業以来、地域に密着した活動を行っています。湯の丸高地トレーニングプールへの寄付をはじめ、東御市工業振興会主催の親睦スポーツ大会に参加するなど、地域社会の一員として地元とのつながりを深めてきました。
 	</p>
 	<div class="images">
-		<img src="fukitsuke.jpg" class="scene" alt="">
+		<img src="contents04.jpg" class="scene" alt="">
 	</div>
 	<p>
 		長野三洋化成は、これからも地元に密着した企業として、全国に向かってビジネスを展開していきたいと思います。
@@ -184,7 +181,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<li class="thumbnails">
 			<div class="thumbnail">
 				<div class="inner">
-					<img src="seikan.jpg" alt="">
+					<img src="busi01.jpg" alt="">
 				</div>
 				<hgroup>
 					<h3>パワーホース</h3>
@@ -198,7 +195,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<li class="thumbnails">
 			<div class="thumbnail">
 				<div class="inner">
-					<img src="gomen.jpg" alt="">
+					<img src="busi02.jpg" alt="">
 				</div>
 				<hgroup>
 					<h3>抗菌まな板</h3>
@@ -212,7 +209,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<li class="thumbnails">
 			<div class="thumbnail">
 				<div class="inner">
-					<img src="anaake.jpg" alt="">
+					<img src="busi03.jpg" alt="">
 				</div>
 				<hgroup>
 					<h3>雪遊びスコップ</h3>
@@ -226,7 +223,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<li class="thumbnails">
 			<div class="thumbnail">
 				<div class="inner">
-					<img src="fukitsuke.jpg" alt="">
+					<img src="contents03.jpg" alt="">
 				</div>
 				<hgroup>
 					<h3>原材料コンパウンド</h3>
@@ -348,7 +345,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 </section>
 <section class="content" id="company_info">
 	<h2>会社概要</h2>
-	<img src="office.jpg" alt="" class="scene">
+	<img src="factory.jpg" alt="" class="scene">
 	<dl class="speclist">
 		<div>
 			<dt>会社名</dt>
@@ -381,7 +378,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<div>
 			<dt>本社所在地</dt>
 			<dd>〒<?= $co['post_code']?><br><?= $co['address']?><br>
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3217.3819080239614!2d138.46759807650105!3d36.254505972407784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601dcb5aeb822259%3A0xbdfb0d798128c345!2z5YaF6Jek5bel5qWt5omA!5e0!3m2!1sja!2sjp!4v1738231241938!5m2!1sja!2sjp" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6426.859100602469!2d138.38194!3d36.350373!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601db7f5854b9e07%3A0xf8bf7e411da4216c!2z5pel5pys44CB44CSMzg5LTA1MTEg6ZW36YeO55yM5p2x5b6h5biC5ruL6YeO55Sy77yS77yT77yQ77yV!5e0!3m2!1sja!2sus!4v1751530406055!5m2!1sja!2sus" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 			</dd>
 		</div>
 		<div>
@@ -390,7 +387,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		</div>
 		<div>
 			<dt>ホームページ</dt>
-			<dd><a href="https://sakucity-industrialpark.com/naitou/" target="<?= $co['slug'] ?>">https://sakucity-industrialpark.com/naitou/</a></dd>
+			<dd><a href="http://www.sanyokasei.co.jp/index.html" target="<?= $co['slug'] ?>">http://www.sanyokasei.co.jp/index.html</a></dd>
 		</div>
 	</dl>
 </section>
@@ -399,7 +396,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	<div class="pre_con">
 		<h3>モノづくりはヒトづくり</h3>
 		<figure class="portrait">
-			<img src="president_p.jpg" alt="">
+			<img src="president.jpg" alt="">
 			<figcaption><span class="name">内藤央</span></figcaption>
 		</figure>
 		<p>
@@ -414,7 +411,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
             といった3つの柱をもって、社員の皆さんが持っている力を最大限に発揮できるような環境づくりを行っています。
 		</p><br>
 		<p>
-            自分の技術やアイデアで、「相手を喜ばせたい」と行動できる方を求めています。まずは、会社を見て感じてください。
+            自分の技術やアイデアで、「相手を喜ばせたい」と行動できる方を求めています。<br>まずは、会社を見て感じてください。
 		</p>
 	</div>
 </section>

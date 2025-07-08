@@ -17,20 +17,6 @@ $co = [
     ]
 ];
 
-// 募集職種
-$occupation = [
-    'job_setubikoji' => [
-        'name' => '電気工事士',
-        'url' => 'job_setubikoji',
-        'catch_copy' => '修理方法を見極める！配管職人の世界',
-        'work' => ['666'],
-        'fv_url' => 'job_setubikoji/firstview.jpg',
-        'latitude' => 36.2891562,//緯度
-        'longitude' => 138.1207672,//経度 
-        'MBTI' => 'is-P'
-    ],
-];
-
 // 応募前見学
 $visit = [//あとで入れる
     [

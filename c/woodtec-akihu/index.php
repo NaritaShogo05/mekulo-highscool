@@ -287,7 +287,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		</li>
 		<li class="small">
 			<p>平均残業時間</p>
-			<p class="num"><span>6.6</span>時間</p>
+			<p class="num"><span>10</span>時間</p>
 		</li>
 		<li class="small">
 			<p>年間休日</p>
@@ -296,7 +296,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		</li>
 		<li class="small">
 			<p>設立年</p>
-			<p class="num"><span>1902</span>年</p>
+			<p class="num"><span>1993</span>年</p>
 		</li>
 		<li class="small">
 			<p>平均有給取得日数</p>

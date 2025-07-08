@@ -8,7 +8,7 @@ $co = [
     'post_code' => '386-1102',
     'address' => '長野県上田市上田原１７８４',
     'homepage' => 'https://miyamass.jp/',
-    'logo_filename' => 'logo.png',
+    'logo_filename' => 'miyama-logo.svg',
     'latitude' => 36.3855759193,//緯度
     'longitude' => 138.2310452864,//経度
     'human' => [
@@ -37,14 +37,24 @@ $visit = [
         'about' => '応募前見学',
         'date' => [
             [
-                'name' => '', 
-                'date' => '',
-                'deadline' => '',//募集締切日
+                'name' => '2025年8月4日（月） 9時00分～',
+                'date' => '2025-08-04',
+                'deadline' => '2025-08-03',//募集締切日
+            ],
+            [
+                'name' => '2025年8月5日（火） 9時00分～',
+                'date' => '2025-08-05',
+                'deadline' => '2025-08-04',//募集締切日
+            ],
+            [
+                'name' => '2025年8月6日（水） 9時00分～',
+                'date' => '2025-08-06',
+                'deadline' => '2025-08-05',//募集締切日
             ],
         ],
         'catch_copy' => '',
         'visit_img' =>'.jpg',
-        'content' => '',
+        'content' => '見学希望の方は、お問い合わせください。',
     ],
 ];
 

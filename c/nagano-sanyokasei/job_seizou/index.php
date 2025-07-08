@@ -128,7 +128,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
         製品を製造する機械の操作、でき上った製品の検査、出荷準備、日々の機械のメンテナンスなどをおこないます。
 	</p>
 	<div class="images">
-		<img src="../firstview.jpg" alt="" class="scene">
+		<img src="seizou01.jpg" alt="" class="scene">
 	</div>
 	<p>
 		「早番」「遅番」「夜勤」の３交代制で働きます。終業時間はローテーションで変わりますが、ほとんど残業もないので、自分の時間の計画が立てやすい職場環境です。<br>
@@ -141,13 +141,13 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		長野三洋化成の生産部は、ホース製造、まな板製造、成形製造、コンパウンド製造の４つの仕事に分かれています。製造されているホースは、日本全国のホームセンターで扱われていて、業界のトップメーカーです。
 	</p>
 	<div class="images">
-		<img src="yousetsu2.jpg" alt="" class="scene">
+		<img src="seizou02.jpg" alt="" class="scene">
 	</div>
 	<p>
 		長野三洋化成では100種類を超えるホースを製造しているため、製法や材料も異なります。それぞれに最適な機械制御を行うだけではなく、ホースの巻き取りや箱詰めなども行っています。
 	</p>
 	<div class="images">
-		<img src="yousetsu2.jpg" alt="" class="scene">
+		<img src="seizou03.jpg" alt="" class="scene">
 	</div>
 	<h3>
 		まな板製造
@@ -156,7 +156,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		家庭用から飲食店などでも使われる業務用のまな板まで、様々な種類のまな板を生産しています。まな板の成形機械のオペレートはもちろん、成形されたまな板に不良がないかの確認をおこない、滑り止め加工や抗菌加工、商品の袋詰めまでをおこなっています。
 	</p>
 	<div class="images">
-		<img src="yousetsu3.jpg" alt="" class="scene">
+		<img src="seizou04.jpg" alt="" class="scene">
 	</div>
 	<h3>
 		成形製造
@@ -165,7 +165,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		金型にプラスチック原料を流し込み、固めて製品を作る射出成形という製法で、ホースリールや子供用のおもちゃ道具などを生産しています。ただ原料を流し込むだけでなく、流し込む際の温度や圧力などを細かく調整する必要があり、見かけ以上に繊細な仕事です。
 	</p>
 	<div class="images">
-		<img src="yousetsu4.jpg" alt="" class="scene">
+		<img src="seizou05.jpg" alt="" class="scene">
 	</div>
 	<h3>
 		コンパウンド製造
@@ -174,7 +174,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		自社のホースを生産するための原材料であるコンパウンドを生産し、袋詰めをします。製造されたコンパウンドは自社製品だけでなく、全国の企業に供給され、ホースをはじめとする樹脂製品の原材料として、モノづくりを支えています。
 	</p>
 	<div class="images">
-		<img src="yousetsu5.jpg" alt="" class="scene">
+		<img src="seizou06.jpg" alt="" class="scene">
 	</div>
 </section>
 <section class="g">
@@ -183,19 +183,28 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<div class="image_area">
 			<ul class="slides">
 			<li>
-		<img src="yousetsu1.jpg" alt="">
+		<img src="seizou06.jpg" alt="">
 	</li>
 	<li>
-		<img src="yousetsu2.jpg" alt="">
+		<img src="../gallery01.jpg" alt="">
 	</li>
 	<li>
-		<img src="yousetsu3.jpg" alt="">
+		<img src="../contents01.jpg" alt="">
 	</li>
 	<li>
-		<img src="yousetsu7.jpg" alt="">
+		<img src="../contents02.jpg" alt="">
 	</li>
 	<li>
-		<img src="../robot.jpg" alt="">
+		<img src="seizou01.jpg" alt="">
+	</li>
+	<li>
+		<img src="seizou02.jpg" alt="">
+	</li>
+	<li>
+		<img src="seizou04.jpg" alt="">
+	</li>
+	<li>
+		<img src="seizou05.jpg" alt="">
 	</li>
 		</ul>
 		<div class="button left_btn">&lt;</div>
@@ -208,7 +217,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	<ul class="Lightbox">
 		<li class="thumbnails">
 			<div class="thumbnail">
-				<img src="shiokawa.jpg" alt="">
+				<img src="terao.jpg" alt="">
 				<hgroup>
 					<h3>寺尾さん</h3>
 					<p>

@@ -288,11 +288,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		</li>
 		<li class="small">
 			<p>平均残業時間</p>
-			<p class="num"><span>30</span>時間</p>
+			<p class="num"><span>23</span>時間</p>
 		</li>
 		<li class="small">
 			<p>年間休日</p>
-			<p class="num"><span>100</span>日</p>
+			<p class="num"><span>106</span>日</p>
 			<p class="at">※2025年計画</p>
 		</li>
 		<li class="small">
@@ -301,7 +301,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		</li>
 		<li class="small">
 			<p>平均有給取得日数</p>
-			<p class="num"><span>10</span>日</p>
+			<p class="num"><span>6</span>日</p>
 		</li>
 	</ul>
 	<ul class="fl_con">
@@ -381,7 +381,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 </section>
 <section class="content" id="company_info">
 	<h2>会社概要</h2>
-	<img src="office.jpg" alt="" class="scene">
+	<img src="company.jpg" alt="" class="scene">
 	<dl class="speclist">
 		<div>
 			<dt>会社名</dt>
@@ -498,7 +498,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>募集職種</dt>
-					<dd>電気業</dd>
+					<dd>電気設備工事全般</dd>
 				</div>
 				<div>
 					<dt>雇用形態</dt>
@@ -523,7 +523,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<div>
 					<dt>就業場所</dt>
 					<dd>〒385-0021<br>
-					長野県佐久市長泥1040-1</dd>
+					長野県佐久市長土呂1040-1</dd>
 				</div>
 				<div>
 					<dt>アクセス</dt>
@@ -604,7 +604,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>通勤手当</dt>
-					<dd>実費支給（上限あり：15,000円）</dd>
+					<dd>あり（月額15,000円まで）</dd>
 				</div>
 				<div>
 					<dt>昇給</dt>
@@ -623,16 +623,16 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>時間外労働</dt>
-					<dd>20時間（納期による）
+					<dd>月平均20時間
 					</dd>
 				</div>
 				<div>
 					<dt>休日</dt>
-					<dd>土・日・祝</dd>
+					<dd>日・祝・その他</dd>
 				</div>
 				<div>
 					<dt>その他休日</dt>
-					<dd>年間休日106日<br>
+					<dd>
 						第2・4・5土曜日は休み<br>
 						夏季休暇は8月13日～8月16日<br>
 						年末年始休暇は12月30日～1月4日まで
@@ -643,11 +643,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>加入保険等</dt>
-					<dd>雇用保険、労災保険、健康保険、厚生年金、厚生年金基金</dd>
+					<dd>雇用保険、労災保険、健康保険、厚生年金</dd>
 				</div>
 				<div>
 					<dt>企業年金</dt>
-					<dd>-</dd>
+					<dd>厚生年金基金</dd>
 				</div>
 				<div>
 					<dt>退職金制度</dt>
@@ -696,25 +696,23 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>平均継続勤務年数</dt>
-					<dd>-</dd>
+					<dd>13年</dd>
 				</div>
 				<div>
 					<dt>従業員の平均年齢</dt>
-					<dd>-</dd>
+					<dd>40歳</dd>
 				</div>
 				<div>
 					<dt>研修の有無</dt>
-					<dd>あり<br>
-						新入社員安全衛生教育等
-					</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>研修内容</dt>
-					<dd>あり　業務に関する、会社が認めた資格についての取得費用の全額負担</dd>
+					<dd>新入社員安全衛生教育等</dd>
 				</div>
 				<div>
 					<dt>自己啓発支援の有無</dt>
-					<dd>なし
+					<dd>あり<br>業務に関する、会社が認めた資格についての取得費用の全額負担
 					</dd>
 				</div>
 				<div>
@@ -764,15 +762,14 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>求人数</dt>
-					<dd>2人</dd>
+					<dd>1人</dd>
 				</div>
 				<div>
 					<dt>応募前職場見学</dt>
 					<dd>
-						あり<br>
-						見学では、信電工の仕事について、詳しくご説明します。<br>
-						その日に行なっている工事の内容によっては、実際の現場に足を運び、作業の様子を間近で見ることができる場合もあります。<br>
-						教科書や映像ではわからない、現場ならではのリアルな空気を感じてみてください。
+						2025年8月7日（木）9時30分～<br>
+						2025年8月8日（金）9時30分～<br>
+						※他の日程はお問い合わせください。
 					</dd>
 				</div>
 				<div>
@@ -792,6 +789,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<div>
 					<dt>選考担当者</dt>
 					<dd>
+						総務課<br>
 						小山 啓子
 					</dd>
 				</div>

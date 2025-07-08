@@ -189,15 +189,15 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	<ul class="gr_con">
 		<li class="small">
 			<p>平均年齢</p>
-			<p class="num"><span>48</span>歳</p>
+			<p class="num"><span>46</span>歳</p>
 		</li>
 		<li class="small">
 			<p>平均勤続年数</p>
-			<p class="num"><span>16</span>年</p>
+			<p class="num"><span>20</span>年</p>
 		</li>
 		<li class="small">
 			<p>平均残業時間</p>
-			<p class="num">月<span>3</span>時間</p>
+			<p class="num">月<span>5</span>時間</p>
 		</li>
 		<li class="small">
 			<p>年間休日</p>
@@ -206,11 +206,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		</li>
 		<li class="small">
 			<p>設立年</p>
-			<p class="num"><span>1974</span>年</p>
+			<p class="num"><span>1967</span>年</p>
 		</li>
 		<li class="small">
 			<p>平均有給取得日数</p>
-			<p class="num"><span>10</span>日</p>
+			<p class="num"><span>7.5</span>日</p>
 		</li>
 	</ul>
 	<ul class="fl_con">
@@ -311,7 +311,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		</div>
 		<div>
 			<dt>従業員数</dt>
-			<dd>10名（男性 7名／女性 3名、役員、パート・アルバイト含む）</dd>
+			<dd>9名（男性 7名／女性 2名、役員、パート・アルバイト含む）</dd>
 		</div>
 		<div>
 			<dt>本社所在地</dt>
@@ -423,7 +423,7 @@ id="recruitment_requirements">
 				</div>
 				<div>
 					<dt>試用期間中の労働条件</dt>
-					<dd></dd>
+					<dd>-</dd>
 				</div>
 				<div>
 					<dt>就業場所</dt>
@@ -440,8 +440,10 @@ id="recruitment_requirements">
 				</div>
 				<div>
 					<dt>受動喫煙対策に関する特記事項</dt>
-					<dd>屋内禁煙<br>
-					喫煙室設置</dd>
+					<dd>
+						屋内禁煙<br>
+						建物外にて喫煙
+					</dd>
 				</div>
 				<div>
 					<dt>マイカー通勤</dt>
@@ -496,11 +498,11 @@ id="recruitment_requirements">
 				</div>
 				<div>
 					<dt>賃金締切日</dt>
-					<dd>固定（25日）</dd>
+					<dd>毎月25日</dd>
 				</div>
 				<div>
 					<dt>通勤手当</dt>
-					<dd>あり（上限4,200円）</dd>
+					<dd>あり（4,200円まで）</dd>
 				</div>
 				<div>
 					<dt>昇給</dt>
@@ -537,7 +539,7 @@ id="recruitment_requirements">
 			<dl>
 				<div>
 					<dt>加入保険等</dt>
-					<dd>雇用保険、労災保険、健康保険、厚生年金</dd>
+					<dd>雇用保険、労災保険、健康保険、厚生年金保険</dd>
 				</div>
 				<div>
 					<dt>企業年金</dt>
@@ -553,15 +555,15 @@ id="recruitment_requirements">
 				</div>
 				<div>
 					<dt>一律定年制</dt>
-					<dd>あり（65歳）</dd>
+					<dd>65歳</dd>
 				</div>
 				<div>
 					<dt>再雇用制度</dt>
-					<dd>あり（上限75歳）</dd>
+					<dd>あり（75歳まで）</dd>
 				</div>
 				<div>
 					<dt>勤務延長</dt>
-					<dd>あり（上限70歳）</dd>
+					<dd>あり（70歳まで）</dd>
 				</div>
 				<div>
 					<dt>入居可能住宅</dt>
@@ -574,19 +576,19 @@ id="recruitment_requirements">
 			<dl>
 				<div>
 					<dt>直近3年間の新卒者等採用者数</dt>
-					<dd>前年度:0人、2年度前：0人、3年度前：0人</dd>
+					<dd>令和5年度:0人、令和4年度：0人、令和3年度：0人</dd>
 				</div>
 				<div>
 					<dt>直近3年間の新卒者等離職者数</dt>
-					<dd>前年度:0人、2年度前：0人、3年度前：0人</dd>
+					<dd>令和5年度:0人、令和4年度：0人、令和3年度：0人</dd>
 				</div>
 				<div>
 					<dt>男性の新卒者等採用数</dt>
-					<dd>前年度:0人、2年度前：0人、3年度前：0人</dd>
+					<dd>令和5年度:0人、令和4年度：0人、令和3年度：0人</dd>
 				</div>
 				<div>
 					<dt>女性の新卒者等採用数</dt>
-					<dd>前年度:0人、2年度前：0人、3年度前：0人</dd>
+					<dd>令和5年度:0人、令和4年度：0人、令和3年度：0人</dd>
 				</div>
 				<div>
 					<dt>平均継続勤務年数</dt>
@@ -598,8 +600,12 @@ id="recruitment_requirements">
 				</div>
 				<div>
 					<dt>研修の有無</dt>
-					<dd>あり<br>
-						新人社員研修
+					<dd>あり</dd>
+				</div>
+				<div>
+					<dt>研修内容</dt>
+					<dd>
+						新入社員研修
 					</dd>
 				</div>
 				<div>
@@ -655,7 +661,7 @@ id="recruitment_requirements">
 			<dl>
 				<div>
 					<dt>求人数</dt>
-					<dd>-人</dd>
+					<dd>3人</dd>
 				</div>
 				<div>
 					<dt>応募前職場見学</dt>

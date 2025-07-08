@@ -10,7 +10,7 @@ include_once $highschool_base . 'circle.php';
 // ページのメタデータ
 $title = $co['company_name'] . 'の高卒求人情報';
 $title_with_site = $title . ' | めくろうワークス';
-$description = '有限会社 内藤工業所の応募前見学ページです。';//メタディスクリプションをここに挿入 
+$description = '株式会社 長野三洋化成の応募前見学ページです。';//メタディスクリプションをここに挿入 
 $canonical_url = 'https://works.mekulo.jp/hs/' . $co['slug'] . '/';
 $og_image = 'https://works.mekulo.jp/ogp-image.png';
 ?>
@@ -64,32 +64,28 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 <div class="content_area">
 <main>
 <div class="fv_wr">
-	<img alt="" class="fv_image" src="../firstview.jpg">
+	<img alt="" class="fv_image" src="../first-view.jpg">
 	<div class="apply">
 		<h1 class="catch"><?= $co['company_name'] ?></h1>
 		<p class="tag">応募前見学ページ</p>
 	</div>
 </div>
 <section id="visit1" class="content">
-	<p class="catchcopy"><span>自分の身長より大きい！？</span><br>
-		<span>製品の製造現場をのぞいてみよう！</span></p>
+	<p class="catchcopy"><span></span></p>
 	<p class="cont">
-		内藤工業所の応募前見学では、小さな部品の加工から大きな製品の溶接までを間近で見学しながら、仕事内容について説明します。<br>
-		工場内の雰囲気を実際に感じながら、社長や専務から会社のことを直接聞くことができます。<br>
-		タイミングが合えば、自分の身長の2倍ほどもある製品が溶接される、迫力満点の作業を見ることができるかもしれません。
 	</p>
 	<div class="opendate">
 		<p>開催日時</p>
 		<ul>
-			<li>2025年7月29日（火） 14時00分～</li>
-			<li>2025年8月5日（火） 14時00分～</li>
+			<li>2025年 月  日（ ）   時  分～</li>
+			<li>2025年 月  日（ ）   時  分～</li>
 		</ul>
 	</div>
 	<div class="flow">
 		<p>見学の流れ</p>
 		<ul>
-			<li>会社説明<span>10分程度</span></li>
-			<li>工場見学<span>30分程度</span></li>
+			<li>会社説明<span>  分程度</span></li>
+			<li>工場見学<span>  分程度</span></li>
 		</ul>
 	</div>
 	<p class="entry_txt">応募前見学をご希望の方は、担任の先生や、進路指導の先生にご相談ください。</p>

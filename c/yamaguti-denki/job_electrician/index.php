@@ -235,42 +235,42 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		</div>
 	</div>
 </section>
-		<section class="g" id="employee_introduction">
-			<h2>社員紹介</h2>
-			<ul class="Lightbox">
-				<li class="thumbnails">
-					<div class="thumbnail">
-						<img src="toyoda.jpg" alt="">
-						<hgroup>
-							<h3>豊田さん</h3>
-							<p>YouTubeで山口電気の広告を見た日に、思い切って会社見学の電話をしました。社員のみなさんが優しくて、ここなら安心して働けると思いました。<br>
-							休日は、よく他県までドライブします。「行きたい！」と思ったらすぐに行動するタイプです（笑）</p>
-						</hgroup>
-					</div>
-					<p>2023年 (中途入社)<br>豊田さん</p>
-				</li>
-			</ul>
-		</section>
-		<section class="g requirements" id="recruitment_requirements">
-			<h2>募集要項</h2>
-			<div class="tabs">
-				<button class="tab1">募集要項</button>
-				<button class="ta2">青少年雇用情報</button>
-				<button class="ta3">選考方法</button>
+<section class="g" id="employee_introduction">
+	<h2>社員紹介</h2>
+	<ul class="Lightbox">
+		<li class="thumbnails">
+			<div class="thumbnail">
+				<img src="toyoda.jpg" alt="">
+				<hgroup>
+					<h3>豊田さん</h3>
+					<p>YouTubeで山口電気の広告を見た日に、思い切って会社見学の電話をしました。社員のみなさんが優しくて、ここなら安心して働けると思いました。<br>
+					休日は、よく他県までドライブします。「行きたい！」と思ったらすぐに行動するタイプです（笑）</p>
+				</hgroup>
 			</div>
-			<div class="requirement">
-				<div class="content recruitment">
-					<h3>仕事内容</h3>
-					<dl>
-						<div>
-							<dt>募集職種</dt>
-							<dd>電気工事士</dd>
-						</div>
-						<div>
-							<dt>雇用形態</dt>
-							<dd>正社員</dd>
-						</div>
-						<div>
+			<p>2023年 (中途入社)<br>豊田さん</p>
+		</li>
+	</ul>
+</section>
+<section class="g requirements" id="recruitment_requirements">
+	<h2>募集要項</h2>
+	<div class="tabs">
+		<button class="tab1">募集要項</button>
+		<button class="ta2">青少年雇用情報</button>
+		<button class="ta3">選考方法</button>
+	</div>
+	<div class="requirement">
+		<div class="content recruitment">
+			<h3>仕事内容</h3>
+			<dl>
+				<div>
+					<dt>募集職種</dt>
+					<dd>電気工事士</dd>
+				</div>
+				<div>
+					<dt>雇用形態</dt>
+					<dd>正社員</dd>
+				</div>
+				<div>
 					<dt>雇用期間</dt>
 					<dd>定めなし</dd>
 				</div>
@@ -280,7 +280,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>試用期間</dt>
-					<dd>3～6カ月（待遇の変更なし）</dd>
+					<dd>3カ月</dd>
 				</div>
 				<div>
 					<dt>試用期間中の労働条件</dt>
@@ -293,15 +293,15 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>アクセス</dt>
-					<dd>附属中学前駅から徒歩7分</dd>
+					<dd>附属中学前駅から徒歩5分</dd>
 				</div>
 				<div>
 					<dt>受動喫煙対策</dt>
-					<dd>建物内喫煙不可</dd>
+					<dd>なし</dd>
 				</div>
 				<div>
 					<dt>受動喫煙対策に関する特記事項</dt>
-					<dd>-</dd>
+					<dd>屋内禁煙</dd>
 				</div>
 				<div>
 					<dt>マイカー通勤</dt>
@@ -313,7 +313,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>必要な知識・技能等</dt>
-					<dd>不問</dd>
+					<dd>
+						必要<br>
+						あれば尚可<br>
+						普通自動車第一種免許（AT限定可）
+					</dd>
 				</div>
 				</dl>
 				<h3>採用後の待遇</h3>
@@ -324,7 +328,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>月平均労働日数</dt>
-					<dd>24日</dd>
+					<dd>22.5日</dd>
 				</div>
 				<div>
 					<dt>毎月の賃金</dt>
@@ -352,11 +356,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>特別に支払われる手当①</dt>
-					<dd>資格手当（3,000～10,000円）</dd>
+					<dd>資格手当（3,000円）</dd>
 				</div>
 				<div>
 					<dt>特別に支払われる手当②</dt>
-					<dd>時間外勤務手当（基本給の125%）</dd>
+					<dd>家族手当（4,000円）</dd>
 				</div>
 				<div>
 					<dt>賃金締切日</dt>
@@ -369,13 +373,13 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<div>
 					<dt>昇給</dt>
 					<dd>
-						年１回
+						あり
 					</dd>
 				</div>
 				<div>
 					<dt>賞与</dt>
 					<dd>
-						年２回（約２か月分）
+						年２回（２か月分）
 					</dd>
 				</div>
 				</dl>
@@ -391,11 +395,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>休日</dt>
-					<dd>年間休日95日（日・祝日・他）<br>（2025年度計画）</dd>
+					<dd>日・祝・その他</dd>
 				</div>
 				<div>
 					<dt>その他休日</dt>
-					<dd>第二・第四土曜日、年末年始、夏季休暇、他</dd>
+					<dd>第二・第四土曜日、年末年始、夏季休暇</dd>
 				</div>
 			</dl>
 			<h3>保険・年金・定年等</h3>
@@ -406,7 +410,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>企業年金</dt>
-					<dd>企業年金基金</dd>
+					<dd>厚生年金基金</dd>
 				</div>
 				<div>
 					<dt>退職金制度</dt>
@@ -414,19 +418,19 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>定年制</dt>
-					<dd>あり（60歳）</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>一律定年制</dt>
-					<dd>あり（定年年齢60歳）</dd>
+					<dd>60歳</dd>
 				</div>
 				<div>
 					<dt>再雇用制度</dt>
-					<dd>あり</dd>
+					<dd>あり（65歳まで）</dd>
 				</div>
 				<div>
 					<dt>勤務延長</dt>
-					<dd>あり</dd>
+					<dd>なし</dd>
 				</div>
 				<div>
 					<dt>入居可能住宅</dt>
@@ -536,7 +540,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>選考方法</dt>
-					<dd>書類選考、面接</dd>
+					<dd>面接</dd>
 				</div>
 				<div>
 					<dt>選考旅費</dt>

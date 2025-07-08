@@ -261,11 +261,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		</li>
 		<li class="small">
 			<p>平均勤続年数</p>
-			<p class="num"><span>10</span>年</p>
+			<p class="num"><span>15</span>年</p>
 		</li>
 		<li class="small">
 			<p>平均残業時間</p>
-			<p class="num"><span>15</span>時間</p>
+			<p class="num"><span>5</span>時間</p>
 		</li>
 		<li class="small">
 			<p>年間休日</p>

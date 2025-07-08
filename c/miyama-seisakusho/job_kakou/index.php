@@ -137,7 +137,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	<h3>NCフライス加工</h3>
 	<div class="images">
 		<img src="contents01.jpg" alt="" class="scene">
-		<img src="contents02.jpg" alt="" class="scene">
+		<img src="contents04.jpg" alt="" class="scene">
 	</div>
 	<p>
 		金属をガリガリ削って、立体的な形を作るための機械です。手動でも操作できるけど、プログラムを使って自動で削ることもできます。 
@@ -151,7 +151,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	</p>
 	<h3>旋盤加工</h3>
 	<div class="images">
-		<img src="contents04.jpg" alt="" class="scene">
+		<img src="contents02.jpg" alt="" class="scene">
 	</div>
 	<p>
 		金属をグルグル回して、円柱とか円錐みたいな形を作る機械です。材料を回転させて、そこに刃物（バイト）を当てて削っていきます。
@@ -194,7 +194,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<div class="thumbnail">
 				<img src="shain.jpg" alt="">
 				<hgroup>
-					<h3>○○さん</h3>
+					<h3>Sさん</h3>
 					<p>
 						「仕事に前向きな人ばかりの環境！」<br>
 						前職は手を抜くのが当たり前の職場でした。<br>
@@ -202,7 +202,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 					</p>
 				</hgroup>
 			</div>
-			<p>ーー年入社<br>○○さん</p>
+			<p>Sさん</p>
 		</li>
 	</ul>
 </section>
@@ -478,7 +478,9 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<div>
 					<dt>応募前職場見学</dt>
 					<dd>
-						-
+						2025年8月4日（月） 9時00分～<br>
+						2025年8月5日（火） 9時00分～<br>
+						2025年8月6日（水） 9時00分～
 					</dd>
 				</div>
 				<div>

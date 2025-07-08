@@ -368,7 +368,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		</div>
 		<div>
 			<dt>従業員数</dt>
-			<dd>8名</8dd>
+			<dd>11名</8dd>
 		</div>
 		<div>
 			<dt>本社所在地</dt>

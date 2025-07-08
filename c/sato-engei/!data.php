@@ -1,7 +1,7 @@
 <?php
 $co = [
     'slug' => 'sato-engei',
-    'image' => '.jpg',
+    'image' => 'company.jpg',
     'company_name' => '株式会社 佐藤園芸',
     'catch_copy' => '『植物』で暮らしを豊かにする',
     'industry' => ['D'],

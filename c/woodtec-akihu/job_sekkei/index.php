@@ -299,7 +299,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>毎月の賃金</dt>
-					<dd>180,000円</dd>
+					<dd>確定</dd>
 				</div>
 				<div>
 					<dt>基本給</dt>
@@ -335,7 +335,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>通勤手当</dt>
-					<dd>実費支給（上限 18,000円）</dd>
+					<dd>あり（18,000円まで）</dd>
 				</div>
 				<div>
 					<dt>昇給</dt>
@@ -343,7 +343,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>賞与</dt>
-					<dd>年2回</dd>
+					<dd>年2回（4.08か月分）</dd>
 				</div>
 			</dl>
 			<h3>労働時間</h3>
@@ -358,13 +358,13 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>休日</dt>
-					<dd>週休2日制（土日・他）</dd>
+					<dd>土・日</dd>
 				</div>
 				<div>
 					<dt>その他休日</dt>
 					<dd>
-						お盆、年末年始等<br>
-						祝日は出勤日となります。
+						週休二日制<br>
+						お盆、年末年始、祝日は出勤日となります。
 					</dd>
 				</div>
 			</dl>
@@ -388,15 +388,15 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>一律定年制</dt>
-					<dd>あり（定年年齢60歳）</dd>
+					<dd>60歳</dd>
 				</div>
 				<div>
 					<dt>再雇用制度</dt>
-					<dd>あり（上限年齢66歳）</dd>
+					<dd>あり（66歳まで）</dd>
 				</div>
 				<div>
 					<dt>勤務延長</dt>
-					<dd>あり（上限年齢66歳）</dd>
+					<dd>あり（66歳まで）</dd>
 				</div>
 				<div>
 					<dt>入居可能住宅</dt>
@@ -535,7 +535,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<img src="../../../arrow.svg">
 		</a>
 	</div>
-</section>	
+</section>		
 <section class="g nextpage">
     <h2>その他の職種を見てみる</h2>
     <ul class="image_navi">

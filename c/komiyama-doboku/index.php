@@ -337,7 +337,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		</li>
 		<li class="small">
 			<p>１か月の<br>平均残業時間</p>
-			<p class="num"><span>3</span>時間</p>
+			<p class="num"><span>5</span>時間</p>
 		</li>
 		<li class="small">
 			<p>年間休日</p>
@@ -576,11 +576,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>受動喫煙対策</dt>
-					<dd>屋内禁煙</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>受動喫煙対策に関する特記事項</dt>
-					<dd>屋外に喫煙場所設置</dd>
+					<dd>屋内禁煙、屋外に喫煙場所設置</dd>
 				</div>
 				<div>
 					<dt>マイカー通勤</dt>
@@ -632,27 +632,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>特別に支払われる手当①</dt>
-					<dd>残業手当</dd>
+					<dd>-</dd>
 				</div>
 				<div>
 					<dt>特別に支払われる手当②</dt>
-					<dd>資格手当</dd>
-				</div>
-				<div>
-					<dt>特別に支払われる手当③</dt>
-					<dd>遠隔地手当</dd>
-				</div>
-				<div>
-					<dt>特別に支払われる手当④</dt>
-					<dd>宿泊手当</dd>
-				</div>
-				<div>
-					<dt>特別に支払われる手当⑤</dt>
-					<dd>育児手当</dd>
-				</div>
-				<div>
-					<dt>特別に支払われる手当②</dt>
-					<dd>介護手当</dd>
+					<dd>-</dd>
 				</div>
 				<div>
 					<dt>賃金締切日</dt>
@@ -660,7 +644,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>通勤手当</dt>
-					<dd>実費支給（上限なし）</dd>
+					<dd>あり（上限なし）</dd>
 				</div>
 				<div>
 					<dt>昇給</dt>
@@ -668,7 +652,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>賞与</dt>
-					<dd>年2回</dd>
+					<dd>年2回（2カ月分）</dd>
 				</div>
 			</dl>
 			<h3>労働時間</h3>
@@ -679,7 +663,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>時間外労働</dt>
-					<dd>あり(月平均5時間)</dd>
+					<dd>月平均5時間</dd>
 				</div>
 				<div>
 					<dt>休日</dt>
@@ -706,15 +690,15 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>定年制</dt>
-					<dd>あり(65歳)</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>一律定年制</dt>
-					<dd>あり(65歳)</dd>
+					<dd>65歳</dd>
 				</div>
 				<div>
 					<dt>再雇用制度</dt>
-					<dd>あり(上限70歳まで)</dd>
+					<dd>あり(70歳まで)</dd>
 				</div>
 				<div>
 					<dt>勤務延長</dt>
@@ -731,19 +715,19 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>直近3年間の新卒者等採用者数</dt>
-					<dd>前年度:2人、2年度前：2人、3年度前：2人</dd>
+					<dd>令和5年度:2人、令和4年度：2人、令和3年度：2人</dd>
 				</div>
 				<div>
 					<dt>直近3年間の新卒者等離職者数</dt>
-					<dd>前年度:0人、2年度前：0人、3年度前：0人</dd>
+					<dd>令和5年度:0人、令和4年度：0人、令和3年度：0人</dd>
 				</div>
 				<div>
 					<dt>男性の新卒者等採用数</dt>
-					<dd>前年度:2人、2年度前：2人、3年度前：0人</dd>
+					<dd>令和5年度:2人、令和4年度：2人、令和3年度：0人</dd>
 				</div>
 				<div>
 					<dt>女性の新卒者等採用数</dt>
-					<dd>前年度:0人、2年度前：0人、3年度前：2人</dd>
+					<dd>令和5年度:0人、令和4年度：0人、令和3年度：2人</dd>
 				</div>
 				<div>
 					<dt>平均継続勤務年数</dt>
@@ -776,7 +760,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>キャリアコンサルティング制度の有無</dt>
-					<dd>あり 入社後、半年ごとの間隔で面談実施</dd>
+					<dd>
+						あり<br>
+						入社後、半年ごとの間隔で面談実施<br>
+						それぞれの適性に合ったキャリアプランを話し合います
+					</dd>
 				</div>
 				<div>
 					<dt>社内検定等の有無</dt>

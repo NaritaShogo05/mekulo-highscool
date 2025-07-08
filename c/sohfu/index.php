@@ -422,7 +422,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<h3>想像力が武器になる</h3>
 		<figure class="portrait">
 			<img src="president_p.jpg" alt="">
-			<figcaption><span class="name">代表取締役社長<br>金子慎也</span></figcaption>
+			<figcaption><span class="name" style="font-size: 14px;">代表取締役社長</span><span class="name">金子慎也</span></figcaption>
 		</figure>
 		<p>
 			私たちが求めているのは、勉強が得意な人ではなく、想像力のある人です。サイコロの展開図を思い浮かべるのが得意な人や、パズルゲームが好きな人は、この仕事に向いていると思います。

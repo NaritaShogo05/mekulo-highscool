@@ -356,10 +356,9 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dt>事業内容</dt>
 			<dd>
 				<ul class="li_style">
-					<li>自動車部品</li>
-					<li>工作機械</li>
-					<li>時計部品等を作る工作機械の機械設計</li>
-					<li>プラスチック製品等の金型設計</li>
+					<li>ペットボトル成型機・工作機械・半導体モールディング装置の機械設計及び制御設計</li>
+					<li>３次元モデリング及び解析業務</li>
+					<li>ペットボトル金型設計</li>
 				</ul>
 			</dd>
 		</div>
