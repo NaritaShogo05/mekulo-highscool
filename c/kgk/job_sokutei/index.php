@@ -23,10 +23,14 @@ foreach ($occupation as $key => $job) {
 
 //========================================
 // ページのメタデータ
-$title = $name . ' - ' . $co['company_name'] . 'の高卒求人情報';
+$title = $name . ' - ' . $co['company_name'] . 'の新卒求人情報';
 $title_with_site = $title . ' | めくろうワークス';
+
+$keywords = $meta_keywords;
 $description = $meta_desc;
-$canonical_url = 'https://works.mekulo.jp/hs/' . $co['slug'] . '/' . $last_segment . '/';
+
+$canonical_url = 'https://works.mekulo.jp/highschool/' . $co['slug'] . '/' . $last_segment . '/';
+
 $og_image = 'https://works.mekulo.jp/ogp-image.png';
 ?>
 <!DOCTYPE html>
@@ -41,6 +45,9 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 <title><?= $title_with_site ?></title>
 <?php if ($description) { ?>
 <meta name="description" content="<?= $description ?>">
+<?php } ?>
+<?php if ($keywords) { ?>
+<meta name="keywords" content="<?= $keywords ?>">
 <?php } ?>
 <meta property="og:type" content="article">
 <meta property="og:title" content="<?= $title_with_site ?>">
@@ -62,18 +69,18 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	},{
 		"@type": "ListItem",
 		"position": 2,
-		"name": "高卒求人特集",
-		"item": "https://works.mekulo.jp/hs/"
+		"name": "新卒求人特集",
+		"item": "https://works.mekulo.jp/highschool/"
 	},{
 		"@type": "ListItem",
 		"position": 3,
 		"name": "<?= $co['company_name'] ?>",
-		"item": "https://works.mekulo.jp/hs/<?= $co['slug'] ?>/"
+		"item": "https://works.mekulo.jp/highschool/<?= $co['slug'] ?>/"
 	},{
 		"@type": "ListItem",
 		"position": 4,
 		"name": "<?= $name ?>",
-		"item": "https://works.mekulo.jp/hs/<?= $co['slug'] ?>/<?= $last_segment ?>/"
+		"item": "https://works.mekulo.jp/highschool/<?= $co['slug'] ?>/<?= $last_segment ?>/"
 	}]
 }
 </script>
@@ -123,131 +130,79 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 </section>
 <section class="g" id="job_detail">
 	<h2>仕事内容</h2>
-	<h3>
-		平面から立体へ
-	</h3>
 	<p>
-		鉄骨製造は、ビルや工場など、建物の「骨組み」である鉄骨を作る仕事です。<br>
-        機械を使って材料を切ったり、穴をあけたり、溶接してつなげたり。図面をもとに、鉄の部品をどんどん形にしていきます。
+		測定課は、空気や水、土、建物などを調査・測定する仕事です。現場に出向いてサンプルを採取したり、専用の機器で数値を測ったりして、環境の安全性を確かめる役割を担っています。
+	</p>
+	<h3>水質検査</h3>
+	<p>
+		河川の水質検査だけでなく、井戸水の水質検査や工場から排水された水の水質検査などをおこなっています。
 	</p>
 	<div class="images">
-		<img src="contents01.jpg" alt="" class="scene">
-		<img src="contents02.jpg" alt="" class="scene">
-		<img src="../contents01.jpg" alt="" class="scene">
+		<img src="../firstview.jpg" alt="" class="scene">
 	</div>
 	<p>
-		まずは図面を見て、どんな材料を使うか、どの角度でつなぐかを確認します。
+		長野県は全国でも有数の温泉の数の多い県です。温泉にも「温泉法」という法律があり、湧き出た地下水が温泉水かどうかを判定し、分析書を発行しています。分析書は温泉の施設内に掲示することになっていますので、みなさんもきっと温泉見たことあるはずです。
 	</p>
 	<div class="images">
-		<img src="contents04.jpg" alt="" class="scene">
+		<img src="../onsen.1.jpg" alt="" class="scene">
 	</div>
+	<h3>煤煙測定</h3>
 	<p>
-		次に印をつけ、加工機を使って鉄を切断します。
+		ボイラーや焼却炉、集塵施設の排ガス測定もおこなっています。排ガスの中の、NОx、SОx、ばいじんの測定や、重金属・ダイオキシンなどの量を測定します。安全の範囲内で操業していれば問題ありませんが、そうでない場合は対応策を提案することも必要です。
 	</p>
 	<div class="images">
-		<img src="contents05.jpg" alt="" class="scene">
-		<img src="contents06.jpg" alt="" class="scene">
+		<img src="../first.jpg" alt="" class="scene">
 	</div>
+	<h3>地下タンクの漏洩検査</h3>
 	<p>
-		切断したら図面どおりに溶接して、ひとつの大きな鉄骨に仕上げていきます。
-	</p>
-    <div class="images">
-		<img src="contents07.jpg" alt="" class="scene">
-		<img src="contents08.jpg" alt="" class="scene">
-	</div>
-	<p>
-		図面は平面ですが、実際の鉄骨は立体です。頭の中で完成形をイメージしながら作業するのは、最初はちょっと大変。でも、2～3年くらい経つと自然と体が動いてきます。
-	</p>
-	<div class="images">
-		<img src="../gallery2.jpg" alt="" class="scene">
-		<img src="contents10.jpg" alt="" class="scene">
-	</div>
-	<p>
-		完成した鉄骨は、現場に運ばれます。
-	</p>
-	<p>
-        基本的には、とび職の人たちが足場の上で組み立てていきますが、製造の自分たちも現場に行って設置・調整することがあります。高い場所での作業になるので、安全帯をつけて作業します。
-	</p>
-	<div class="images">
-		<img src="../gallery4.jpg" alt="" class="scene">
-	</div>
-	<p>
-		図面だったものが、どんどん目の前で形になっていく――そんな「ものづくりの楽しさ」を味わえる仕事です！
-	</p>
-	<h3>
-		とにかく手を動かしてみる
-	</h3>
-	<p>
-		入社後は、材料の切断や穴あけ、組み立て、溶接など、いろいろな作業を順番に経験していきます。最初は先輩たちの作業を見たり、説明を聞いたりしながら、自分の手で少しずつ挑戦してみます。
-	</p>
-	<p>
-		とにかく手を動かしてやってみるのが、上達への一番の近道です。
-	</p>
-	<div class="images">
-		<img src="contents12.jpg" alt="" class="scene">
-	</div>
-	<p>
-		仕事はすべてオーダーメイド。同じ作業はほとんどないので、毎日が新鮮です。<br>
-        だんだんとできることが増えて、3年ほどで仕事を任せられるようになります。<br>
-        また、鉄骨製作管理技術者や溶接管理技術者など、さまざまな資格に挑戦することができます。資格を取れば手当もアップ！
+		地下タンクって何のタンク？と思った方もいるかもしれません。<br>
+		ガソリンスタンドの多くは地下にタンクが埋まっています。法律で年一回の検査が義務付けられているので、そのタンクに漏れがないかを検査します。<br><br>
+		測定課の仕事は、一言でいえば「環境を測る」こと。空気、水、土、建物など、身のまわりにあるさまざまな対象を、調査・測定します。<br>
+		現場は街中ばかりではありません。ときには山奥だったり、人がなかなか入らない場所でのサンプル採取もある仕事です。<br>
+		自然が好き、科学にワクワクする、体を動かすのが得意──そんな君と、いつか一緒にフィールドに出られたらうれしいです。
 	</p>
 </section>
+<!--
 <section class="g">
 	<h2>写真で雰囲気を知る</h2>
 	<div class="NRGallery" data-width="640" data-height="480">
 		<div class="image_area">
 			<ul class="slides">
-			<li>
-		<img src="../contents03.jpg" alt="">
-	</li>
-	<li>
-		<img src="../first-view.jpg" alt="">
-	</li>
-	<li>
-		<img src="gallery03.jpg" alt="">
-	</li>
-	<li>
-		<img src="gallery04.jpg" alt="">
-	</li>
-	<li>
-		<img src="gallery05.jpg" alt="">
-	</li>
-	<li>
-		<img src="gallery06.jpg" alt="">
-	</li>
-	<li>
-		<img src="gallery07.jpg" alt="">
-	</li>
-	<li>
-		<img src="gallery08.jpg" alt="">
-	</li>
-		</ul>
-		<div class="button left_btn">&lt;</div>
-		<div class="button right_btn">&gt;</div>
+				<li>
+					<img src="gallery1.jpg" alt="">
+				</li>
+				<li>
+					<img src="gallery2.jpg" alt="">
+				</li>
+				<li>
+					<img src="gallery3.jpg" alt="">
+				</li>
+				<li>
+					<img src="gallery4.jpg" alt="">
+				</li>
+			</ul>
+			<div class="button left_btn">&lt;</div>
+			<div class="button right_btn">&gt;</div>
 		</div>
 	</div>
 </section>
+-->
 <section class="g" id="employee_introduction">
 	<h2>社員紹介</h2>
 	<ul class="Lightbox">
 		<li class="thumbnails">
 			<div class="thumbnail">
-				<img src="sato.jpg" alt="">
+				<img src="../contents02.jpg" alt="">
 				<hgroup>
-					<h3>佐藤さん</h3>
+					<h3>田上さん</h3>
 					<p>
-						板や部品を図面どおりに取りつけて、次の工程に渡す「仮組」という工程を担当しています。平面の図面を見て、部品を立体に組み立てていくのは難しいですが、PCで3Dを確認することもできるので、少しずつ慣れてきます。感覚がつかめるまでには、だいたい1年くらいかかりました。
+						この仕事は、化学物質を扱っているので理系の人が向いているのは当然のことですが、サンプル採取の仕方を工夫することもできるので、クリエイティブな人にも楽しい仕事だと思います。<br>
+						高校３年の夏に会社見学に来たのですが、その時は説明を受けても難しい用語ばかりで、何しているかわからない仕事で「難しそうだなぁ」と思いました。<br>
+						実際にこの仕事やってみて、ただサンプルを採取して計測するだけではないことがわかった頃から面白く感じるようになってきました。
 					</p>
-					<p>
-						現場で実際に自分が関わった鉄骨が建物になったときは、「ちゃんと建った、無事にできてよかった」と、ほっとします。インパクト（電動工具）で締め作業をしているときは、特に面白いです。
-	                </p>
-					<p>
-						職場は和気あいあいとしていて、わからないことがあればすぐに聞けるし、先輩たちも優しく教えてくれます。
-                        プライベートでは車いじりが趣味で、ジムニーに乗っています。テールランプを変えたり、山道をドライブしたりするのが楽しいです。
-	                </p>
 				</hgroup>
 			</div>
-			<p>2021年中途採用<br>佐藤さん</p>
+			<p>田上さん</p>
 		</li>
 	</ul>
 </section>
@@ -264,7 +219,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>募集職種</dt>
-					<dd>鉄骨製造職</dd>
+					<dd>環境測定業務</dd>
 				</div>
 				<div>
 					<dt>雇用形態</dt>
@@ -276,11 +231,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>契約更新の可能性</dt>
-					<dd>なし</dd>
+					<dd>-</dd>
 				</div>
 				<div>
 					<dt>試用期間</dt>
-					<dd>3カ月（待遇の変更なし）</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>試用期間中の労働条件</dt>
@@ -288,12 +243,14 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>就業場所</dt>
-					<dd>〒3850051<br>
-					長野県佐久市中込３４００−７</dd>
+					<dd>
+						〒381-0025<br>
+						長野県長野市大字北長池字南長池境2058-3
+					</dd>
 				</div>
 				<div>
 					<dt>アクセス</dt>
-					<dd>JR小海線北中込駅から徒歩3分</dd>
+					<dd>JR長野駅から車で15分</dd>
 				</div>
 				<div>
 					<dt>受動喫煙対策</dt>
@@ -301,10 +258,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>受動喫煙対策に関する特記事項</dt>
-					<dd>
-						屋内禁煙<br>
-						喫煙所あり
-					</dd>
+					<dd>喫煙室設置</dd>
 				</div>
 				<div>
 					<dt>マイカー通勤</dt>
@@ -316,10 +270,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>必要な知識・技能等</dt>
-					<dd>
-						あれば尚可<br>
-						普通自動車免許（入社後の取得を認めます。）
-					</dd>
+					<dd>不問</dd>
 				</div>
 			</dl>
 			<h3>賃金・手当</h3>
@@ -330,7 +281,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>月平均労働日数</dt>
-					<dd>22日</dd>
+					<dd>21日</dd>
 				</div>
 				<div>
 					<dt>毎月の賃金</dt>
@@ -338,14 +289,10 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>基本給</dt>
-					<dd>200,000円～（諸手当含む）</dd>
+					<dd>195,000円</dd>
 				</div>
 				<div>
-					<dt>定期的に支払われる手当①</dt>
-					<dd>-</dd>
-				</div>
-				<div>
-					<dt>定期的に支払われる手当②</dt>
+					<dt>定期的に支払われる手当</dt>
 					<dd>-</dd>
 				</div>
 				<div>
@@ -354,63 +301,61 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>初任給</dt>
-					<dd>200,000円</dd>
+					<dd>195,000円</dd>
 				</div>
 				<div>
 					<dt>特別に支払われる手当①</dt>
-					<dd>-</dd>
+					<dd>皆勤手当（10,000円）</dd>
 				</div>
 				<div>
 					<dt>特別に支払われる手当②</dt>
-					<dd>-</dd>
+					<dd>精勤手当（5,000円）</dd>
 				</div>
 				<div>
 					<dt>賃金締切日</dt>
-					<dd>毎月25日</dd>
+					<dd>毎月20日</dd>
 				</div>
 				<div>
 					<dt>通勤手当</dt>
-					<dd>実費支給（上限あり：月額12,000円まで）</dd>
+					<dd>あり（上限25,000円）</dd>
 				</div>
 				<div>
 					<dt>昇給</dt>
-					<dd>あり</dd>
+					<dd>あり（前年度実績5,000円）</dd>
 				</div>
 				<div>
 					<dt>賞与</dt>
-					<dd>
-						年2回<br>
-						2.5カ月
-					</dd>
+					<dd>あり（年3回、3.5か月分）</dd>
 				</div>
 			</dl>
 			<h3>労働時間</h3>
 			<dl>
 				<div>
 					<dt>就業期間</dt>
-					<dd>変形労働時間制 8時00分〜17時00分</dd>
+					<dd>8時45分〜17時30分</dd>
 				</div>
 				<div>
 					<dt>時間外労働</dt>
-					<dd>月平均20時間</dd>
+					<dd>月平均15時間</dd>
 				</div>
 				<div>
 					<dt>休日</dt>
-					<dd>日・祝日・その他</dd>
+					<dd>日・祝、その他</dd>
 				</div>
 				<div>
 					<dt>その他休日</dt>
-					<dd>
-						当社年間休日カレンダーによる。<br>
-						年間休日101日
-					</dd>
+					<dd>月に2回土曜出勤があります。</dd>
 				</div>
 			</dl>
 			<h3>保険・年金・定年等</h3>
 			<dl>
 				<div>
 					<dt>加入保険等</dt>
-					<dd>厚生年金保険、健康保険、雇用保険、労災保険</dd>
+					<dd>厚生年金保険、健康保険、雇用保険、労災保険、財形保険</dd>
+				</div>
+				<div>
+					<dt>企業年金</dt>
+					<dd>-</dd>
 				</div>
 				<div>
 					<dt>退職金制度</dt>
@@ -422,15 +367,15 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>一律定年制</dt>
-					<dd>70歳</dd>
+					<dd>60歳</dd>
 				</div>
 				<div>
 					<dt>再雇用制度</dt>
-					<dd>あり（上限年齢73歳）</dd>
+					<dd>あり（上限65歳まで）</dd>
 				</div>
 				<div>
 					<dt>勤務延長</dt>
-					<dd>なし</dd>
+					<dd>あり（上限72歳まで）</dd>
 				</div>
 				<div>
 					<dt>入居可能住宅</dt>
@@ -443,15 +388,15 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>直近3年間の新卒者等採用者数</dt>
-					<dd>前年度:0人、2年度前：0人、3年度前：0人</dd>
+					<dd>前年度:1人、2年度前：0人、3年度前：0人</dd>
 				</div>
 				<div>
 					<dt>直近3年間の新卒者等離職者数</dt>
-					<dd>前年度:0人、2年度前：0人、3年度前：0人</dd>
+					<dd>前年度:1人、2年度前：0人、3年度前：0人</dd>
 				</div>
 				<div>
 					<dt>男性の新卒者等採用数</dt>
-					<dd>前年度:0人、2年度前：0人、3年度前：0人</dd>
+					<dd>前年度:1人、2年度前：0人、3年度前：0人</dd>
 				</div>
 				<div>
 					<dt>女性の新卒者等採用数</dt>
@@ -459,54 +404,49 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>平均継続勤務年数</dt>
-					<dd>25年</dd>
-				</div>
-				<div>
-					<dt>従業員の平均年齢</dt>
-					<dd>51.4歳</dd>
-				</div>
-				<div>
-					<dt>研修の有無</dt>
-					<dd>あり</dd>
-				</div>
-				<div>
-					<dt>研修内容</dt>
-					<dd>安全教育、資格取得支援研修</dd>
-				</div>
-				<div>
-					<dt>自己啓発支援の有無</dt>
 					<dd>
-						あり<br>
-						業務に関係する資格取得にかかる費用について、会社承認の上で、100%補助を行なっています。
+						-年
 					</dd>
 				</div>
 				<div>
+					<dt>従業員の平均年齢</dt>
+					<dd>-歳</dd>
+				</div>
+				<div>
+					<dt>研修の有無</dt>
+					<dd>-</dd>
+				</div>
+				<div>
+					<dt>自己啓発支援の有無</dt>
+					<dd>-</dd>
+				</div>
+				<div>
 					<dt>メンター制度の有無</dt>
-					<dd>なし</dd>
+					<dd>-</dd>
 				</div>
 				<div>
 					<dt>キャリアコンサルティング制度の有無</dt>
-					<dd>なし</dd>
+					<dd>-</dd>
 				</div>
 				<div>
 					<dt>社内検定等の有無</dt>
-					<dd>なし</dd>
+					<dd>-</dd>
 				</div>
 				<div>
-					<dt>前年度の月平均所定外労働時間</dt>
-					<dd>20時間</dd>
+					<dt>前年度の月平均所定労働時間</dt>
+					<dd>15時間</dd>
 				</div>
 				<div>
 					<dt>前事業年度の有給休暇の平均取得日数</dt>
-					<dd>10日</dd>
+					<dd>5日</dd>
 				</div>
 				<div>
 					<dt>前事業年度の育児休業取得者数</dt>
-					<dd>女性：1人、男性：0人</dd>
+					<dd>女性：0人、男性：0人</dd>
 				</div>
 				<div>
 					<dt>前事業年度の出産者数</dt>
-					<dd>1名</dd>
+					<dd>0名</dd>
 				</div>
 				<div>
 					<dt>女性役員割合</dt>
@@ -518,7 +458,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>区分の名称</dt>
-					<dd>設計職</dd>
+					<dd>計量証明業</dd>
 				</div>
 			</dl>
 		</div>
@@ -527,18 +467,18 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>求人数</dt>
-					<dd>2名</dd>
+					<dd>3名</dd>
 				</div>
 				<div>
 					<dt>応募前職場見学</dt>
 					<dd>
-						2025年8月4日（金）10時00分～<br>
-						2025年8月9日（水）10時00分～
+						随時<br>
+						お問い合わせください。
 					</dd>
 				</div>
 				<div>
 					<dt>選考方法</dt>
-					<dd>面接</dd>
+					<dd>面接、書類選考</dd>
 				</div>
 				<div>
 					<dt>選考旅費</dt>
@@ -551,7 +491,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<div>
 					<dt>選考担当者</dt>
 					<dd>
-						総務部 高橋さない
+						採用担当者
 					</dd>
 				</div>
 			</dl>
@@ -564,27 +504,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<img src="../../../arrow.svg">
 		</a>
 	</div>
-</section>
-<section class="g nextpage">
-    <h2>その他の職種を見てみる</h2>
-    <ul class="image_navi">
-        <?php foreach ($occupation as $key => $prop): ?>
-            <?php if ($key !== $last_segment): // 現在のURLと異なる職種のみ表示 ?>
-                <li>
-                    <a href="<?= $company_base . $prop['url'] ?>">
-                        <figure>
-                            <img src="<?= $company_base . $prop['image'] ?>" alt="">
-                            <figcaption><?= $prop['name'] ?></figcaption>
-                        </figure>
-                    </a>
-                </li>
-            <?php endif; ?>
-        <?php endforeach; ?>
-    </ul>
-</section>			
-			</ul>
-		</section>
-	</main>
+</section>					
+</main>
 <?php include $highschool_base . 'tmpl_navi.php' ?>
 </div>
 <?php include $base . '../footer.php' ?>

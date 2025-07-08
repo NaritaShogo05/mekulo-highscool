@@ -10,8 +10,8 @@ include_once $highschool_base . 'circle.php';
 // ページのメタデータ
 $title = $co['company_name'] . 'の高卒求人情報';
 $title_with_site = $title . ' | めくろうワークス';
-$description = '株式会社長野レジンの応募前見学ページです。';//メタディスクリプションをここに挿入 
-$canonical_url = 'https://works.mekulo.jp/hs/' . $co['slug'] . '/';
+$description = '株式会社ミヤマ製作所の応募前見学ページです。';//メタディスクリプションをここに挿入
+$canonical_url = 'https://works.mekulo.jp/highschool/' . $co['slug'] . '/';
 $og_image = 'https://works.mekulo.jp/ogp-image.png';
 ?>
 <!DOCTYPE html>
@@ -48,47 +48,46 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		"@type": "ListItem",
 		"position": 2,
 		"name": "高卒求人特集",
-		"item": "https://works.mekulo.jp/hs/"
+		"item": "https://works.mekulo.jp/highschool/"
 	},{
 		"@type": "ListItem",
 		"position": 3,
 		"name": "<?= $co['company_name'] ?>",
-		"item": "https://works.mekulo.jp/hs/<?= $co['slug'] ?>/"
+		"item": "https://works.mekulo.jp/highschool/<?= $co['slug'] ?>/"
 	}]
 }
 </script>
 
 </head>
-<body class="highschool naganorezin">
+<body class="highschool">
 <?php include $highschool_base . 'tmpl_header.php'; ?>
 <div class="content_area">
 <main>
 <div class="fv_wr">
-	<img alt="" class="fv_image" src="firstview.jpg">
+	<img alt="" class="fv_image" src="../firstview.jpg">
 	<div class="apply">
 		<h1 class="catch"><?= $co['company_name'] ?></h1>
 		<p class="tag">応募前見学ページ</p>
 	</div>
 </div>
 <section id="visit1" class="content">
-	<p class="catchcopy"><span>「プラスチック工場」大見学会</span></p>
+	<p class="catchcopy"><span>KGK会社見会</span></p>
 	<p class="cont">
-		「プラスチック製品を作る仕事」と聞いて、どんなイメージがありますか？ただ機械を動かすだけ…と思ったら、それは大きな誤解です。気温や湿度、材料の種類によって毎回微調整が必要な“考えるものづくり”が、ここ長野レジンの仕事です。<br>
-		どんなところで作っているのか実際に見てみませんか？ものづくりに興味がある人、がんばった分ちゃんと評価される仕事がしたい人、ぜひ一度工場をのぞきに来てください。
+		水や空気、におい、土…身のまわりの“安全”を調べるちょっとレアな仕事、それがKGKのしごと。自然の中に出かけてサンプルを取ったり、ラボでデータを分析したり。理科が好き、外での仕事にも興味ある、そんな人にピッタリの職場です。一度、KGKをのぞいてみませんか？
 	</p>
 	<div class="opendate">
 		<p>開催日時</p>
 		<ul>
 			随時開催中！<br>
-			お問い合わせください。
+			見学希望の方は、お問い合わせください。
 		</ul>
 	</div>
 	<!--
 	<div class="flow">
 		<p>見学の流れ</p>
 		<ul>
-			<li><span>分程度</span></li>
-			<li><span>分程度</span></li>
+			<li>会社説明<span>15分</span></li>
+			<li>工場見学<span>30分</span></li>
 		</ul>
 	</div>
 	-->

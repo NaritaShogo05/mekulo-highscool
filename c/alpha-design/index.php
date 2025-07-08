@@ -146,6 +146,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	</p>
 	<div class="images">
 		<img src="firstview.jpg" class="scene" alt="">
+		<img src="content1.jpg" class="scene" alt="">
 	</div>
 	<p>
 		半導体って、じつは身の回りのほとんどの電化製品に使われています。その『半導体チップを、マイクロ単位の精度で、ぴったり基板に置いて接着する装置』などを作っています。スマホやAIチップの心臓部をつくる超精密マシンに関わることができる会社です。<br>

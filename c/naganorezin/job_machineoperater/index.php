@@ -453,11 +453,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>前年度の月平均所定外労働時間</dt>
-					<dd>-時間</dd>
+					<dd>1時間</dd>
 				</div>
 				<div>
 					<dt>前事業年度の有給休暇の平均取得日数</dt>
-					<dd>-日</dd>
+					<dd>5日</dd>
 				</div>
 				<div>
 					<dt>前事業年度の育児休業取得者数</dt>
@@ -491,8 +491,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<div>
 					<dt>応募前職場見学</dt>
 					<dd>
-						2025年7月29日（火）14時00分～<br>
-						2025年8月5日（火）14時00分～
+						随時開催中！<br>
+						お問い合わせください。
 					</dd>
 				</div>
 				<div>

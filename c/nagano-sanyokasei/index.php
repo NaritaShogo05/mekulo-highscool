@@ -241,34 +241,34 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	<p class="remark">（2025年1月1日現在）</p>
 	<div class="large">
 		<p>売上高</p>
-		<p class="num"><span>3</span>億円</p>
+		<p class="num"><span>29</span>億円</p>
 		<p class="year">※2024年実績</p>
 	</div>
 	<ul class="gr_con">
 		<li class="small">
 			<p>平均年齢</p>
-			<p class="num"><span>50</span>歳</p>
+			<p class="num"><span>46</span>歳</p>
 		</li>
 		<li class="small">
 			<p>平均勤続年数</p>
-			<p class="num"><span>10</span>年</p>
+			<p class="num"><span>16.8</span>年</p>
 		</li>
 		<li class="small">
 			<p>平均残業時間</p>
-			<p class="num"><span>20</span>時間</p>
+			<p class="num"><span>10</span>時間</p>
 		</li>
 		<li class="small">
 			<p>年間休日</p>
-			<p class="num"><span>113</span>日</p>
+			<p class="num"><span>120</span>日</p>
 			<p class="at">※2025年計画</p>
 		</li>
 		<li class="small">
 			<p>設立年</p>
-			<p class="num"><span>1961</span>年</p>
+			<p class="num"><span>1971</span>年</p>
 		</li>
 		<li class="small">
 			<p>平均有給取得日数</p>
-			<p class="num"><span>10</span>日</p>
+			<p class="num"><span>17.5</span>日</p>
 		</li>
 	</ul>
 	<ul class="fl_con">
@@ -359,21 +359,17 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dt>事業内容</dt>
 			<dd>
 				<ul class="li_style">
-					<li>産業機械</li>
-					<li>工作機械</li>
-					<li>建設機械等各種機械のフレーム</li>
-					<li>架台の製作及び大型NC機械</li>
-					<li>マシニングセンターによる金属の機械加工</li>
+					<li>-</li>
 				</ul>
 			</dd>
 		</div>
 		<div>
 			<dt>代表者名</dt>
-			<dd>内藤央</dd>
+			<dd>後藤淳</dd>
 		</div>
 		<div>
 			<dt>従業員数</dt>
-			<dd>16名（男性 11名／女性 5名、役員、パート・アルバイト含む）（2024年1月1日現在）</dd>
+			<dd>135名（2024年4月現在）</dd>
 		</div>
 		<div>
 			<dt>本社所在地</dt>
@@ -383,7 +379,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		</div>
 		<div>
 			<dt>本社電話番号</dt>
-			<dd>0267-67-1800</dd>
+			<dd>0268-62-1631</dd>
 		</div>
 		<div>
 			<dt>ホームページ</dt>
@@ -397,7 +393,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<h3>モノづくりはヒトづくり</h3>
 		<figure class="portrait">
 			<img src="president.jpg" alt="">
-			<figcaption><span class="name">内藤央</span></figcaption>
+			<figcaption><span class="name">後藤淳</span></figcaption>
 		</figure>
 		<p>
 			私たち株式会社長野三洋化成では、「事業は人を中心に発展していく」という考えに基づき、社員さんの持ち味や価値観、考えをくみ取ることのできる職場づくりに励んでいます。<br>

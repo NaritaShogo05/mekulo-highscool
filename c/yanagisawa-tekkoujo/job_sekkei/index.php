@@ -424,11 +424,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>平均継続勤務年数</dt>
-					<dd>11年</dd>
+					<dd>15年</dd>
 				</div>
 				<div>
 					<dt>従業員の平均年齢</dt>
-					<dd>52歳</dd>
+					<dd>40歳</dd>
 				</div>
 				<div>
 					<dt>研修の有無</dt>
@@ -436,13 +436,13 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>研修内容</dt>
-					<dd>安全教育</dd>
+					<dd>安全教育、資格取得支援研修</dd>
 				</div>
 				<div>
 					<dt>自己啓発支援の有無</dt>
 					<dd>
 						あり<br>
-						業務に必要と認められた場合の資格取得支援あり
+						業務に関係する資格取得にかかる費用について、会社承認の上で、100%補助を行なっています。
 					</dd>
 				</div>
 				<div>
@@ -463,7 +463,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>前事業年度の有給休暇の平均取得日数</dt>
-					<dd>10日</dd>
+					<dd>8日</dd>
 				</div>
 				<div>
 					<dt>前事業年度の育児休業取得者数</dt>

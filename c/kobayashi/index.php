@@ -623,7 +623,7 @@ id="recruitment_requirements">
 				<div>
 					<dt>賞与</dt>
 					<dd>年2回<br>
-						（賞与額300,000～900,000円）
+						（賞与額200,000～900,000円）
 					</dd>
 				</div>
 			</dl>
