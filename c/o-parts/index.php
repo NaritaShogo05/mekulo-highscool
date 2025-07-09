@@ -283,7 +283,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<p class="num"><span>11.3</span>年</p>
 		</li>
 		<li class="small">
-			<p>平均残業時間</p>
+			<p>月平均残業時間</p>
 			<p class="num"><span>10</span>時間</p>
 		</li>
 		<li class="small">
@@ -364,8 +364,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<p>出身地の割合</p>
 				<svg width="150" height="150" viewBox="0 0 200 200">
 					<?php create_donut_graph(100, 100, 100, 40, [
-						[ 'value' => 75, 'caption' => "長野県内75%", 'color' => '#B2CF3E'],
-						[ 'value' => 25, 'caption' => '県外25%', 'color' => '#FEE929'],
+						[ 'value' => 75, 'caption' => "長野県内", 'color' => '#B2CF3E'],
+						[ 'value' => 25, 'caption' => '県外', 'color' => '#FEE929'],
 												]); ?>
 				</svg>
 			</div>

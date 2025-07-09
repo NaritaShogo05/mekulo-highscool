@@ -146,6 +146,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	</p>
 	<div class="images">
 		<img src="contents01.jpg" class="scene" alt="">
+		<img src="gallery02.jpg" class="scene" alt="">
 	</div>
 	<p>
 		実は、日清食品のカップ麺に入っているかやくを作っている会社は、日本に3社しかありません。そのため、多い日は一日に約40万食、30種類以上のかやくを作っています。
@@ -153,6 +154,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	</p>
 	<div class="images">
 		<img src="contents02.jpg" class="scene" alt="">
+		<img src="contents05.jpg" class="scene" alt="">
 	</div>
 	<p>
 		食品を扱うので、清潔な作業着を着て、エアーシャワーを浴びてから工場に入ります。室温は年間を通して約24℃に保たれているので、暑い日も寒い日も快適に働けます。
@@ -266,7 +268,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<p class="num"><span>16</span>年</p>
 		</li>
 		<li class="small">
-			<p>平均残業時間</p>
+			<p>月平均残業時間</p>
 			<p class="num"><span>8</span>時間</p>
 		</li>
 		<li class="small">
@@ -331,9 +333,9 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<p>通勤手段の割合</p>
 				<svg width="150" height="150" viewBox="0 0 200 200">
 					<?php create_donut_graph(100, 100, 100, 40, [
-						[ 'value' => 85, 'caption' => "車・バイク85%", 'color' => '#E06A3A'],
-						[ 'value' => 10, 'caption' => '徒歩10%', 'color' => '#009F6B'],
-						[ 'value' => 5, 'caption' => '自転車5%', 'color' => '#008C4A'],
+						[ 'value' => 85, 'caption' => "車・バイク", 'color' => '#E06A3A'],
+						[ 'value' => 10, 'caption' => '徒歩', 'color' => '#009F6B'],
+						[ 'value' => 5, 'caption' => '自転車', 'color' => '#008C4A'],
 					]); ?>
 				</svg>
 			</div>
@@ -343,8 +345,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<p>出身地の割合</p>
 				<svg width="150" height="150" viewBox="0 0 200 200">
 					<?php create_donut_graph(100, 100, 100, 40, [
-						[ 'value' => 95, 'caption' => "長野県内95%", 'color' => '#B2CF3E'],
-						[ 'value' => 5, 'caption' => '県外5%', 'color' => '#FEE929'],
+						[ 'value' => 95, 'caption' => "長野県内", 'color' => '#B2CF3E'],
+						[ 'value' => 5, 'caption' => '県外', 'color' => '#FEE929'],
 												]); ?>
 				</svg>
 			</div>
@@ -403,17 +405,24 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 <section class="content" id="from_president">
 	<h2>会社からのメッセージ</h2>
 	<div class="pre_con">
-		<h3>若い世代の声を大切に</h3>
 		<figure class="portrait">
 			<img src="message.jpg" alt="">
 			<figcaption><span class="word">原田孝子</span></figcaption>
 		</figure>
 		<p>
-			時代はどんどん変化しています。その変化に対応するには、若いみなさんの意見をしっかり取り入れていくことが必要だと考えています。みなさんからの意見を真摯に受け止め、より良い職場環境を作るために改善を進めています。
-		</p>
+			皆さん、こんにちは。
+			このたびは、当社の会社案内をご覧いただき、誠にありがとうございます。<br>
+			来春、高校をご卒業される皆さんにとって、社会人としての第一歩は大きな節目であり、期待と不安が入り混じる時期かと思います。<br>
+            当社では、そんな皆さんが安心してスタートを切り、成長を実感できる環境づくりを大切にしています。
+		</p><br>
 		<p>
-			また、私たちの会社では『報告・連絡・相談』を大切にしています。それによって、問題が起こる前に解決できることがたくさんあります。<br>
-			周りのみんなと協力し、仕事に必要な情報をしっかり伝え合えるみなさんのことを、お待ちしております。
+			仕事を通じて自分の力を試し、仲間と共に学び合いながら、少しずつでも前に進んでいける。そんな毎日をここで一緒に築いていきませんか？<br>
+			私たちは、若い力を会社の未来そのものと考えています。<br>
+			これからの時代を共に歩む仲間として、皆さんの新しい挑戦を心から歓迎いたします。
+		</p><br>
+		<p>
+			最後に、皆さん一人ひとりの可能性が大きく花開くことを願いながら、お会いできる日を楽しみにしております。<br>
+			どうぞよろしくお願いいたします。
 		</p>
 	</div>
 </section>

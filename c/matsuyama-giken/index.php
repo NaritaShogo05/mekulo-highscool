@@ -229,7 +229,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<p class="num"><span>10</span>年</p>
 		</li>
 		<li class="small">
-			<p>平均残業時間</p>
+			<p>月平均残業時間</p>
 			<p class="num"><span>20</span>時間</p>
 		</li>
 		<li class="small">
@@ -298,8 +298,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<p>通勤手段の割合</p>
 				<svg width="150" height="150" viewBox="0 0 200 200">
 					<?php create_donut_graph(100, 100, 100, 40, [
-						[ 'value' => 151, 'caption' => "車・バイク99%", 'color' => '#E06A3A'],
-						[ 'value' => 1, 'caption' => '電車・バス1%', 'color' => '#D04255'],
+						[ 'value' => 151, 'caption' => "車・バイク", 'color' => '#E06A3A'],
+						[ 'value' => 1, 'caption' => '電車・バス', 'color' => '#D04255'],
 					]); ?>
 				</svg>
 			</div>

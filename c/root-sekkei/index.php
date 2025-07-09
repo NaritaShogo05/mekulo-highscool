@@ -252,7 +252,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<p class="num"><span>15</span>年</p>
 		</li>
 		<li class="small">
-			<p>平均残業時間</p>
+			<p>月平均残業時間</p>
 			<p class="num"><span>18</span>時間</p>
 		</li>
 		<li class="small">
