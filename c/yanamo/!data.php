@@ -1,7 +1,7 @@
 <?php
 $co = [
     'slug' => 'yanamo',
-    'image' => 'factry.jpg',
+    'image' => 'fv.jpg',
     'company_name' => '有限会社 柳沢モータース',
     'catch_copy' => 'クルマの仕事、未来の自分！ヤナモでスタート！',
     'industry' => ['R'],

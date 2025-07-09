@@ -1,7 +1,7 @@
 <?php
 $co = [
     'slug' => 'fineforming',
-    'image' => 'office.jpg',
+    'image' => 'fv_2.jpg',
     'company_name' => '有限会社ファインフォーミング',
     'catch_copy' => '全国唯一！鋳造×鍛造で世界に通じるアルミ部品を生み出す',
     'industry' => ['E','A'],
