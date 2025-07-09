@@ -1,7 +1,7 @@
 <?php
 $co = [
     'slug' => 'alpha-systems',
-    'image' => 'company.jpg',
+    'image' => 'firstview.jpg',
     'company_name' => '株式会社アルファーシステムズ',
     'catch_copy' => 'モノを生み出す機械をゼロから作り上げる',
     'industry' => ['E'],
