@@ -538,8 +538,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<div>
 					<dt>応募前職場見学</dt>
 					<dd>
-						2025年 月  日（ ）   時  分～<br>
-						2025年 月  日（ ）   時  分～
+						随時開催中！
 					</dd>
 				</div>
 				<div>

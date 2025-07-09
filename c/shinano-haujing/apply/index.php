@@ -71,16 +71,21 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	</div>
 </div>
 <section id="visit1" class="content">
+	<p class="catchcopy"><span>お庭プランナーって、何をする仕事？</span></p>
 	<p class="cont">
-		TBD
+		図面を描いて、提案して、理想のお庭を形にする――。<br>
+		信濃ハウジングは、外構やリフォームの企画から完成までをトータルで考え、“理想の暮らし”を形にする会社です。<br>
+		その中心を担うのが「お庭プランナー」。お客さまの「こうしたい」を聞き取り、図面や見積をつくる、クリエイティブで責任ある仕事です。話すことが好きな人、お客さまへ提案することに興味がある人にぴったり。<br>
+		まずは応募前見学会で、リアルな働く現場や先輩の声を体感してみてください！
 	</p>
 	<div class="opendate">
 		<p>開催日時</p>
 		<ul>
-			<li>2025年 月  日（ ）   時  分～</li>
-			<li>2025年 月  日（ ）   時  分～</li>
+			随時開催中！<br>
+			お気軽にお問い合わせください。
 		</ul>
 	</div>
+	<!--
 	<div class="flow">
 		<p>見学の流れ</p>
 		<ul>
@@ -88,6 +93,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<li>職場見学<span>  分程度</span></li>
 		</ul>
 	</div>
+	-->
 	<p class="entry_txt">応募前見学をご希望の方は、担任の先生や、進路指導の先生にご相談ください。</p>
 </section>
 </main>

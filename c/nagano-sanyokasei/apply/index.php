@@ -71,21 +71,24 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	</div>
 </div>
 <section id="visit1" class="content">
-	<p class="catchcopy"><span></span></p>
+	<p class="catchcopy"><span>長野三洋化成</span></p>
 	<p class="cont">
+		樹脂製品が作られる現場見学。<br>
+		まな板やホース、雪かきスコップなど、身近なプラスチック製品を作っている長野三洋化成。実は、全国のホームセンターで売られているホースの多くが、東御市で作られています。製品ごとに原料や製法が違うから、機械の操作や調整は意外と奥深く、やりがいも十分。自分のつくった製品が、誰かの暮らしの中で使われているって、ちょっとワクワクしませんか？<br>
+		見学会で、あなたの知らない世界が見えてくるかもしれません。
 	</p>
 	<div class="opendate">
 		<p>開催日時</p>
 		<ul>
-			<li>2025年 月  日（ ）   時  分～</li>
-			<li>2025年 月  日（ ）   時  分～</li>
+			<li>2025年8月4日（月） 10時00分～11時00分</li>
+			<li>2025年8月5日（火） 13時00分～14時00分</li>
 		</ul>
 	</div>
 	<div class="flow">
 		<p>見学の流れ</p>
 		<ul>
-			<li>会社説明<span>  分程度</span></li>
-			<li>工場見学<span>  分程度</span></li>
+			<li>会社説明</li>
+			<li>工場見学</li>
 		</ul>
 	</div>
 	<p class="entry_txt">応募前見学をご希望の方は、担任の先生や、進路指導の先生にご相談ください。</p>

@@ -71,17 +71,22 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	</div>
 </div>
 <section id="visit1" class="content">
-	<p class="catchcopy"><span>工場の裏側、ぜんぶ見せます！</span></p>
+	<p class="catchcopy"><span>目の前でつくられる『自動化工場』</span></p>
 	<p class="cont">
-		
+		ベルトが動き、センサーが反応し、アームが正確に部品をつかむ。<br>
+		 そんな“機械の動き”を見るのが好きなあなたへ。<br>
+		 アルファーシステムズは、工場の仕事を自動化するFA装置をゼロからつくる会社です。設計・配線・制御まですべて社内で行い、バラバラの部品が一つの装置となって動き出す瞬間に立ち会えます。<br>
+		 「どうして動くの？」「自分もつくってみたい！」――その気持ちが、エンジニアへの第一歩。<br>
+		 まずは見学で、“動くものづくり”のリアルを体感してみませんか？
 	</p>
 	<div class="opendate">
 		<p>開催日時</p>
 		<ul>
-			<li>2025年7月29日（火） 9時00分～</li>
-			<li>2025年7月30日（水） 9時00分～</li>
+			随時開催中！<br>
+			お気軽にお問い合わせください。
 		</ul>
 	</div>
+	<!--
 	<div class="flow">
 		<p>見学の流れ</p>
 		<ul>
@@ -89,6 +94,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<li>工場見学<span>60分</span></li>
 		</ul>
 	</div>
+	-->
 	<p class="entry_txt">応募前見学をご希望の方は、担任の先生や、進路指導の先生にご相談ください。</p>
 </section>
 </main>

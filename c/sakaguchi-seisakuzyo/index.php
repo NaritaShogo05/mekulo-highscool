@@ -506,12 +506,12 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>就業場所</dt>
-					<dd>〒389-1103<br>
+					<dd>〒386-1103<br>
 					長野県上田市神畑630</dd>
 				</div>
 				<div>
 					<dt>アクセス</dt>
-					<dd>神畑駅から徒歩5分</dd>
+					<dd>寺下駅から徒歩5分</dd>
 				</div>
 				<div>
 					<dt>受動喫煙対策</dt>

@@ -245,32 +245,32 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>募集職種</dt>
-					<dd>製造職</dd>
+					<dd>溶接作業</dd>
 				</div>
 				<div>
 					<dt>雇用形態</dt>
-					<dd></dd>
+					<dd>正社員</dd>
 				</div>
 				<div>
 					<dt>雇用期間</dt>
-					<dd></dd>
+					<dd>定めなし</dd>
 				</div>
 				<div>
 					<dt>契約更新の可能性</dt>
-					<dd></dd>
+					<dd>なし</dd>
 				</div>
 				<div>
 					<dt>試用期間</dt>
-					<dd>あり（3カ月）</dd>
+					<dd>3ヵ月</dd>
 				</div>
 				<div>
 					<dt>試用期間中の労働条件</dt>
-					<dd></dd>
+					<dd>同条件</dd>
 				</div>
 				<div>
 					<dt>就業場所</dt>
 					<dd>〒389-0511<br>
-					長野県東御市滋野甲2305</dd>
+					長野県東御市滋野甲2305番地</dd>
 				</div>
 				<div>
 					<dt>アクセス</dt>
@@ -278,43 +278,42 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>受動喫煙対策</dt>
-					<dd>あり</dd>
+					<dd>あり(屋内禁煙)</dd>
 				</div>
 				<div>
 					<dt>受動喫煙対策に関する特記事項</dt>
-					<dd>屋内禁煙</dd>
+					<dd>-</dd>
 				</div>
 				<div>
 					<dt>マイカー通勤</dt>
-					<dd></dd>
+					<dd>可</dd>
 				</div>
 				<div>
 					<dt>転勤の可能性</dt>
-					<dd></dd>
+					<dd>なし</dd>
 				</div>
 				<div>
 					<dt>必要な知識・技能等</dt>
-					<dd></dd>
+					<dd>不問</dd>
 				</div>
 			</dl>
 			<h3>賃金・手当</h3>
 			<dl>
 				<div>
 					<dt>賃金形態</dt>
-					<dd></dd>
+					<dd>月給</dd>
 				</div>
 				<div>
 					<dt>月平均労働日数</dt>
-					<dd>日</dd>
+					<dd>21.9日</dd>
 				</div>
 				<div>
 					<dt>毎月の賃金</dt>
-					<dd></dd>
+					<dd>現行</dd>
 				</div>
 				<div>
 					<dt>基本給</dt>
-
-					<dd>157,000円～</dd>
+					<dd>157,000円</dd>
 				</div>
 				<div>
 					<dt>定期的に支払われる手当①</dt>
@@ -330,11 +329,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>固定残業代</dt>
-					<dd></dd>
+					<dd>なし</dd>
 				</div>
 				<div>
 					<dt>初任給</dt>
-					<dd>157,000円～</dd>
+					<dd>176,500円</dd>
 				</div>
 				<div>
 					<dt>特別に支払われる手当①</dt>
@@ -342,30 +341,30 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>特別に支払われる手当②</dt>
-					<dd></dd>
+					<dd>-</dd>
 				</div>
 				<div>
 					<dt>賃金締切日</dt>
-					<dd></dd>
+					<dd>毎月20日</dd>
 				</div>
 				<div>
 					<dt>通勤手当</dt>
-					<dd></dd>
+					<dd>実費支給（上限なし）</dd>
 				</div>
 				<div>
 					<dt>昇給</dt>
-					<dd>あり（前年度実績3%）</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>賞与</dt>
-					<dd>年2回（初年度は1.5か月分、次年度から3.5か月分）</dd>
+					<dd>年2回</dd>
 				</div>
 			</dl>
 			<h3>労働時間</h3>
 			<dl>
 				<div>
 					<dt>就業期間</dt>
-					<dd>シフト制（交代制）<br>8時30分〜17時00分<br>16時00分〜0時30分<br>0時15分〜8時45分</dd>
+					<dd>交代制（シフト制）<br>(1)8時10分〜17時15分<br>(2)16時00分〜0時30分<br>(3)0時15分〜8時45分</dd>
 				</div>
 				<div>
 					<dt>時間外労働</dt>
@@ -373,38 +372,38 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>休日</dt>
-					<dd>シフト制</dd>
+					<dd>週休2日制（他）</dd>
 				</div>
 				<div>
 					<dt>その他休日</dt>
-					<dd>当社の就業カレンダーによる</dd>
+					<dd>年間休日120日</dd>
 				</div>
 			</dl>
 			<h3>保険・年金・定年等</h3>
 			<dl>
 				<div>
 					<dt>加入保険等</dt>
-					<dd>厚生年金保険、健康保険、雇用保険、労災保険</dd>
+					<dd>厚生年金保険、健康保険、介護保険、雇用保険、労災保険、財形保険</dd>
 				</div>
 				<div>
 					<dt>企業年金</dt>
-					<dd>確定拠出年金</dd>
+					<dd>企業年金基金</dd>
 				</div>
 				<div>
 					<dt>退職金制度</dt>
-					<dd></dd>
+					<dd>あり（勤続年数3年以上）</dd>
 				</div>
 				<div>
 					<dt>定年制</dt>
-					<dd>あり</dd>
+					<dd>あり（60歳）</dd>
 				</div>
 				<div>
 					<dt>一律定年制</dt>
-					<dd>60歳</dd>
+					<dd>あり（定年年齢60歳）</dd>
 				</div>
 				<div>
 					<dt>再雇用制度</dt>
-					<dd></dd>
+					<dd>あり（上限年齢65歳）</dd>
 				</div>
 				<div>
 					<dt>勤務延長</dt>
@@ -412,7 +411,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>入居可能住宅</dt>
-					<dd></dd>
+					<dd>なし</dd>
 				</div>
 			</dl>
 		</div>
@@ -421,24 +420,24 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>直近3年間の新卒者等採用者数</dt>
-					<dd>前年度:人、2年度前：人、3年度前：人</dd>
+					<dd>前年度:0人、2年度前：0人、3年度前：3人</dd>
 				</div>
 				<div>
 					<dt>直近3年間の新卒者等離職者数</dt>
-					<dd>前年度:人、2年度前：人、3年度前：人</dd>
+					<dd>前年度:0人、2年度前：0人、3年度前：0人</dd>
 				</div>
 				<div>
 					<dt>男性の新卒者等採用数</dt>
-					<dd>前年度:人、2年度前：人、3年度前：人</dd>
+					<dd>前年度:0人、2年度前：0人、3年度前：2人</dd>
 				</div>
 				<div>
 					<dt>女性の新卒者等採用数</dt>
-					<dd>前年度:人、2年度前：人、3年度前：人</dd>
+					<dd>前年度:0人、2年度前：0人、3年度前：1人</dd>
 				</div>
 				<div>
 					<dt>平均継続勤務年数</dt>
 					<dd>
-						16.8年
+						16.8年<br>
 					</dd>
 				</div>
 				<div>
@@ -451,25 +450,23 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>研修内容</dt>
-					<dd>入社後の座学・現場研修<br>配属後に力量に応じた教育訓練</dd>
+					<dd>なし</dd>
 				</div>
 				<div>
 					<dt>自己啓発支援の有無</dt>
-					<dd>
-						なし
-					</dd>
+					<dd>なし</dd>
 				</div>
 				<div>
 					<dt>メンター制度の有無</dt>
-					<dd></dd>
+					<dd>なし</dd>
 				</div>
 				<div>
 					<dt>キャリアコンサルティング制度の有無</dt>
-					<dd></dd>
+					<dd>なし</dd>
 				</div>
 				<div>
 					<dt>社内検定等の有無</dt>
-					<dd></dd>
+					<dd>なし</dd>
 				</div>
 				<div>
 					<dt>前年度の月平均所定外労働時間</dt>
@@ -481,11 +478,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>前事業年度の育児休業取得者数</dt>
-					<dd>女性：人、男性：人</dd>
+					<dd>女性：0人、男性：0人</dd>
 				</div>
 				<div>
 					<dt>前事業年度の出産者数</dt>
-					<dd>名</dd>
+					<dd>0名</dd>
 				</div>
 				<div>
 					<dt>女性役員割合</dt>
@@ -493,11 +490,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>女性の管理職割合</dt>
-					<dd>%</dd>
+					<dd>0%</dd>
 				</div>
 				<div>
 					<dt>区分の名称</dt>
-					<dd></dd>
+					<dd>製造職</dd>
 				</div>
 			</dl>
 		</div>
@@ -511,7 +508,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<div>
 					<dt>応募前職場見学</dt>
 					<dd>
-						-
+						2025年8月4日（月） 10時00分～11時00分<br>
+						2025年8月5日（火） 13時00分～14時00分
 					</dd>
 				</div>
 				<div>
@@ -520,7 +518,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>選考旅費</dt>
-					<dd></dd>
+					<dd>なし</dd>
 				</div>
 				<div>
 					<dt>選考結果通知</dt>
@@ -530,7 +528,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 					<dt>選考担当者</dt>
 					<dd>
 						総務部<br>
-						小河原 良
+						小河原
 					</dd>
 				</div>
 			</dl>

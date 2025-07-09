@@ -405,7 +405,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dt>事業内容</dt>
 			<dd>
 				<ul class="li_style">
-					<li>住宅のエクステリア外構等の販売・施工、
+					<li>住宅のエクステリア外構等の販売・施工</li>
                     <li>増改築リフォーム</li>
 					<li>プレハブ建築</li>
 				</ul>

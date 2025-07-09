@@ -497,7 +497,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>募集職種</dt>
-					<dd>製造技術者</dd>
+					<dd>オーダーメイド機械の製造</dd>
 				</div>
 				<div>
 					<dt>雇用形態</dt>
@@ -528,7 +528,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>アクセス</dt>
-					<dd>しなの鉄道滋野駅駅から徒歩10分</dd>
+					<dd>しなの鉄道滋野駅駅から徒歩20分</dd>
 				</div>
 				<div>
 					<dt>受動喫煙対策</dt>
@@ -536,7 +536,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>受動喫煙対策に関する特記事項</dt>
-					<dd>屋内喫煙</dd>
+					<dd>喫煙所設置</dd>
 				</div>
 				<div>
 					<dt>マイカー通勤</dt>
@@ -549,8 +549,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<div>
 					<dt>必要な知識・技能等</dt>
 					<dd>
-						あれば尚可<br>
-						機械科または電気科での履修があれば尚可
+						不問
 					</dd>
 				</div>
 			</dl>
@@ -606,33 +605,33 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>昇給</dt>
-					<dd>なし</dd>
+					<dd>前年度実績なし</dd>
 				</div>
 				<div>
 					<dt>賞与</dt>
-					<dd>年2回35~40万円または1.5か月分</dd>
+					<dd>年2回、4か月分</dd>
 				</div>
 			</dl>
 			<h3>労働時間</h3>
 			<dl>
 				<div>
 					<dt>就業期間</dt>
-					<dd>9時00分〜18時00分
+					<dd>9時30分〜17時30分
 					</dd>
 				</div>
 				<div>
 					<dt>時間外労働</dt>
-					<dd>あり</dd>
+					<dd>月平均20時間</dd>
 				</div>
 				<div>
 					<dt>休日</dt>
-					<dd>土 日 祝 その他</dd>
+					<dd>土、日、祝、その他</dd>
 				</div>
 				<div>
 					<dt>その他休日</dt>
 					<dd>
-						年に数回の土曜に出勤日があります。<br>
-						年末年始、ＧＷ、夏季の連続休暇あり。
+						GW・夏季・年末年始の連続休暇など<br>
+						企業カレンダーにより、年数回の土曜出勤あり
 					</dd>
 				</div>
 			</dl>
@@ -656,15 +655,15 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>一律定年制</dt>
-					<dd>あり(65歳)</dd>
+					<dd>65歳</dd>
 				</div>
 				<div>
 					<dt>再雇用制度</dt>
-					<dd>なし</dd>
+					<dd>あり（上限70歳まで）</dd>
 				</div>
 				<div>
 					<dt>勤務延長</dt>
-					<dd>なし</dd>
+					<dd>あり（上限70歳まで）</dd>
 				</div>
 				<div>
 					<dt>入居可能住宅</dt>
@@ -677,29 +676,29 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>直近3年間の新卒者等採用者数</dt>
-					<dd>前年度:2人、2年度前：3人、3年度前：0人</dd>
+					<dd>前年度:1人、2年度前：1人、3年度前：0人</dd>
 				</div>
 				<div>
 					<dt>直近3年間の新卒者等離職者数</dt>
-					<dd>前年度:1人、2年度前：0人、3年度前：0人</dd>
+					<dd>前年度:0人、2年度前：0人、3年度前：0人</dd>
 				</div>
 				<div>
 					<dt>男性の新卒者等採用数</dt>
-					<dd>前年度:2人、2年度前：3人、3年度前：0人</dd>
+					<dd>前年度:0人、2年度前：1人、3年度前：0人</dd>
 				</div>
 				<div>
 					<dt>女性の新卒者等採用数</dt>
-					<dd>前年度:0人、2年度前：0人、3年度前：0人</dd>
+					<dd>前年度:1人、2年度前：0人、3年度前：0人</dd>
 				</div>
 				<div>
 					<dt>平均継続勤務年数</dt>
 					<dd>
-						10.8年
+						13年
 					</dd>
 				</div>
 				<div>
 					<dt>従業員の平均年齢</dt>
-					<dd>46.5歳</dd>
+					<dd>47歳</dd>
 				</div>
 				<div>
 					<dt>研修の有無</dt>
@@ -707,12 +706,12 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>研修内容</dt>
-					<dd>親会社にて新入社員研修に参加</dd>
+					<dd>配属部門により作業標準等の社内研修</dd>
 				</div>
 				<div>
 					<dt>自己啓発支援の有無</dt>
 					<dd>
-						あり(資格取得奨励金制度)
+						なし
 					</dd>
 				</div>
 				<div>
@@ -729,19 +728,19 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>前年度の月平均所定労働時間</dt>
-					<dd>7.9時間</dd>
+					<dd>20時間</dd>
 				</div>
 				<div>
 					<dt>前事業年度の有給休暇の平均取得日数</dt>
-					<dd>15.6日</dd>
+					<dd>15.4日</dd>
 				</div>
 				<div>
 					<dt>前事業年度の育児休業取得者数</dt>
-					<dd>女性：0人、男性：2人</dd>
+					<dd>女性：0人、男性：0人</dd>
 				</div>
 				<div>
 					<dt>前事業年度の出産者数</dt>
-					<dd>女性：0人、男性：2人</dd>
+					<dd>女性：0人、男性：0人</dd>
 				</div>
 				<div>
 					<dt>女性役員割合</dt>
@@ -749,11 +748,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>女性の管理職割合</dt>
-					<dd>0%</dd>
+					<dd>20%</dd>
 				</div>
 				<div>
 					<dt>区分の名称</dt>
-					<dd>-</dd>
+					<dd>製造業</dd>
 				</div>
 			</dl>
 		</div>
@@ -762,12 +761,12 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>求人数</dt>
-					<dd>名</dd>
+					<dd>2名</dd>
 				</div>
 				<div>
 					<dt>応募前職場見学</dt>
 					<dd>
-					    
+					    随時開催中
 					</dd>
 				</div>
 				<div>
@@ -776,7 +775,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>選考旅費</dt>
-					<dd></dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>選考結果通知</dt>
@@ -785,8 +784,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<div>
 					<dt>選考担当者</dt>
 					<dd>
-						管理部総務課<br>
-						柳澤　編
+						管理部<br>
+						高木、畑田、渡辺
 					</dd>
 				</div>
 			</dl>

@@ -10,7 +10,7 @@ include_once $highschool_base . 'circle.php';
 // ページのメタデータ
 $title = $co['company_name'] . 'の高卒求人情報';
 $title_with_site = $title . ' | めくろうワークス';
-$description = '株式会社 綿谷製作所の応募前見学ページです。';//メタディスクリプションをここに挿入 
+$description = '有限会社 柳沢モータースの応募前見学ページです。';//メタディスクリプションをここに挿入 
 $canonical_url = 'https://works.mekulo.jp/hs/' . $co['slug'] . '/';
 $og_image = 'https://works.mekulo.jp/ogp-image.png';
 ?>
@@ -64,27 +64,26 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 <div class="content_area">
 <main>
 <div class="fv_wr">
-	<img alt="" class="fv_image" src="first_view.jpg">
+	<img alt="" class="fv_image" src="../firstview.jpg">
 	<div class="apply">
 		<h1 class="catch"><?= $co['company_name'] ?></h1>
 		<p class="tag">応募前見学ページ</p>
 	</div>
 </div>
 <section id="visit1" class="content">
-	<p class="catchcopy"><span>実際の現場をのぞいてみませんか？</span></p>
+	<p class="catchcopy"><span>自動車整備工場を見てみませんか？</span></p>
 	<p class="cont">
-		綿谷製作所の応募前見学では、希望する部署を中心に見学することができます。興味のある職種が決まっている場合は、その部署を中心にご案内します。<br>
-        図面ってどう読むの？どんな工具を使うの？1日のスケジュールは？<br>
-        ちょっとした疑問でも、遠慮せずにどんどん聞いてください。現場で働く“生の声”を聞けるのは、この見学の特権です。<br>
-       「思っていたより静かだった」「想像よりチームワークが多かった」など、実際に見ることでイメージが変わる人もたくさんいます。<br>
-	    迷っている人こそ、まずは気軽に見に来てみてくださいね。
+		「車の仕事って、男の人ばかり？」<br>
+		 そんなイメージをくつがえしたいのがヤナモ（柳沢モータース）です。整備や板金塗装の現場でも、女性がしっかり活躍している場面はたくさんあります。工具の使い方から先輩が丁寧に教えてくれるので、未経験でも大丈夫。「モノをきれいに直すのが好き」「形になる仕事に挑戦してみたい」そんな気持ちを、ヤナモは全力で応援します！
 	</p>
 	<div class="opendate">
 		<p>開催日時</p>
 		<ul>
-			<li>随時開催</li>
+			随時開催中！<br>
+			お気軽にお問い合わせください。
 		</ul>
 	</div>
+	<!--
 	<div class="flow">
 		<p>見学の流れ</p>
 		<ul>
@@ -92,6 +91,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<li>工場見学<span>  分程度</span></li>
 		</ul>
 	</div>
+	-->
 	<p class="entry_txt">応募前見学をご希望の方は、担任の先生や、進路指導の先生にご相談ください。</p>
 </section>
 </main>

@@ -374,7 +374,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<div>
 			<dt>本社所在地</dt>
 			<dd>〒<?= $co['post_code']?><br><?= $co['address']?><br>
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d34254.812434959706!2d138.20833647254778!3d36.64388754961823!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601d85fe21c88ed1%3A0x8d220fff33b8edc5!2z44CSMzgxLTAwMjUg6ZW36YeO55yM6ZW36YeO5biC5YyX6ZW35rGg77yS77yQ77yV77yY4oiS77yXIOenkeWtpuaKgOihk-mWi-eZuuOCu-ODs-OCv-ODvA!5e0!3m2!1sja!2sjp!4v1751877770799!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3201.161638464357!2d138.23277157637472!3d36.64656187634417!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601d8600a0292f83%3A0x477a0dd7162402b4!2z77yI5qCq77yJ56eR5a2m5oqA6KGT6ZaL55m644K744Oz44K_44O8!5e0!3m2!1sja!2sjp!4v1751951271100!5m2!1sja!2sjp" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 			</dd>
 		</div>
 		<div>

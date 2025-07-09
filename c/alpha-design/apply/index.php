@@ -71,6 +71,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	</div>
 </div>
 <section id="visit1" class="content">
+	<p class="catchcopy"><span>「スマホの中にある、私たちのしごと」</span></p>
+	<p class="cont">
+		アルファーデザインは、半導体や電子機器をつくる工場で使われる最先端の自動機械を設計・製造している会社です。会社見学では、仲間と考え、試行錯誤しながら機械を作っている、最先端のリアルな“エンジニアの世界”を感じ取ってください。<br>
+		機械設計やプログラムに興味がある人はもちろん、「なんか面白そう」そんな気持ちからのスタートも大歓迎です！
+	</p>
 	<div class="opendate">
 		<p>開催日時</p>
 		<ul>
