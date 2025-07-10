@@ -108,15 +108,6 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 					<span></span>
 				</div>
 			</a>
-			<a href="#employee_introduction">
-				<div class="btn">
-					<img src="<?= $highschool_base ?>icon-2.png">
-					<p>社員紹介</p>
-				</div>
-				<div class="btn-af">
-					<span></span>
-				</div>
-			</a>
 			<a href="#recruitment_requirements">
 				<div class="btn">
 					<img src="<?= $highschool_base ?>icon-3.png">
