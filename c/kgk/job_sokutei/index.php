@@ -312,6 +312,10 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 					<dd>精勤手当（5,000円）</dd>
 				</div>
 				<div>
+					<dt>補足事項</dt>
+					<dd>役職手当、家族手当、住宅手当、資格手当、職務手当など</dd>
+				</div>
+				<div>
 					<dt>賃金締切日</dt>
 					<dd>毎月20日</dd>
 				</div>
@@ -405,12 +409,12 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<div>
 					<dt>平均継続勤務年数</dt>
 					<dd>
-						-年
+						12年
 					</dd>
 				</div>
 				<div>
 					<dt>従業員の平均年齢</dt>
-					<dd>-歳</dd>
+					<dd>39歳</dd>
 				</div>
 				<div>
 					<dt>研修の有無</dt>

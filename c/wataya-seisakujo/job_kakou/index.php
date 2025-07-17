@@ -178,7 +178,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		ダイス工場
 	</h3>
 	<p>
-		本社から車で5分ほどの場所にある「ダイス工場」では、ネジを作るための特殊な金型、「転造ダイス」を作っています。この金型で作られたネジはとても強く、大手企業の製品にも使われています。
+		本社から車で5分ほどの場所にある「ダイス工場」では、ネジを作るための特殊な金型、「転造ダイス」を作っています。この金型で作られたネジはとても強く、自動車や鉄道、航空機にも使われています。
 	</p>
 	<div class="images grid-images">
 		<img src="daisu2.jpg" alt="" class="scene">
@@ -272,7 +272,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 					<p>
 						入社後は電気組立や検査の仕事をしていましたが、自分の思っていた仕事と違ったので、上司に相談して部署を変えてもらいました。常に手を動かしていたい性格なので、ずっと動いている加工に変えてもらったんです。<br>
                         製造の経験はありましたが、工作機械を動かすのは初めてでした。加工するものによって条件が違うので、覚えるのは大変です。でも、加工は自分がどれだけ仕事したのかが目に見えるので、それがやりがいに繋がっています。<br>
-                        休日はほぼ家事ですね（笑）主婦のような生活をしていて、彼女のお弁当も作っています。でも、こんな暮らしも悪くないなって思っています。
+                        休日はほぼ家事ですね（笑）彼女のお弁当も作っています。でも、こんな暮らしも悪くないなって思っています。
                     </p>
 				</hgroup>
 			</div>
@@ -305,11 +305,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>契約更新の可能性</dt>
-					<dd>なし</dd>
+					<dd>-</dd>
 				</div>
 				<div>
 					<dt>試用期間</dt>
-					<dd>3カ月（待遇の変更なし）</dd>
+					<dd>あり（3か月）</dd>
 				</div>
 				<div>
 					<dt>試用期間中の労働条件</dt>
@@ -317,20 +317,20 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>就業場所</dt>
-					<dd>〒3860404<br>
+					<dd>〒386-0404<br>
 					長野県上田市上丸子1082</dd>
 				</div>
 				<div>
 					<dt>アクセス</dt>
-					<dd>上田駅から車で20分</dd>
+					<dd>上田丸子線 丸子駅から徒歩5分</dd>
 				</div>
 				<div>
 					<dt>受動喫煙対策</dt>
-					<dd>-</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>受動喫煙対策に関する特記事項</dt>
-					<dd>-</dd>
+					<dd>屋内禁煙</dd>
 				</div>
 				<div>
 					<dt>マイカー通勤</dt>
@@ -338,7 +338,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>転勤の可能性</dt>
-					<dd>なし</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>必要な知識・技能等</dt>
@@ -353,7 +353,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>月平均労働日数</dt>
-					<dd>21日</dd>
+					<dd>20.8日</dd>
 				</div>
 				<div>
 					<dt>毎月の賃金</dt>
@@ -361,14 +361,10 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>基本給</dt>
-					<dd>170,000円～</dd>
+					<dd>170,000円</dd>
 				</div>
 				<div>
-					<dt>定期的に支払われる手当①</dt>
-					<dd>-</dd>
-				</div>
-				<div>
-					<dt>定期的に支払われる手当②</dt>
+					<dt>定期的に支払われる手当</dt>
 					<dd>-</dd>
 				</div>
 				<div>
@@ -377,38 +373,34 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>初任給</dt>
-					<dd>-</dd>
+					<dd>170,000円</dd>
 				</div>
 				<div>
-					<dt>特別に支払われる手当①</dt>
-					<dd>皆勤手当（3,000円～）</dd>
-				</div>
-				<div>
-					<dt>特別に支払われる手当②</dt>
-					<dd>-</dd>
+					<dt>特別に支払われる手当</dt>
+					<dd>出勤（皆勤）手当（3,000円）</dd>
 				</div>
 				<div>
 					<dt>賃金締切日</dt>
-					<dd>毎月20日</dd>
+					<dd>毎月15日</dd>
 				</div>
 				<div>
 					<dt>通勤手当</dt>
-					<dd>あり（上限なし）</dd>
+					<dd>実費支給（上限なし）</dd>
 				</div>
 				<div>
 					<dt>昇給</dt>
-					<dd>あり</dd>
+					<dd>あり（前年度実績3%）</dd>
 				</div>
 				<div>
 					<dt>賞与</dt>
-					<dd>年2回</dd>
+					<dd>あり（年2回、1.5か月分）</dd>
 				</div>
 			</dl>
 			<h3>労働時間</h3>
 			<dl>
 				<div>
 					<dt>就業期間</dt>
-					<dd>8時10分〜17時15分</dd>
+					<dd>変形労働時間制（1か月単位）<br>8時10分～17時00分<br>17時10分～2時00分</dd>
 				</div>
 				<div>
 					<dt>時間外労働</dt>
@@ -416,38 +408,38 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>休日</dt>
-					<dd>週休2日制（土日・祝日・他）</dd>
+					<dd>土、日、その他</dd>
 				</div>
 				<div>
 					<dt>その他休日</dt>
-					<dd>年間休日113日（2025年度計画）</dd>
+					<dd>年末年始、お盆、GWなど<br>会社カレンダーによる</dd>
 				</div>
 			</dl>
 			<h3>保険・年金・定年等</h3>
 			<dl>
 				<div>
 					<dt>加入保険等</dt>
-					<dd>厚生年金保険、健康保険、介護保険、雇用保険、労災保険</dd>
+					<dd>厚生年金保険、健康保険、財形保険、雇用保険、労災保険</dd>
 				</div>
 				<div>
 					<dt>企業年金</dt>
-					<dd>企業年金基金</dd>
+					<dd>厚生年金基金、確定拠出年金</dd>
 				</div>
 				<div>
 					<dt>退職金制度</dt>
-					<dd>あり（勤続年数3年以上）</dd>
+					<dd>あり（勤続1年以上）</dd>
 				</div>
 				<div>
 					<dt>定年制</dt>
-					<dd>あり（60歳）</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>一律定年制</dt>
-					<dd>あり（定年年齢60歳）</dd>
+					<dd>60歳</dd>
 				</div>
 				<div>
 					<dt>再雇用制度</dt>
-					<dd>あり（上限年齢65歳）</dd>
+					<dd>あり（上限65歳まで）</dd>
 				</div>
 				<div>
 					<dt>勤務延長</dt>
@@ -464,7 +456,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>直近3年間の新卒者等採用者数</dt>
-					<dd>前年度:0人、2年度前：0人、3年度前：0人</dd>
+					<dd>前年度:1人、2年度前：0人、3年度前：1人</dd>
 				</div>
 				<div>
 					<dt>直近3年間の新卒者等離職者数</dt>
@@ -476,33 +468,35 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>女性の新卒者等採用数</dt>
-					<dd>前年度:0人、2年度前：0人、3年度前：0人</dd>
+					<dd>前年度:1人、2年度前：0人、3年度前：1人</dd>
 				</div>
 				<div>
 					<dt>平均継続勤務年数</dt>
 					<dd>
-						10年<br>
-						※創業以降の実績
+						15年
 					</dd>
 				</div>
 				<div>
 					<dt>従業員の平均年齢</dt>
-					<dd>50歳</dd>
+					<dd>44歳</dd>
 				</div>
 				<div>
 					<dt>研修の有無</dt>
-					<dd>なし</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>研修内容</dt>
-					<dd>なし</dd>
+					<dd>社内新卒者研修、外部研修</dd>
 				</div>
 				<div>
 					<dt>自己啓発支援の有無</dt>
 					<dd>
-						〇資格取得支援<br>
-						業務に関係するの資格取得にかかる費用について、会社承認の上で、100%補助を行っています。
+						あり
 					</dd>
+				</div>
+				<div>
+					<dt>自己啓発支援内容</dt>
+					<dd>入社後、仕事に必要な資格の取得を支援します（費用の負担、講習等は出勤扱いとする）</dd>
 				</div>
 				<div>
 					<dt>メンター制度の有無</dt>
@@ -534,15 +528,15 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>女性役員割合</dt>
-					<dd>66%</dd>
-				</div>
-				<div>
-					<dt>女性の管理職割合</dt>
 					<dd>0%</dd>
 				</div>
 				<div>
+					<dt>女性の管理職割合</dt>
+					<dd>15%</dd>
+				</div>
+				<div>
 					<dt>区分の名称</dt>
-					<dd>製造職</dd>
+					<dd>-</dd>
 				</div>
 			</dl>
 		</div>
@@ -561,21 +555,21 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>選考方法</dt>
-					<dd>書類選考、面接</dd>
+					<dd>面接</dd>
 				</div>
 				<div>
 					<dt>選考旅費</dt>
-					<dd>なし</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>選考結果通知</dt>
-					<dd>面接後５日以内</dd>
+					<dd>面接後10日以内</dd>
 				</div>
 				<div>
 					<dt>選考担当者</dt>
 					<dd>
-						専務取締役<br>
-						内藤
+						管理部 総務経理課<br>
+						吉池
 					</dd>
 				</div>
 			</dl>
@@ -588,7 +582,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<img src="../../../arrow.svg">
 		</a>
 	</div>
-</section>		
+</section>
 <section class="g nextpage">
     <h2>その他の職種を見てみる</h2>
     <ul class="image_navi">

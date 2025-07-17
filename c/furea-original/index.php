@@ -102,7 +102,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	</p>
 	<div id="gallery">
 		<div class="gallery_window">
-			<img src="first_view.jpg" alt="" class="fs show">
+			<img src="first_view.JPG" alt="" class="fs show">
 			<img src="busi01.jpg" alt="" class="sc">
 			<img src="job_robot/robot3.jpg" alt="" class="th">
 			<img src="factory.jpg" alt="" class="fo">
@@ -235,7 +235,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		</li>
 		<li class="small">
 			<p>平均勤続年数</p>
-			<p class="num"><span> </span>年</p>
+			<p class="num"><span>3</span>年</p>
 		</li>
 		<li class="small">
 			<p>月平均残業時間</p>
@@ -261,8 +261,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<p>育児休暇率</p>
 				<svg width="150" height="150" viewBox="0 0 200 200">
 					<?php create_donut_graph(100, 100, 100, 45, [
-						[ 'value' => 25, 'caption' => '未取得', 'color' => '#d9d9d9'],
-						[ 'value' => 75, 'caption' => '取得', 'color' => '#2378C7'],
+						[ 'value' => 75, 'caption' => '75%', 'color' => '#2378C7'],
+						[ 'value' => 25, 'caption' => '', 'color' => '#d9d9d9'],
 					]); ?>
 				</svg>
 			</div>
@@ -299,7 +299,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 					[ 'value' => 40, 'caption' => '30代', 'color' => '#00AEEF'],
 					[ 'value' => 20, 'caption' => '40代', 'color' => '#00B398'],
 					[ 'value' => 0.01, 'caption' => '', 'color' => '#009F6B'],
-					[ 'value' => 10, 'caption' => '60代', 'color' => '#008C4A'],
+					[ 'value' => 10, 'caption' => '50代', 'color' => '#008C4A'],
 				]); ?>
 			</svg>
 		</div>

@@ -1,7 +1,7 @@
 <?php
 $co = [
     'slug' => 'futaba-yousetsu',
-    'image' => 'company.jpg',
+    'image' => 'first-view.jpg',
     'company_name' => '株式会社 双葉溶接',
     'catch_copy' => '夢は溶接アトリエ！',
     'industry' => ['E'],
@@ -38,8 +38,8 @@ $visit = [
         'date' => [
             [
                 'name' => '随時開催<br>日程についてぜひご相談ください。', 
-                'date' => '2025-  -  ',
-                'deadline' => '2025-  -  ',//募集締切日
+                'date' => '2025-08-31',
+                'deadline' => '2025-08-31',//募集締切日
             ],
         ],
         'catch_copy' => '',

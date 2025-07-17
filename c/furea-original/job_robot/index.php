@@ -252,11 +252,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>契約更新の可能性</dt>
-					<dd>なし</dd>
+					<dd>-</dd>
 				</div>
 				<div>
 					<dt>試用期間</dt>
-					<dd>あり（待遇の変更なし）</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>試用期間中の労働条件</dt>
@@ -273,11 +273,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>受動喫煙対策</dt>
-					<dd>屋内禁煙</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>受動喫煙対策に関する特記事項</dt>
-					<dd>-</dd>
+					<dd>屋内禁煙</dd>
 				</div>
 				<div>
 					<dt>マイカー通勤</dt>
@@ -289,7 +289,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>必要な知識・技能等</dt>
-					<dd>電気的な知識、プログラム、工作、プラモデル、モノづくりが好きな人</dd>
+					<dd>あれば尚可<br>電気的な知識、プログラム、工作、プラモデル、モノづくりが好きな人</dd>
 				</div>
 			</dl>
 			<h3>賃金・手当</h3>
@@ -311,12 +311,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 					<dd>180,000円～</dd>
 				</div>
 				<div>
-					<dt>定期的に支払われる手当①</dt>
+					<dt>定期的に支払われる手当</dt>
 					<dd>資格手当</dd>
-				</div>
-				<div>
-					<dt>定期的に支払われる手当②</dt>
-					<dd>-</dd>
 				</div>
 				<div>
 					<dt>固定残業代</dt>
@@ -344,7 +340,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>通勤手当</dt>
-					<dd>あり（上限あり）</dd>
+					<dd>あり（上限なし）</dd>
 				</div>
 				<div>
 					<dt>昇給</dt>
@@ -352,7 +348,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>賞与</dt>
-					<dd>あり</dd>
+					<dd>あり（0～200万円）</dd>
 				</div>
 			</dl>
 			<h3>労働時間</h3>
@@ -390,11 +386,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>定年制</dt>
-					<dd>あり（60歳）</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>一律定年制</dt>
-					<dd>あり（定年年齢60歳）</dd>
+					<dd>60歳</dd>
 				</div>
 				<div>
 					<dt>再雇用制度</dt>
@@ -432,7 +428,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<div>
 					<dt>平均継続勤務年数</dt>
 					<dd>
-						 年<br>
+						3年<br>
 					</dd>
 				</div>
 				<div>
@@ -445,12 +441,18 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>研修内容</dt>
-					<dd>-</dd>
+					<dd>業務内容により、都度研修</dd>
 				</div>
 				<div>
 					<dt>自己啓発支援の有無</dt>
 					<dd>
 						あり
+					</dd>
+				</div>
+				<div>
+					<dt>自己啓発支援の内容</dt>
+					<dd>
+						資格取得支援（会社負担、資格手当支給）
 					</dd>
 				</div>
 				<div>
@@ -463,7 +465,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>社内検定等の有無</dt>
-					<dd>あり</dd>
+					<dd>なし</dd>
 				</div>
 				<div>
 					<dt>前年度の月平均所定外労働時間</dt>
@@ -491,7 +493,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>区分の名称</dt>
-					<dd>高卒</dd>
+					<dd>-</dd>
 				</div>
 			</dl>
 		</div>
@@ -510,7 +512,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>選考方法</dt>
-					<dd>書類選考、面接、適性検査、学科試験(一般常識、作文)</dd>
+					<dd>面接、適性検査、学科試験(一般常識、作文)</dd>
 				</div>
 				<div>
 					<dt>選考旅費</dt>

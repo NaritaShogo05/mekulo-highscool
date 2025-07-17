@@ -1,6 +1,6 @@
 <?php
 $co = [
-    'slug' => 'naito-kogyousho',
+    'slug' => 'yamaguti-denki',
     'image' => 'company.jpg',
     'company_name' => '株式会社 山口電気',
     'catch_copy' => 'まるでパズル！？電気を読み解く仕事',

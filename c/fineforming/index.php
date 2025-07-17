@@ -175,7 +175,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		スピード感が好きなら「鍛造」！
 	</h3>
 	<p>
-		鍛造は、熱した金属を<strong>600tの圧力で叩き、強度を高めながら形を整えていく技術</strong>です。
+		鍛造は、熱した金属を<strong>600～1,000tの圧力で叩き、強度を高めながら形を整えていく技術</strong>です。
 	</p>
 	<div class="images">
 		<img src="contents_03.jpg" class="scene" alt="">

@@ -65,7 +65,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 <div class="content_area">
 <main>
 <div class="fv_wr">
-	<img alt="" class="fv_image" src="../first_view.jpg">
+	<img alt="" class="fv_image" src="../first_view.JPG">
 	<div class="apply">
 		<h1 class="catch"><?= $co['company_name'] ?></h1>
 		<p class="tag">応募前見学ページ</p>
@@ -81,10 +81,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	<div class="opendate">
 		<p>開催日時</p>
 		<ul>
-			<li>2025年 月  日（ ）   時  分～</li>
-			<li>2025年 月  日（ ）   時  分～</li>
+			随時開催中！<br>
+			お気軽にお問い合わせください。
 		</ul>
 	</div>
+	<!--
 	<div class="flow">
 		<p>見学の流れ</p>
 		<ul>
@@ -92,6 +93,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<li>工場見学<span>  分程度</span></li>
 		</ul>
 	</div>
+	-->
 	<p class="entry_txt">応募前見学をご希望の方は、担任の先生や、進路指導の先生にご相談ください。</p>
 </section>
 </main>

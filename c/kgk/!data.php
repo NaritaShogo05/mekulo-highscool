@@ -1,7 +1,7 @@
 <?php
 $co = [
     'slug' => 'kgk',
-    'image' => 'company.jpg',
+    'image' => 'firstview.jpg',
     'company_name' => '株式会社科学技術開発センター',
     'catch_copy' => '身近なことを科学で測定する',
     'industry' => ['L'],
@@ -24,7 +24,7 @@ $occupation = [
         'url' => 'job_sokutei',
         'catch_copy' => '測るためならたとえ地の中、水の中',
         'work' => ['745'],
-        'fv_url' => 'job_sokutei/firstview',
+        'fv_url' => 'job_sokutei/firstview.jpg',
         'latitude' => 36.64721198,//緯度
         'longitude' => 138.23568173,//経度
         'MBTI' =>  'iNTj',
@@ -43,7 +43,7 @@ $visit = [
             ],
         ],
         'catch_copy' => '',
-        'visit_img' =>'.jpg',
+        'visit_img' =>'firstview.jpg',
         'content' => '見学希望の方は、お問い合わせください。',
     ],
 ];

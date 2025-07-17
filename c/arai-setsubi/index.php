@@ -666,8 +666,8 @@ id="recruitment_requirements">
 				<div>
 					<dt>応募前職場見学</dt>
 					<dd>
-						2025年〇月〇日（）〇時〇分～<br>
-						2025年〇月〇日（）〇時〇分～
+						随時開催中<br>
+						お気軽にお問い合わせください。
 					</dd>
 				</div>
 				<div>

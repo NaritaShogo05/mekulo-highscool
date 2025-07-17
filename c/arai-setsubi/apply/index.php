@@ -71,17 +71,22 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	</div>
 </div>
 <section id="visit1" class="content">
-	<p class="catchcopy"><span>TBD</span></p>
+	<p class="catchcopy"><span>設備工事ってどんな感じ？</span></p>
 	<p class="cont">
-		TBD
+		荒井設備の応募前見学では、会社や仕事内容について詳しくお伝えします。<br>
+		また、その日の現場によっては、現場に行って仕事の様子を見学することも可能です。<br>
+		「この工具なに？」「これはどうやって使うの？」<br>
+		など、気になったことはどんどん質問してください！<br>
+		みなさんとお会いできるのを楽しみにしています。
 	</p>
 	<div class="opendate">
 		<p>開催日時</p>
 		<ul>
-			<li>2025年 月  日（ ）   時  分～</li>
-			<li>2025年 月  日（ ）   時  分～</li>
+			随時開催中！<br>
+			お気軽にお問い合わせください。
 		</ul>
 	</div>
+	<!--
 	<div class="flow">
 		<p>見学の流れ</p>
 		<ul>
@@ -89,6 +94,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<li>現場見学<span>  分程度</span></li>
 		</ul>
 	</div>
+	-->
 	<p class="entry_txt">応募前見学をご希望の方は、担任の先生や、進路指導の先生にご相談ください。</p>
 </section>
 </main>

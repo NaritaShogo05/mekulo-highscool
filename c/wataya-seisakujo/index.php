@@ -65,7 +65,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 <div class="content_area">
 <main>
 <div class="fv_area">
-	<img alt="" class="fv_image" src="first_view.jpg">
+	<img alt="" class="fv_image" src="first_view.JPG">
 	<hgroup>
 		<h1 class="catch"><?= $co['catch_copy'] ?></h1>
 		<p class="fv-tag"><?= INDUSTRIES[$co['industry'][0]] ?></p>
@@ -98,13 +98,13 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	<div id="gallery">
 		<div class="gallery_window">
 			<img src="gallery01.jpg" alt="" class="fs show">
-			<img src="gallery02.jpg" alt="" class="sc">
+			<img src="gallery02.JPG" alt="" class="sc">
 			<img src="gallery03.jpg" alt="" class="th">
 			<img src="gallery04.jpg" alt="" class="fo">
 		</div>
 		<div class="gallery_index">
 			<img src="gallery01.jpg" alt="" class="fs">
-			<img src="gallery02.jpg" alt="" class="sc">
+			<img src="gallery02.JPG" alt="" class="sc">
 			<img src="gallery03.jpg" alt="" class="th">
 			<img src="gallery04.jpg" alt="" class="fo">
 		</div>
@@ -129,7 +129,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<figcaption><span class="name"><?= WRITER['sato']['name']//担当者名をここに記入 ?></span></figcaption>
 	</figure>
 	<p>
-		入社後の新人研修では、検査部門→加工部門→組立部門→ダイス部門の順で、それぞれ約2週間ずつ仕事を経験します。いろんな仕事を実際にやってみることで、会社全体の流れがよくわかるようになりますし、たくさんの先輩たちに顔を覚えてもらえるのもポイントです！<br>
+		入社後の新人研修では、検査部門→加工部門→組立部門→ダイス部門→生産管理部門の順で、それぞれ約2週間ずつ仕事を経験します。いろんな仕事を実際にやってみることで、会社全体の流れがよくわかるようになりますし、たくさんの先輩たちに顔を覚えてもらえるのもポイントです！<br>
         社員さんの中には、「最初は興味がなかった部門でも、あとでその経験が役に立った」と話してくれた人もいます。
 	</p>
 </div>
@@ -145,16 +145,16 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<img src="factry.jpg" class="scene" alt="">
 	</div>
 	<p>
-		1つ目は「組立部門」。工場で使われる機械を組み立てたり、電気の配線をしたり、正確に動くように調整したりします。特に、プラスチック製品を作るための射出成型機という機械づくりでは、日精樹脂工業株式会社の協力工場として、安定した品質で多くの実績を残しています。
+		1つ目は「組立部門」。工場で使われる機械を組み立てたり、電気の配線をしたり、正確に動くように調整したりします。特に、プラスチック製品を作るための射出成形機という機械づくりでは、日精樹脂工業株式会社の協力工場として、安定した品質で多くの実績を残しています。
 	</p>
 	<div class="images">
-		<img src="first_view.jpg" class="scene" alt="">
+		<img src="first_view.JPG" class="scene" alt="">
 	</div>
 	<p>
 		2つ目は「加工部門」。機械に使われる部品を、図面を見ながら専用の機械を使って削ったり、形を整えたりします。いろんな部品を少しずつ作る「多品種少量生産」が強みです。
 	</p>
 	<div class="images">
-		<img src="contents01.jpg" class="scene" alt="">
+		<img src="contents01.JPG" class="scene" alt="">
 	</div>
 	<h3>
 		綿谷製作所の特別な技術
@@ -180,7 +180,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
         生ゴミを土壌改良する「亜臨界水処理」や、プラスチック廃棄物を燃料に変える「油化機」の開発など、より良い未来のために環境課題に向き合っています。
 	</p>
 	 <div class="images">
-		<img src="contents04.jpg" class="scene" alt="">
+		<img src="contents04.JPG" class="scene" alt="">
 	</div>
 	<p>
 		私たちは、長い歴史と豊富な経験、確かな技術で、多くのニーズに応えるものづくりを続けています。一緒に技術を学び、未来のものづくりを支えていきましょう！
@@ -192,15 +192,15 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<li class="thumbnails">
 			<div class="thumbnail">
 				<div class="inner">
-					<img src="first_view.jpg" alt="">
+					<img src="first_view.JPG" alt="">
 				</div>
 				<hgroup>
-					<h3>射出成型機</h3>
+					<h3>射出成形機</h3>
 					<p>
 					</p>
 				</hgroup>
 			</div>
-			<p>射出成型機</p>
+			<p>射出成形機</p>
 		</li>
 		<li class="thumbnails">
 			<div class="thumbnail">
@@ -216,36 +216,20 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			</div>
 			<p>ダイス</p>
 		</li>
-		<!--
 		<li class="thumbnails">
 			<div class="thumbnail">
 				<div class="inner">
-					<img src=".jpg" alt="">
+					<img src="mashiningusenta.jpg" alt="">
 				</div>
 				<hgroup>
-					<h3>精密転造盤</h3>
+					<h3>マシニングセンター</h3>
 					<p>
 						
 					</p>
 				</hgroup>
 			</div>
-			<p>精密転造盤</p>
+			<p>マシニングセンター</p>
 		</li>
-		<li class="thumbnails">
-			<div class="thumbnail">
-				<div class="inner">
-					<img src=".jpg" alt="">
-				</div>
-				<hgroup>
-					<h3>大型転造盤</h3>
-					<p>
-						
-					</p>
-				</hgroup>
-			</div>
-			<p>大型転造盤</p>
-		</li>
-		-->
 	</ul>
 </section>
 <section class="content" id="numeric_data">
@@ -253,13 +237,13 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 	<p class="remark"></p>
 	<div class="large">
 		<p>売上高</p>
-		<p class="num"><span>5</span>億円</p>
+		<p class="num"><span>13</span>億円</p>
 		<p class="year"></p>
 	</div>
 	<ul class="gr_con">
 		<li class="small">
 			<p>平均年齢</p>
-			<p class="num"><span>43.5</span>歳</p>
+			<p class="num"><span>44</span>歳</p>
 		</li>
 		<li class="small">
 			<p>平均勤続年数</p>
@@ -280,7 +264,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		</li>
 		<li class="small">
 			<p>平均有給取得日数</p>
-			<p class="num"><span>13</span>日</p>
+			<p class="num"><span>10</span>日</p>
 		</li>
 	</ul>
 	<ul class="fl_con">
@@ -336,8 +320,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<p>通勤手段の割合</p>
 				<svg width="150" height="150" viewBox="0 0 200 200">
 					<?php create_donut_graph(100, 100, 100, 40, [
-						[ 'value' => 100, 'caption' => "TBD", 'color' => '#E06A3A'],
-						[ 'value' => 0.001, 'caption' => '', 'color' => '#D04255'],
+						[ 'value' => 95, 'caption' => "車", 'color' => '#E06A3A'],
+						[ 'value' => 5, 'caption' => '自転車', 'color' => '#D04255'],
 					]); ?>
 				</svg>
 			</div>
@@ -347,8 +331,8 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				<p>出身地の割合</p>
 					<svg width="150" height="150" viewBox="0 0 200 200">
 						<?php create_donut_graph(100, 100, 100, 40, [
-							[ 'value' => 100, 'caption' => "長野県内100%", 'color' => '#B2CF3E'],
-							[ 'value' => 0.01, 'caption' => '', 'color' => '#FEE929'],
+							[ 'value' => 95, 'caption' => "長野県内", 'color' => '#B2CF3E'],
+							[ 'value' => 5, 'caption' => '県外', 'color' => '#FEE929'],
 													]); ?>
 					</svg>
 				</div>
@@ -381,12 +365,16 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		</div>
 		<div>
 			<dt>従業員数</dt>
-			<dd>67名（男性 53名／女性 14名、役員、パート・アルバイト含む）（2024年1月1日現在）</dd>
+			<dd>67名</dd>
 		</div>
 		<div>
 			<dt>本社所在地</dt>
 			<dd>〒<?= $co['post_code']?><br><?= $co['address']?><br>
-				<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6429.370898776393!2d138.271499!3d36.319934!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601dba8d01145df9%3A0xd9233a82c24b05a3!2z5pel5pys44CB44CSMzg2LTA0MDQg6ZW36YeO55yM5LiK55Sw5biC5LiK5Li45a2Q77yR77yQ77yY77yS!5e0!3m2!1sja!2sus!4v1751279695165!5m2!1sja!2sus"allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d34342.586564590296!2d138.2422136077296!3d36.32021496359686!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601dba8d016b17cf%3A0xee8c4f7b6d7d5af2!2z57a_6LC36KO95L2c5omA!5e0!3m2!1sja!2sjp!4v1752226253687!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+			</dd>
+			<dt>転造ダイス工場所在地</dt>
+			<dd>〒386-0404<br>長野県上田市上丸子１８１２<br>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d48198.48284280219!2d138.2216181447763!3d36.33058299149448!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601dbaef8df2a9e9%3A0xae1d8db690962504!2z77yI5qCq77yJ57a_6LC36KO95L2c5omAIOi7oumAoOODgOOCpOOCueW3peWgtA!5e0!3m2!1sja!2sjp!4v1752226188429!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 			</dd>
 		</div>
 		<div>
@@ -472,7 +460,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<li>
 			<a href="<?= $company_base ?>job_denki/">
 				<figure>
-					<img src="job_denki/first_view.jpg" alt="">
+					<img src="job_denki/first_view.JPG" alt="">
 					<figcaption>電気組立</figcaption>
 				</figure>
 			</a>

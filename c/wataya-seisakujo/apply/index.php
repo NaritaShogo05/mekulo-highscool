@@ -83,8 +83,10 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 		<p>開催日時</p>
 		<ul>
 			<li>随時開催</li>
+			<li>8月21日～8月23日 東信州産業の陣</li>
 		</ul>
 	</div>
+	<!--
 	<div class="flow">
 		<p>見学の流れ</p>
 		<ul>
@@ -92,6 +94,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<li>工場見学<span>  分程度</span></li>
 		</ul>
 	</div>
+	-->
 	<p class="entry_txt">応募前見学をご希望の方は、担任の先生や、進路指導の先生にご相談ください。</p>
 </section>
 </main>

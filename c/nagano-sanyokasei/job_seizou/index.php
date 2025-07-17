@@ -245,7 +245,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 			<dl>
 				<div>
 					<dt>募集職種</dt>
-					<dd>溶接作業</dd>
+					<dd>製造職</dd>
 				</div>
 				<div>
 					<dt>雇用形態</dt>
@@ -261,7 +261,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>試用期間</dt>
-					<dd>3ヵ月</dd>
+					<dd>あり（3ヵ月）</dd>
 				</div>
 				<div>
 					<dt>試用期間中の労働条件</dt>
@@ -278,11 +278,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>受動喫煙対策</dt>
-					<dd>あり(屋内禁煙)</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>受動喫煙対策に関する特記事項</dt>
-					<dd>-</dd>
+					<dd>屋内禁煙</dd>
 				</div>
 				<div>
 					<dt>マイカー通勤</dt>
@@ -305,7 +305,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>月平均労働日数</dt>
-					<dd>21.9日</dd>
+					<dd>21.0日</dd>
 				</div>
 				<div>
 					<dt>毎月の賃金</dt>
@@ -353,18 +353,18 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>昇給</dt>
-					<dd>あり</dd>
+					<dd>あり（前年度実績3%）</dd>
 				</div>
 				<div>
 					<dt>賞与</dt>
-					<dd>年2回</dd>
+					<dd>年2回（初年度は1.5か月分、次年度から3.5か月分）</dd>
 				</div>
 			</dl>
 			<h3>労働時間</h3>
 			<dl>
 				<div>
 					<dt>就業期間</dt>
-					<dd>交代制（シフト制）<br>(1)8時10分〜17時15分<br>(2)16時00分〜0時30分<br>(3)0時15分〜8時45分</dd>
+					<dd>交代制（シフト制）<br>(1)8時30分〜17時00分<br>(2)16時00分〜0時30分<br>(3)0時15分〜8時45分</dd>
 				</div>
 				<div>
 					<dt>時間外労働</dt>
@@ -372,22 +372,22 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>休日</dt>
-					<dd>週休2日制（他）</dd>
+					<dd>日、他</dd>
 				</div>
 				<div>
 					<dt>その他休日</dt>
-					<dd>年間休日120日</dd>
+					<dd>就業カレンダーによる</dd>
 				</div>
 			</dl>
 			<h3>保険・年金・定年等</h3>
 			<dl>
 				<div>
 					<dt>加入保険等</dt>
-					<dd>厚生年金保険、健康保険、介護保険、雇用保険、労災保険、財形保険</dd>
+					<dd>厚生年金保険、健康保険、雇用保険、労災保険、財形保険</dd>
 				</div>
 				<div>
 					<dt>企業年金</dt>
-					<dd>企業年金基金</dd>
+					<dd>確定拠出年金</dd>
 				</div>
 				<div>
 					<dt>退職金制度</dt>
@@ -395,11 +395,11 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>定年制</dt>
-					<dd>あり（60歳）</dd>
+					<dd>あり</dd>
 				</div>
 				<div>
 					<dt>一律定年制</dt>
-					<dd>あり（定年年齢60歳）</dd>
+					<dd>60歳</dd>
 				</div>
 				<div>
 					<dt>再雇用制度</dt>
@@ -450,7 +450,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 				</div>
 				<div>
 					<dt>研修内容</dt>
-					<dd>なし</dd>
+					<dd>入社後の座学・現場研修<br>配属後に力量に応じた教育訓練</dd>
 				</div>
 				<div>
 					<dt>自己啓発支援の有無</dt>
@@ -528,7 +528,7 @@ $og_image = 'https://works.mekulo.jp/ogp-image.png';
 					<dt>選考担当者</dt>
 					<dd>
 						総務部<br>
-						小河原
+						小河原 良
 					</dd>
 				</div>
 			</dl>
