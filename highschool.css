@@ -606,6 +606,11 @@ li {
 	object-fit: cover;
 }
 
+.content img {
+	aspect-ratio: 3/2;
+	object-fit: cover;
+}
+
 @supports (object-fit: cover) {
 	.highschool main .fv_area .fv_image {
 		max-height: 480px;
